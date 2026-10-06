@@ -20,9 +20,41 @@ Cada semana tem o seu próprio repositório.
 
 Os repositórios das próximas semanas serão adicionados aqui ao longo do curso.
 
+## Estrutura do repositório
+
+Este repositório reúne os materiais gerais da turma, além dos repositórios de cada semana. A organização foi pensada para separar o conteúdo teórico, os materiais de apoio e os exercícios práticos.
+
+### `documentos/`
+A pasta `documentos/` reúne materiais didáticos e guias complementares para apoiar o aprendizado ao longo do curso.
+
+- `como_resolver_exercicios/`: orientações sobre a melhor forma de interpretar e resolver exercícios de programação.
+- `engenharia_de_dados/`: material sobre engenharia de dados, pipeline e fundamentos da área.
+- `estruturas_basicas/`: explicações e exemplos de conceitos básicos em Python, como variáveis, listas, dicionários, condicionais, laços e manipulação de arquivos.
+- `guia_basico_trabalhar_com_vscode/`: guia para uso inicial do Visual Studio Code.
+- `guia_de_apis/`: introdução ao uso e entendimento de APIs.
+- `install_python_git_vscode/`: instruções para instalar Python, Git, GitHub e configurar o VS Code para programação.
+- `pip_install_bibliotecas/`: orientações para instalar bibliotecas e dependências do Python.
+- `python_para_dados/`: material introdutório sobre Python aplicado a análise de dados.
+
+### `materiais_de_apoio/`
+A pasta `materiais_de_apoio/` contém arquivos complementares para reforço dos conteúdos estudados.
+
+- `datas_funcoes_regex.md`: resumo sobre datas, funções e expressões regulares em Python.
+- `git_github_vscode.md`: guia de uso do GitHub, Git e VS Code no fluxo de desenvolvimento.
+
+### `semana-XX/...`
+Cada pasta de semana concentra os conteúdos práticos do curso, com aulas, exercícios e materiais específicos da semana atual.
+
+- `semana-02-pipeline-ml/`: pipeline de machine learning, problemas, dataset, métricas, overfitting e produção.
+- `semana-03-logica-python/`: lógica e programação em Python, incluindo variáveis, operadores, condicionais e loops.
+- `semana-04-git-github-estruturas/`: Git, GitHub, VS Code e estruturas de dados.
+- `semana-05-arquivos-datas-funcoes/`: leitura e escrita de arquivos, datas, regex e funções.
+
+---
+
 ## Materiais complementares
 
-Slides, arquivos de apoio e outros materiais do curso estão na **pasta do Google Drive da turma**:
+Slides, arquivos de apoio e outros materiais do curso também podem ser encontrados na **pasta do Google Drive da turma**:
 
 [Abrir a pasta "ML T4" no Google Drive](https://drive.google.com/drive/folders/1N9Qw0RVML5Ea5bXbAd0ffmPz6zDIpUF3?hl=pt-br)
 
