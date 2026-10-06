@@ -24,7 +24,7 @@ Os repositórios das próximas semanas serão adicionados aqui ao longo do curso
 
 Este repositório reúne os materiais gerais da turma, além dos repositórios de cada semana. A organização foi pensada para separar o conteúdo teórico, os materiais de apoio e os exercícios práticos.
 
-### `documentos/`
+### [`documentos/`](https://github.com/Machine-Learning-Visao-Computacional-T4/Aulas/tree/main/documentos)
 A pasta `documentos/` reúne materiais didáticos e guias complementares para apoiar o aprendizado ao longo do curso.
 
 - `como_resolver_exercicios/`: orientações sobre a melhor forma de interpretar e resolver exercícios de programação.
