@@ -1,0 +1,9 @@
+id;produto;categoria;cidade;quantidade;preco
+1;Teclado;Periféricos;Florianópolis;3;120,0
+2;Mouse;Periféricos;Joinville;5;60,0
+3;Monitor;Vídeo;Florianópolis;2;900,0
+4;Notebook;Computadores;Blumenau;1;3500,0
+5;Mouse;Periféricos;Florianópolis;2;60,0
+6;Monitor;Vídeo;Joinville;1;900,0
+7;Teclado;Periféricos;Blumenau;4;120,0
+8;Notebook;Computadores;Joinville;2;3500,0

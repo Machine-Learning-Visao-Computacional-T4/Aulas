@@ -1,0 +1,6 @@
+id_pedido,id_cliente,produto,valor
+101,1,Teclado,120.0
+102,1,Mouse,60.0
+103,2,Monitor,900.0
+104,3,Notebook,3500.0
+105,5,Mouse,60.0
