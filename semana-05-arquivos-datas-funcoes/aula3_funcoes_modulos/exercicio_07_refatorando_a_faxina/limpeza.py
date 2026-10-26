@@ -2,26 +2,21 @@
 import re
 from datetime import datetime
 
-
 def limpar_nome(nome):
     """Tira espaços extras e padroniza a caixa (Title Case)."""
     return " ".join(nome.split()).title()
-
 
 def limpar_telefone(telefone):
     """Devolve só os dígitos do telefone."""
     return re.sub(r"\D", "", telefone)
 
-
 def telefone_valido(telefone):
     """True se o telefone (só dígitos) tem exatamente 11 dígitos."""
     return re.fullmatch(r"\d{11}", telefone) is not None
 
-
 def limpar_data(data):
     """Converte dd/mm/aaaa para AAAA-MM-DD."""
     return datetime.strptime(data, "%d/%m/%Y").strftime("%Y-%m-%d")
-
 
 if __name__ == "__main__":
     # Testes simples: rode "python limpeza.py" para conferir

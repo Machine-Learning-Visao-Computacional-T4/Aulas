@@ -7,7 +7,7 @@ print(m)
 print("shape:", m.shape, "| ndim:", m.ndim, "| size:", m.size)
 
 print("Segunda linha:", m[1])
-print("Última coluna:", m[:, -1])
+print("Última coluna:", m[:, 3])
 print("Bloco central (linhas 0 a 1, colunas 1 a 2):")
 print(m[0:2, 1:3])
 

@@ -16,4 +16,4 @@ for a, b in casos:
         resultado = np.ones(a) + np.ones(b)
         print(f"{a} + {b} -> funciona, shape {resultado.shape}")
     except ValueError:
-        print(f"{a} + {b} -> ERRO (shapes incompatíveis)")
+        print(f"{a} + {b} -> ERRO (shapes incompatíveis)") 

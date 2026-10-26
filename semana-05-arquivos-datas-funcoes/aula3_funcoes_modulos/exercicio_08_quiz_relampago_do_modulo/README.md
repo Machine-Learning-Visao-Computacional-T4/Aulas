@@ -25,7 +25,23 @@ Cobre as 3 aulas (arquivos, datas e regex, funções e módulos).
 1. `print` **mostra** na tela e devolve `None`; `return` **devolve** o valor para quem chamou a função.
 2. `"w"` **apaga** o conteúdo anterior e escreve; `"a"` **acrescenta** ao final.
 3. `strptime` converte **texto em data**; `strftime` converte **data em texto**.
-4. Casa **qualquer caractere que não seja dígito**.
+4. \D casa com qualquer caractere que não seja dígito. É o oposto de \d, que casa com um dígito (0 a 9).
+
+    Em so_digitos, o re.sub(r"\D", "", texto) troca cada caractere que não é dígito por uma string vazia, ou seja, apaga. Só os números sobram:
+
+    python
+    re.sub(r"\D", "", "(48) 99999-1234")   # '48999991234'
+
+    Parênteses, espaço e hífen não são dígitos, então saem.
+
+    O padrão das classes abreviadas é que a letra maiúscula é a negação da minúscula:
+
+    Minúscula	Casa com	Maiúscula	Casa com
+    \d	dígito	\D	não dígito
+    \s	espaço, tab, quebra de linha	\S	qualquer coisa que não seja espaço
+    \w	letra, dígito ou _	\W	o que não é letra, dígito nem _
+
+    Use o prefixo r na string (r"\D") para o Python não interpretar a barra invertida como escape.
 5. Fecha o arquivo automaticamente ao fim do bloco, mesmo se houver erro.
 6. Evita **linhas em branco extras** no Windows.
 7. `dump` grava em um **arquivo**; `dumps` devolve um **texto** JSON.

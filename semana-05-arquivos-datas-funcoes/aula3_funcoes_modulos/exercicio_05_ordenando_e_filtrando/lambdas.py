@@ -13,5 +13,5 @@ for aluno in ordenados:
     print("-", aluno["nome"], aluno["nota"])
 
 # Filtra só quem tem nota >= 7
-aprovados = list(filter(lambda aluno: aluno["nota"] >= 7, alunos))
+aprovados = list(filter(lambda aluno: aluno["nota"] >= 7, ordenados))
 print("Aprovados:", [aluno["nome"] for aluno in aprovados])
