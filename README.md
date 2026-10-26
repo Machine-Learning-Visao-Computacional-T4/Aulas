@@ -17,6 +17,8 @@ Cada semana tem o seu próprio repositório.
 | 03 | Lógica de programação com Python: variáveis, operadores, condicionais e loops | [semana-03-logica-python](https://github.com/Machine-Learning-Visao-Computacional-T4/semana-03-logica-python) |
 | 04 | Git, GitHub, Python local, VS Code e estruturas de dados | [semana-04-git-github-estruturas](https://github.com/Machine-Learning-Visao-Computacional-T4/semana-04-git-github-estruturas) |
 | 05 | Arquivos (texto, CSV, JSON), datas, regex, funções e módulos | [semana-05-arquivos-datas-funcoes](https://github.com/Machine-Learning-Visao-Computacional-T4/semana-05-arquivos-datas-funcoes) |
+| 06 | Pandas e NumPy: DataFrames, limpeza, `groupby`, `merge`, arrays e vetorização | [semana-06-pandas-numpy](https://github.com/Machine-Learning-Visao-Computacional-T4/semana-06-pandas-numpy) |
+| 07 | Transformação de dados: funções em colunas, junções, gráficos (Matplotlib e seaborn) e análise exploratória | [semana-07-transformacao-dados](https://github.com/Machine-Learning-Visao-Computacional-T4/semana-07-transformacao-dados) |
 
 Os repositórios das próximas semanas serão adicionados aqui ao longo do curso.
 
@@ -53,6 +55,12 @@ Pasta dedicada a Git, GitHub, VS Code e estruturas de dados.
 
 ### [semana-05-arquivos-datas-funcoes](semana-05-arquivos-datas-funcoes)
 Pasta com atividades sobre leitura e escrita de arquivos, datas, regex e funções.
+
+### [semana-06-pandas-numpy](semana-06-pandas-numpy)
+Pasta com exercícios de pandas (DataFrames, limpeza, `groupby`, `merge`, `pivot`) e NumPy (arrays, vetorização e broadcasting).
+
+### [semana-07-transformacao-dados](semana-07-transformacao-dados)
+Pasta com exercícios de transformação de dados (funções, condições e junções), visualização com Matplotlib e seaborn e análise exploratória (EDA), usando os dados de uma cafeteria fictícia.
 
 ---
 

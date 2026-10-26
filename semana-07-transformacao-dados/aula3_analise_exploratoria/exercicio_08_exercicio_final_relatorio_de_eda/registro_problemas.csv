@@ -1,0 +1,7 @@
+problema,quantos,decisao
+Linhas duplicadas,12,Remover com drop_duplicates()
+Quantidade inválida (< 1 ou > 10),7,Investigar com o negócio; excluir do faturamento
+Tempo de entrega acima de 120 min,3,Tratar como nulo se for código de erro
+Delivery sem tempo,6,Manter e avisar que faltam dados
+Pedidos sem cliente,128,Manter: vendas de balcão não identificadas
+Pedidos sem avaliação,116,Manter; não imputar a nota

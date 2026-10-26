@@ -1,0 +1,13 @@
+id_produto,produto,categoria,custo,preco
+1,Espresso,Café,2.0,6.0
+2,Cappuccino,Café,3.2,9.5
+3,Latte,Café,3.6,10.5
+4,Café Coado,Café,1.7,5.0
+5,Chá Gelado,Bebida Gelada,2.5,8.0
+6,Limonada,Bebida Gelada,2.2,7.0
+7,Café Gelado,Bebida Gelada,3.4,11.0
+8,Pão de Queijo,Salgado,2.3,6.5
+9,Sanduíche Natural,Salgado,5.4,15.0
+10,Coxinha,Salgado,3.1,8.5
+11,Brownie,Doce,3.1,9.0
+12,Bolo de Cenoura,Doce,4.3,12.0

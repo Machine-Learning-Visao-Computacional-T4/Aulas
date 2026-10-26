@@ -1,0 +1,688 @@
+id_pedido,data,id_cliente,id_produto,qtd,canal,avaliacao,tempo_entrega_min,mes,dia_semana,produto,categoria,custo,preco,nome,bairro,ano_cadastro,plano,total,lucro
+5000,2025-01-01,113.0,3,3,Balcão,3.0,,1,2,Latte,Café,3.6,10.5,Nelson Pereira,Coqueiros,2021.0,Gratuito,31.5,20.700000000000003
+5001,2025-01-02,152.0,11,2,App,5.0,,1,3,Brownie,Doce,3.1,9.0,Isabela Rocha,Lagoa,2021.0,Gratuito,18.0,11.8
+5002,2025-01-03,,11,1,Balcão,5.0,,1,4,Brownie,Doce,3.1,9.0,,,,,9.0,5.9
+5003,2025-01-04,160.0,4,2,App,,,1,5,Café Coado,Café,1.7,5.0,Olívia Carvalho,Centro,2024.0,Gratuito,10.0,6.6
+5004,2025-01-04,150.0,3,2,App,,,1,5,Latte,Café,3.6,10.5,Elisa Cardoso,Lagoa,2023.0,Gratuito,21.0,13.8
+5005,2025-01-04,124.0,5,1,App,5.0,,1,5,Chá Gelado,Bebida Gelada,2.5,8.0,Hugo Nunes,Agronômica,2021.0,Fidelidade,8.0,5.5
+5006,2025-01-04,132.0,11,3,App,,,1,5,Brownie,Doce,3.1,9.0,Isabela Ribeiro,Trindade,2023.0,Premium,27.0,17.700000000000003
+5007,2025-01-04,132.0,4,2,App,,,1,5,Café Coado,Café,1.7,5.0,Isabela Ribeiro,Trindade,2023.0,Premium,10.0,6.6
+5008,2025-01-04,114.0,4,3,App,5.0,,1,5,Café Coado,Café,1.7,5.0,Lucas Gomes,Estreito,2021.0,Gratuito,15.0,9.899999999999999
+5009,2025-01-05,109.0,2,2,App,3.0,,1,6,Cappuccino,Café,3.2,9.5,Wanda Mendes,Agronômica,2022.0,Fidelidade,19.0,12.6
+5010,2025-01-05,122.0,1,1,App,5.0,,1,6,Espresso,Café,2.0,6.0,Ana Moreira,Coqueiros,2024.0,Gratuito,6.0,4.0
+5011,2025-01-05,152.0,9,1,Balcão,3.0,,1,6,Sanduíche Natural,Salgado,5.4,15.0,Isabela Rocha,Lagoa,2021.0,Gratuito,15.0,9.6
+5012,2025-01-05,115.0,2,1,Delivery,4.0,18.0,1,6,Cappuccino,Café,3.2,9.5,Wanda Gomes,Trindade,2024.0,Gratuito,9.5,6.3
+5013,2025-01-05,112.0,4,1,Delivery,4.0,40.0,1,6,Café Coado,Café,1.7,5.0,Zeca Costa,Lagoa,2023.0,Fidelidade,5.0,3.3
+5014,2025-01-05,117.0,7,1,Delivery,4.0,23.0,1,6,Café Gelado,Bebida Gelada,3.4,11.0,Marina Pereira,Itacorubi,2025.0,Fidelidade,11.0,7.6
+5015,2025-01-05,101.0,2,2,App,4.0,,1,6,Cappuccino,Café,3.2,9.5,Carla Alves,Centro,2025.0,Gratuito,19.0,12.6
+5016,2025-01-06,146.0,3,2,Delivery,5.0,31.0,1,0,Latte,Café,3.6,10.5,Isabela Martins,Trindade,2024.0,Gratuito,21.0,13.8
+5017,2025-01-07,,3,3,Balcão,5.0,,1,1,Latte,Café,3.6,10.5,,,,,31.5,20.700000000000003
+5018,2025-01-07,145.0,2,1,App,5.0,,1,1,Cappuccino,Café,3.2,9.5,Lucas Pereira,Centro,2023.0,Gratuito,9.5,6.3
+5019,2025-01-08,131.0,1,1,Balcão,,,1,2,Espresso,Café,2.0,6.0,Wanda Rocha,Centro,2024.0,Fidelidade,6.0,4.0
+5020,2025-01-08,,4,2,Balcão,5.0,,1,2,Café Coado,Café,1.7,5.0,,,,,10.0,6.6
+5021,2025-01-08,148.0,11,1,Balcão,4.0,,1,2,Brownie,Doce,3.1,9.0,Lucas Moreira,Trindade,2025.0,Gratuito,9.0,5.9
+5022,2025-01-08,110.0,7,2,App,5.0,,1,2,Café Gelado,Bebida Gelada,3.4,11.0,Fábio Cardoso,Campeche,2022.0,Fidelidade,22.0,15.2
+5023,2025-01-09,,7,1,Balcão,5.0,,1,3,Café Gelado,Bebida Gelada,3.4,11.0,,,,,11.0,7.6
+5024,2025-01-10,148.0,3,2,Delivery,,40.0,1,4,Latte,Café,3.6,10.5,Lucas Moreira,Trindade,2025.0,Gratuito,21.0,13.8
+5025,2025-01-10,106.0,8,3,Balcão,,,1,4,Pão de Queijo,Salgado,2.3,6.5,Elisa Nunes,Estreito,2023.0,Premium,19.5,12.600000000000001
+5026,2025-01-10,,6,1,Balcão,5.0,,1,4,Limonada,Bebida Gelada,2.2,7.0,,,,,7.0,4.8
+5027,2025-01-10,125.0,5,3,App,,,1,4,Chá Gelado,Bebida Gelada,2.5,8.0,Diego Rocha,Trindade,2025.0,Premium,24.0,16.5
+5028,2025-01-10,111.0,2,1,App,5.0,,1,4,Cappuccino,Café,3.2,9.5,Sandra Ribeiro,Lagoa,2023.0,Gratuito,9.5,6.3
+5029,2025-01-11,159.0,10,2,App,,,1,5,Coxinha,Salgado,3.1,8.5,Bruno Alves,Trindade,2023.0,Gratuito,17.0,10.8
+5030,2025-01-11,152.0,11,3,Balcão,3.0,,1,5,Brownie,Doce,3.1,9.0,Isabela Rocha,Lagoa,2021.0,Gratuito,27.0,17.700000000000003
+5031,2025-01-11,,3,1,Balcão,4.0,,1,5,Latte,Café,3.6,10.5,,,,,10.5,6.9
+5032,2025-01-11,,2,1,Balcão,4.0,,1,5,Cappuccino,Café,3.2,9.5,,,,,9.5,6.3
+5033,2025-01-11,144.0,4,1,App,,,1,5,Café Coado,Café,1.7,5.0,João Carvalho,Lagoa,2024.0,Premium,5.0,3.3
+5034,2025-01-11,148.0,11,1,App,4.0,,1,5,Brownie,Doce,3.1,9.0,Lucas Moreira,Trindade,2025.0,Gratuito,9.0,5.9
+5035,2025-01-11,125.0,4,2,Delivery,5.0,32.0,1,5,Café Coado,Café,1.7,5.0,Diego Rocha,Trindade,2025.0,Premium,10.0,6.6
+5036,2025-01-11,,2,2,Balcão,3.0,,1,5,Cappuccino,Café,3.2,9.5,,,,,19.0,12.6
+5037,2025-01-12,132.0,2,1,App,4.0,,1,6,Cappuccino,Café,3.2,9.5,Isabela Ribeiro,Trindade,2023.0,Premium,9.5,6.3
+5038,2025-01-12,105.0,2,2,Delivery,4.0,,1,6,Cappuccino,Café,3.2,9.5,Úrsula Teixeira,Coqueiros,2022.0,Gratuito,19.0,12.6
+5039,2025-01-12,141.0,4,1,App,,,1,6,Café Coado,Café,1.7,5.0,Bruno Martins,Itacorubi,2023.0,Fidelidade,5.0,3.3
+5040,2025-01-12,,3,1,Balcão,5.0,,1,6,Latte,Café,3.6,10.5,,,,,10.5,6.9
+5041,2025-01-12,141.0,4,1,App,5.0,,1,6,Café Coado,Café,1.7,5.0,Bruno Martins,Itacorubi,2023.0,Fidelidade,5.0,3.3
+5042,2025-01-13,159.0,4,1,App,,,1,0,Café Coado,Café,1.7,5.0,Bruno Alves,Trindade,2023.0,Gratuito,5.0,3.3
+5043,2025-01-13,101.0,3,3,Delivery,5.0,31.0,1,0,Latte,Café,3.6,10.5,Carla Alves,Centro,2025.0,Gratuito,31.5,20.700000000000003
+5044,2025-01-13,139.0,2,1,App,5.0,,1,0,Cappuccino,Café,3.2,9.5,Fábio Nunes,Estreito,2023.0,Fidelidade,9.5,6.3
+5045,2025-01-13,,2,2,Balcão,5.0,,1,0,Cappuccino,Café,3.2,9.5,,,,,19.0,12.6
+5046,2025-01-13,,4,1,Balcão,5.0,,1,0,Café Coado,Café,1.7,5.0,,,,,5.0,3.3
+5047,2025-01-14,157.0,4,2,Delivery,4.0,58.0,1,1,Café Coado,Café,1.7,5.0,Paulo Martins,Coqueiros,2025.0,Fidelidade,10.0,6.6
+5048,2025-01-14,149.0,4,2,App,5.0,,1,1,Café Coado,Café,1.7,5.0,João Rocha,Agronômica,2022.0,Gratuito,10.0,6.6
+5048,2025-01-14,149.0,4,2,App,5.0,,1,1,Café Coado,Café,1.7,5.0,João Rocha,Agronômica,2022.0,Gratuito,10.0,6.6
+5049,2025-01-15,157.0,1,1,Balcão,5.0,,1,2,Espresso,Café,2.0,6.0,Paulo Martins,Coqueiros,2025.0,Fidelidade,6.0,4.0
+5050,2025-01-16,114.0,4,1,Balcão,4.0,,1,3,Café Coado,Café,1.7,5.0,Lucas Gomes,Estreito,2021.0,Gratuito,5.0,3.3
+5051,2025-01-17,141.0,4,2,App,3.0,,1,4,Café Coado,Café,1.7,5.0,Bruno Martins,Itacorubi,2023.0,Fidelidade,10.0,6.6
+5052,2025-01-17,153.0,4,1,Delivery,4.0,41.0,1,4,Café Coado,Café,1.7,5.0,Rafael Moreira,Agronômica,2024.0,Gratuito,5.0,3.3
+5053,2025-01-17,131.0,2,2,App,4.0,,1,4,Cappuccino,Café,3.2,9.5,Wanda Rocha,Centro,2024.0,Fidelidade,19.0,12.6
+5054,2025-01-18,132.0,4,3,App,3.0,,1,5,Café Coado,Café,1.7,5.0,Isabela Ribeiro,Trindade,2023.0,Premium,15.0,9.899999999999999
+5055,2025-01-18,111.0,9,1,Balcão,,,1,5,Sanduíche Natural,Salgado,5.4,15.0,Sandra Ribeiro,Lagoa,2023.0,Gratuito,15.0,9.6
+5056,2025-01-18,120.0,2,1,Delivery,4.0,35.0,1,5,Cappuccino,Café,3.2,9.5,Wanda Nunes,Campeche,2023.0,Premium,9.5,6.3
+5057,2025-01-18,,5,2,Balcão,4.0,,1,5,Chá Gelado,Bebida Gelada,2.5,8.0,,,,,16.0,11.0
+5058,2025-01-18,104.0,11,1,App,5.0,,1,5,Brownie,Doce,3.1,9.0,Marina Cardoso,Centro,2022.0,Gratuito,9.0,5.9
+5058,2025-01-18,104.0,11,1,App,5.0,,1,5,Brownie,Doce,3.1,9.0,Marina Cardoso,Centro,2022.0,Gratuito,9.0,5.9
+5059,2025-01-19,,10,1,Balcão,5.0,,1,6,Coxinha,Salgado,3.1,8.5,,,,,8.5,5.4
+5060,2025-01-19,108.0,4,2,App,4.0,,1,6,Café Coado,Café,1.7,5.0,João Barbosa,Estreito,2021.0,Gratuito,10.0,6.6
+5061,2025-01-19,110.0,2,1,Delivery,4.0,,1,6,Cappuccino,Café,3.2,9.5,Fábio Cardoso,Campeche,2022.0,Fidelidade,9.5,6.3
+5062,2025-01-19,137.0,4,1,App,4.0,,1,6,Café Coado,Café,1.7,5.0,Úrsula Nunes,Lagoa,2025.0,Gratuito,5.0,3.3
+5063,2025-01-19,156.0,2,2,App,,,1,6,Cappuccino,Café,3.2,9.5,Úrsula Moreira,Lagoa,2021.0,Gratuito,19.0,12.6
+5064,2025-01-19,,3,1,Balcão,5.0,,1,6,Latte,Café,3.6,10.5,,,,,10.5,6.9
+5065,2025-01-19,126.0,3,2,Balcão,4.0,,1,6,Latte,Café,3.6,10.5,Fábio Rocha,Campeche,2025.0,Gratuito,21.0,13.8
+5066,2025-01-19,124.0,12,1,App,5.0,,1,6,Bolo de Cenoura,Doce,4.3,12.0,Hugo Nunes,Agronômica,2021.0,Fidelidade,12.0,7.7
+5067,2025-01-19,150.0,6,2,Balcão,4.0,,1,6,Limonada,Bebida Gelada,2.2,7.0,Elisa Cardoso,Lagoa,2023.0,Gratuito,14.0,9.6
+5068,2025-01-19,,3,1,Balcão,,,1,6,Latte,Café,3.6,10.5,,,,,10.5,6.9
+5069,2025-01-20,152.0,2,1,Balcão,4.0,,1,0,Cappuccino,Café,3.2,9.5,Isabela Rocha,Lagoa,2021.0,Gratuito,9.5,6.3
+5070,2025-01-20,116.0,4,1,Balcão,3.0,,1,0,Café Coado,Café,1.7,5.0,Elisa Barbosa,Itacorubi,2022.0,Fidelidade,5.0,3.3
+5071,2025-01-20,158.0,3,2,App,4.0,,1,0,Latte,Café,3.6,10.5,Ana Alves,Trindade,2022.0,Fidelidade,21.0,13.8
+5072,2025-01-20,114.0,8,2,Delivery,4.0,44.0,1,0,Pão de Queijo,Salgado,2.3,6.5,Lucas Gomes,Estreito,2021.0,Gratuito,13.0,8.4
+5073,2025-01-21,158.0,2,2,Delivery,,37.0,1,1,Cappuccino,Café,3.2,9.5,Ana Alves,Trindade,2022.0,Fidelidade,19.0,12.6
+5074,2025-01-21,136.0,9,1,Delivery,4.0,31.0,1,1,Sanduíche Natural,Salgado,5.4,15.0,Vitor Ribeiro,Trindade,2023.0,Premium,15.0,9.6
+5075,2025-01-21,,4,2,Balcão,4.0,,1,1,Café Coado,Café,1.7,5.0,,,,,10.0,6.6
+5076,2025-01-21,127.0,3,3,App,,,1,1,Latte,Café,3.6,10.5,Karina Nunes,Campeche,2021.0,Gratuito,31.5,20.700000000000003
+5077,2025-01-21,134.0,4,1,Delivery,4.0,40.0,1,1,Café Coado,Café,1.7,5.0,Marina Costa,Agronômica,2024.0,Gratuito,5.0,3.3
+5078,2025-01-23,146.0,5,2,Delivery,,,1,3,Chá Gelado,Bebida Gelada,2.5,8.0,Isabela Martins,Trindade,2024.0,Gratuito,16.0,11.0
+5079,2025-01-23,150.0,2,1,App,4.0,,1,3,Cappuccino,Café,3.2,9.5,Elisa Cardoso,Lagoa,2023.0,Gratuito,9.5,6.3
+5080,2025-01-23,115.0,10,2,App,3.0,,1,3,Coxinha,Salgado,3.1,8.5,Wanda Gomes,Trindade,2024.0,Gratuito,17.0,10.8
+5081,2025-01-24,157.0,4,1,Delivery,4.0,22.0,1,4,Café Coado,Café,1.7,5.0,Paulo Martins,Coqueiros,2025.0,Fidelidade,5.0,3.3
+5082,2025-01-24,124.0,11,3,App,5.0,,1,4,Brownie,Doce,3.1,9.0,Hugo Nunes,Agronômica,2021.0,Fidelidade,27.0,17.700000000000003
+5083,2025-01-24,132.0,2,1,App,5.0,,1,4,Cappuccino,Café,3.2,9.5,Isabela Ribeiro,Trindade,2023.0,Premium,9.5,6.3
+5084,2025-01-24,145.0,2,1,Balcão,5.0,,1,4,Cappuccino,Café,3.2,9.5,Lucas Pereira,Centro,2023.0,Gratuito,9.5,6.3
+5085,2025-01-24,145.0,2,1,Delivery,3.0,33.0,1,4,Cappuccino,Café,3.2,9.5,Lucas Pereira,Centro,2023.0,Gratuito,9.5,6.3
+5086,2025-01-24,102.0,4,3,Balcão,4.0,,1,4,Café Coado,Café,1.7,5.0,Karina Pereira,Estreito,2024.0,Gratuito,15.0,9.899999999999999
+5087,2025-01-25,153.0,9,2,App,5.0,,1,5,Sanduíche Natural,Salgado,5.4,15.0,Rafael Moreira,Agronômica,2024.0,Gratuito,30.0,19.2
+5088,2025-01-25,158.0,2,1,Balcão,,,1,5,Cappuccino,Café,3.2,9.5,Ana Alves,Trindade,2022.0,Fidelidade,9.5,6.3
+5089,2025-01-25,157.0,5,1,App,5.0,,1,5,Chá Gelado,Bebida Gelada,2.5,8.0,Paulo Martins,Coqueiros,2025.0,Fidelidade,8.0,5.5
+5090,2025-01-25,140.0,10,2,Balcão,5.0,,1,5,Coxinha,Salgado,3.1,8.5,Sandra Souza,Agronômica,2023.0,Fidelidade,17.0,10.8
+5091,2025-01-25,152.0,2,1,Balcão,5.0,,1,5,Cappuccino,Café,3.2,9.5,Isabela Rocha,Lagoa,2021.0,Gratuito,9.5,6.3
+5092,2025-01-25,144.0,6,3,App,5.0,,1,5,Limonada,Bebida Gelada,2.2,7.0,João Carvalho,Lagoa,2024.0,Premium,21.0,14.399999999999999
+5093,2025-01-25,104.0,4,-1,Balcão,5.0,,1,5,Café Coado,Café,1.7,5.0,Marina Cardoso,Centro,2022.0,Gratuito,-5.0,-3.3
+5094,2025-01-25,157.0,9,1,App,3.0,,1,5,Sanduíche Natural,Salgado,5.4,15.0,Paulo Martins,Coqueiros,2025.0,Fidelidade,15.0,9.6
+5095,2025-01-25,160.0,1,1,App,4.0,,1,5,Espresso,Café,2.0,6.0,Olívia Carvalho,Centro,2024.0,Gratuito,6.0,4.0
+5096,2025-01-25,158.0,4,1,Delivery,4.0,44.0,1,5,Café Coado,Café,1.7,5.0,Ana Alves,Trindade,2022.0,Fidelidade,5.0,3.3
+5097,2025-01-26,,2,1,Balcão,4.0,,1,6,Cappuccino,Café,3.2,9.5,,,,,9.5,6.3
+5098,2025-01-26,157.0,1,1,App,,,1,6,Espresso,Café,2.0,6.0,Paulo Martins,Coqueiros,2025.0,Fidelidade,6.0,4.0
+5099,2025-01-27,136.0,4,3,Delivery,5.0,32.0,1,0,Café Coado,Café,1.7,5.0,Vitor Ribeiro,Trindade,2023.0,Premium,15.0,9.899999999999999
+5100,2025-01-27,145.0,1,1,App,5.0,,1,0,Espresso,Café,2.0,6.0,Lucas Pereira,Centro,2023.0,Gratuito,6.0,4.0
+5101,2025-01-28,156.0,3,2,Delivery,5.0,26.0,1,1,Latte,Café,3.6,10.5,Úrsula Moreira,Lagoa,2021.0,Gratuito,21.0,13.8
+5102,2025-01-28,,2,2,Balcão,,,1,1,Cappuccino,Café,3.2,9.5,,,,,19.0,12.6
+5103,2025-01-28,130.0,12,1,App,,,1,1,Bolo de Cenoura,Doce,4.3,12.0,Rafael Ribeiro,Trindade,2023.0,Gratuito,12.0,7.7
+5104,2025-01-28,102.0,2,1,Balcão,4.0,,1,1,Cappuccino,Café,3.2,9.5,Karina Pereira,Estreito,2024.0,Gratuito,9.5,6.3
+5105,2025-01-29,154.0,2,1,Balcão,4.0,,1,2,Cappuccino,Café,3.2,9.5,Xavier Rocha,Estreito,2025.0,Premium,9.5,6.3
+5106,2025-01-30,114.0,10,3,App,4.0,,1,3,Coxinha,Salgado,3.1,8.5,Lucas Gomes,Estreito,2021.0,Gratuito,25.5,16.200000000000003
+5107,2025-01-30,142.0,7,3,Balcão,3.0,,1,3,Café Gelado,Bebida Gelada,3.4,11.0,Hugo Pereira,Agronômica,2025.0,Gratuito,33.0,22.799999999999997
+5108,2025-01-30,101.0,2,1,Balcão,4.0,,1,3,Cappuccino,Café,3.2,9.5,Carla Alves,Centro,2025.0,Gratuito,9.5,6.3
+5109,2025-01-30,,2,1,Balcão,5.0,,1,3,Cappuccino,Café,3.2,9.5,,,,,9.5,6.3
+5110,2025-01-30,105.0,2,1,App,4.0,,1,3,Cappuccino,Café,3.2,9.5,Úrsula Teixeira,Coqueiros,2022.0,Gratuito,9.5,6.3
+5111,2025-01-31,158.0,5,1,App,5.0,,1,4,Chá Gelado,Bebida Gelada,2.5,8.0,Ana Alves,Trindade,2022.0,Fidelidade,8.0,5.5
+5112,2025-01-31,147.0,6,1,Balcão,4.0,,1,4,Limonada,Bebida Gelada,2.2,7.0,Elisa Carvalho,Agronômica,2021.0,Premium,7.0,4.8
+5113,2025-01-31,136.0,11,1,App,5.0,,1,4,Brownie,Doce,3.1,9.0,Vitor Ribeiro,Trindade,2023.0,Premium,9.0,5.9
+5114,2025-01-31,149.0,9,1,Delivery,,29.0,1,4,Sanduíche Natural,Salgado,5.4,15.0,João Rocha,Agronômica,2022.0,Gratuito,15.0,9.6
+5115,2025-01-31,109.0,2,1,App,,,1,4,Cappuccino,Café,3.2,9.5,Wanda Mendes,Agronômica,2022.0,Fidelidade,9.5,6.3
+5116,2025-02-01,116.0,9,1,App,,,2,5,Sanduíche Natural,Salgado,5.4,15.0,Elisa Barbosa,Itacorubi,2022.0,Fidelidade,15.0,9.6
+5117,2025-02-01,,2,1,Balcão,5.0,,2,5,Cappuccino,Café,3.2,9.5,,,,,9.5,6.3
+5118,2025-02-01,126.0,7,1,Delivery,4.0,36.0,2,5,Café Gelado,Bebida Gelada,3.4,11.0,Fábio Rocha,Campeche,2025.0,Gratuito,11.0,7.6
+5119,2025-02-02,152.0,3,1,App,5.0,,2,6,Latte,Café,3.6,10.5,Isabela Rocha,Lagoa,2021.0,Gratuito,10.5,6.9
+5120,2025-02-02,137.0,9,1,Balcão,5.0,,2,6,Sanduíche Natural,Salgado,5.4,15.0,Úrsula Nunes,Lagoa,2025.0,Gratuito,15.0,9.6
+5121,2025-02-02,151.0,1,2,Balcão,,,2,6,Espresso,Café,2.0,6.0,Rafael Nunes,Trindade,2021.0,Fidelidade,12.0,8.0
+5122,2025-02-03,119.0,2,1,Delivery,4.0,29.0,2,0,Cappuccino,Café,3.2,9.5,Fábio Ribeiro,Campeche,2022.0,Gratuito,9.5,6.3
+5123,2025-02-03,152.0,8,2,Balcão,4.0,,2,0,Pão de Queijo,Salgado,2.3,6.5,Isabela Rocha,Lagoa,2021.0,Gratuito,13.0,8.4
+5124,2025-02-03,,4,1,Balcão,,,2,0,Café Coado,Café,1.7,5.0,,,,,5.0,3.3
+5125,2025-02-04,111.0,3,4,Balcão,4.0,,2,1,Latte,Café,3.6,10.5,Sandra Ribeiro,Lagoa,2023.0,Gratuito,42.0,27.6
+5126,2025-02-05,140.0,6,2,Balcão,5.0,,2,2,Limonada,Bebida Gelada,2.2,7.0,Sandra Souza,Agronômica,2023.0,Fidelidade,14.0,9.6
+5127,2025-02-05,114.0,1,4,Balcão,5.0,,2,2,Espresso,Café,2.0,6.0,Lucas Gomes,Estreito,2021.0,Gratuito,24.0,16.0
+5128,2025-02-05,127.0,6,2,Balcão,5.0,,2,2,Limonada,Bebida Gelada,2.2,7.0,Karina Nunes,Campeche,2021.0,Gratuito,14.0,9.6
+5129,2025-02-05,128.0,11,2,App,,,2,2,Brownie,Doce,3.1,9.0,Karina Ribeiro,Coqueiros,2021.0,Gratuito,18.0,11.8
+5130,2025-02-05,137.0,6,2,Balcão,4.0,,2,2,Limonada,Bebida Gelada,2.2,7.0,Úrsula Nunes,Lagoa,2025.0,Gratuito,14.0,9.6
+5131,2025-02-06,108.0,8,1,Balcão,5.0,,2,3,Pão de Queijo,Salgado,2.3,6.5,João Barbosa,Estreito,2021.0,Gratuito,6.5,4.2
+5132,2025-02-07,155.0,5,1,App,4.0,,2,4,Chá Gelado,Bebida Gelada,2.5,8.0,Yara Souza,Centro,2024.0,Gratuito,8.0,5.5
+5133,2025-02-07,,1,1,Balcão,,,2,4,Espresso,Café,2.0,6.0,,,,,6.0,4.0
+5134,2025-02-08,134.0,8,2,Balcão,4.0,,2,5,Pão de Queijo,Salgado,2.3,6.5,Marina Costa,Agronômica,2024.0,Gratuito,13.0,8.4
+5135,2025-02-08,134.0,12,1,Balcão,3.0,,2,5,Bolo de Cenoura,Doce,4.3,12.0,Marina Costa,Agronômica,2024.0,Gratuito,12.0,7.7
+5136,2025-02-08,138.0,11,1,Delivery,4.0,23.0,2,5,Brownie,Doce,3.1,9.0,Zeca Alves,Agronômica,2022.0,Fidelidade,9.0,5.9
+5137,2025-02-08,121.0,9,1,Balcão,3.0,,2,5,Sanduíche Natural,Salgado,5.4,15.0,Zeca Nunes,Lagoa,2022.0,Fidelidade,15.0,9.6
+5138,2025-02-08,135.0,8,1,App,5.0,,2,5,Pão de Queijo,Salgado,2.3,6.5,Sandra Teixeira,Itacorubi,2022.0,Premium,6.5,4.2
+5139,2025-02-08,156.0,2,1,App,,,2,5,Cappuccino,Café,3.2,9.5,Úrsula Moreira,Lagoa,2021.0,Gratuito,9.5,6.3
+5140,2025-02-09,107.0,2,1,Balcão,5.0,,2,6,Cappuccino,Café,3.2,9.5,Marina Ribeiro,Coqueiros,2022.0,Gratuito,9.5,6.3
+5141,2025-02-09,122.0,11,1,App,4.0,,2,6,Brownie,Doce,3.1,9.0,Ana Moreira,Coqueiros,2024.0,Gratuito,9.0,5.9
+5142,2025-02-09,139.0,6,1,Balcão,5.0,,2,6,Limonada,Bebida Gelada,2.2,7.0,Fábio Nunes,Estreito,2023.0,Fidelidade,7.0,4.8
+5143,2025-02-09,,7,3,Balcão,4.0,,2,6,Café Gelado,Bebida Gelada,3.4,11.0,,,,,33.0,22.799999999999997
+5144,2025-02-09,134.0,6,4,Delivery,5.0,40.0,2,6,Limonada,Bebida Gelada,2.2,7.0,Marina Costa,Agronômica,2024.0,Gratuito,28.0,19.2
+5145,2025-02-09,116.0,5,1,App,4.0,,2,6,Chá Gelado,Bebida Gelada,2.5,8.0,Elisa Barbosa,Itacorubi,2022.0,Fidelidade,8.0,5.5
+5146,2025-02-09,148.0,6,2,Delivery,,42.0,2,6,Limonada,Bebida Gelada,2.2,7.0,Lucas Moreira,Trindade,2025.0,Gratuito,14.0,9.6
+5147,2025-02-10,,2,1,Balcão,3.0,,2,0,Cappuccino,Café,3.2,9.5,,,,,9.5,6.3
+5148,2025-02-10,127.0,4,2,App,4.0,,2,0,Café Coado,Café,1.7,5.0,Karina Nunes,Campeche,2021.0,Gratuito,10.0,6.6
+5149,2025-02-10,129.0,11,1,Balcão,4.0,,2,0,Brownie,Doce,3.1,9.0,Rafael Mendes,Lagoa,2021.0,Fidelidade,9.0,5.9
+5150,2025-02-10,140.0,3,1,Balcão,3.0,,2,0,Latte,Café,3.6,10.5,Sandra Souza,Agronômica,2023.0,Fidelidade,10.5,6.9
+5151,2025-02-10,122.0,4,2,App,,,2,0,Café Coado,Café,1.7,5.0,Ana Moreira,Coqueiros,2024.0,Gratuito,10.0,6.6
+5152,2025-02-10,,1,1,Balcão,4.0,,2,0,Espresso,Café,2.0,6.0,,,,,6.0,4.0
+5153,2025-02-11,155.0,9,1,App,,,2,1,Sanduíche Natural,Salgado,5.4,15.0,Yara Souza,Centro,2024.0,Gratuito,15.0,9.6
+5154,2025-02-11,104.0,10,2,App,4.0,,2,1,Coxinha,Salgado,3.1,8.5,Marina Cardoso,Centro,2022.0,Gratuito,17.0,10.8
+5155,2025-02-12,148.0,3,2,Delivery,4.0,53.0,2,2,Latte,Café,3.6,10.5,Lucas Moreira,Trindade,2025.0,Gratuito,21.0,13.8
+5156,2025-02-13,160.0,6,1,Balcão,5.0,,2,3,Limonada,Bebida Gelada,2.2,7.0,Olívia Carvalho,Centro,2024.0,Gratuito,7.0,4.8
+5157,2025-02-13,131.0,3,4,App,4.0,,2,3,Latte,Café,3.6,10.5,Wanda Rocha,Centro,2024.0,Fidelidade,42.0,27.6
+5158,2025-02-13,157.0,11,40,Balcão,4.0,,2,3,Brownie,Doce,3.1,9.0,Paulo Martins,Coqueiros,2025.0,Fidelidade,360.0,236.0
+5159,2025-02-13,159.0,2,1,Delivery,4.0,21.0,2,3,Cappuccino,Café,3.2,9.5,Bruno Alves,Trindade,2023.0,Gratuito,9.5,6.3
+5160,2025-02-13,108.0,5,1,Balcão,,,2,3,Chá Gelado,Bebida Gelada,2.5,8.0,João Barbosa,Estreito,2021.0,Gratuito,8.0,5.5
+5161,2025-02-14,119.0,4,1,App,4.0,,2,4,Café Coado,Café,1.7,5.0,Fábio Ribeiro,Campeche,2022.0,Gratuito,5.0,3.3
+5162,2025-02-14,160.0,12,3,Balcão,,,2,4,Bolo de Cenoura,Doce,4.3,12.0,Olívia Carvalho,Centro,2024.0,Gratuito,36.0,23.1
+5163,2025-02-14,101.0,2,1,App,4.0,,2,4,Cappuccino,Café,3.2,9.5,Carla Alves,Centro,2025.0,Gratuito,9.5,6.3
+5164,2025-02-14,134.0,11,1,App,5.0,,2,4,Brownie,Doce,3.1,9.0,Marina Costa,Agronômica,2024.0,Gratuito,9.0,5.9
+5165,2025-02-14,160.0,4,1,App,4.0,,2,4,Café Coado,Café,1.7,5.0,Olívia Carvalho,Centro,2024.0,Gratuito,5.0,3.3
+5166,2025-02-15,,12,1,Balcão,4.0,,2,5,Bolo de Cenoura,Doce,4.3,12.0,,,,,12.0,7.7
+5167,2025-02-15,120.0,1,1,Delivery,4.0,22.0,2,5,Espresso,Café,2.0,6.0,Wanda Nunes,Campeche,2023.0,Premium,6.0,4.0
+5168,2025-02-15,,4,1,Balcão,4.0,,2,5,Café Coado,Café,1.7,5.0,,,,,5.0,3.3
+5169,2025-02-15,111.0,2,3,Balcão,4.0,,2,5,Cappuccino,Café,3.2,9.5,Sandra Ribeiro,Lagoa,2023.0,Gratuito,28.5,18.9
+5170,2025-02-16,142.0,4,1,App,5.0,,2,6,Café Coado,Café,1.7,5.0,Hugo Pereira,Agronômica,2025.0,Gratuito,5.0,3.3
+5170,2025-02-16,142.0,4,1,App,5.0,,2,6,Café Coado,Café,1.7,5.0,Hugo Pereira,Agronômica,2025.0,Gratuito,5.0,3.3
+5171,2025-02-16,120.0,6,4,App,4.0,,2,6,Limonada,Bebida Gelada,2.2,7.0,Wanda Nunes,Campeche,2023.0,Premium,28.0,19.2
+5172,2025-02-16,121.0,3,2,Delivery,5.0,16.0,2,6,Latte,Café,3.6,10.5,Zeca Nunes,Lagoa,2022.0,Fidelidade,21.0,13.8
+5173,2025-02-16,136.0,1,2,Balcão,4.0,,2,6,Espresso,Café,2.0,6.0,Vitor Ribeiro,Trindade,2023.0,Premium,12.0,8.0
+5174,2025-02-16,120.0,9,1,Balcão,4.0,,2,6,Sanduíche Natural,Salgado,5.4,15.0,Wanda Nunes,Campeche,2023.0,Premium,15.0,9.6
+5175,2025-02-16,134.0,3,2,App,4.0,,2,6,Latte,Café,3.6,10.5,Marina Costa,Agronômica,2024.0,Gratuito,21.0,13.8
+5176,2025-02-16,141.0,5,1,Delivery,4.0,28.0,2,6,Chá Gelado,Bebida Gelada,2.5,8.0,Bruno Martins,Itacorubi,2023.0,Fidelidade,8.0,5.5
+5177,2025-02-16,137.0,7,3,Delivery,5.0,,2,6,Café Gelado,Bebida Gelada,3.4,11.0,Úrsula Nunes,Lagoa,2025.0,Gratuito,33.0,22.799999999999997
+5178,2025-02-16,115.0,2,1,App,4.0,,2,6,Cappuccino,Café,3.2,9.5,Wanda Gomes,Trindade,2024.0,Gratuito,9.5,6.3
+5179,2025-02-16,107.0,6,1,App,,,2,6,Limonada,Bebida Gelada,2.2,7.0,Marina Ribeiro,Coqueiros,2022.0,Gratuito,7.0,4.8
+5180,2025-02-16,120.0,8,2,Delivery,,,2,6,Pão de Queijo,Salgado,2.3,6.5,Wanda Nunes,Campeche,2023.0,Premium,13.0,8.4
+5181,2025-02-17,132.0,10,1,Balcão,4.0,,2,0,Coxinha,Salgado,3.1,8.5,Isabela Ribeiro,Trindade,2023.0,Premium,8.5,5.4
+5182,2025-02-17,110.0,1,1,App,5.0,,2,0,Espresso,Café,2.0,6.0,Fábio Cardoso,Campeche,2022.0,Fidelidade,6.0,4.0
+5183,2025-02-17,106.0,3,1,Balcão,4.0,,2,0,Latte,Café,3.6,10.5,Elisa Nunes,Estreito,2023.0,Premium,10.5,6.9
+5184,2025-02-18,154.0,1,3,Delivery,5.0,34.0,2,1,Espresso,Café,2.0,6.0,Xavier Rocha,Estreito,2025.0,Premium,18.0,12.0
+5185,2025-02-18,147.0,8,1,Balcão,4.0,,2,1,Pão de Queijo,Salgado,2.3,6.5,Elisa Carvalho,Agronômica,2021.0,Premium,6.5,4.2
+5185,2025-02-18,147.0,8,1,Balcão,4.0,,2,1,Pão de Queijo,Salgado,2.3,6.5,Elisa Carvalho,Agronômica,2021.0,Premium,6.5,4.2
+5186,2025-02-19,,11,1,Balcão,4.0,,2,2,Brownie,Doce,3.1,9.0,,,,,9.0,5.9
+5187,2025-02-19,111.0,10,3,Delivery,5.0,40.0,2,2,Coxinha,Salgado,3.1,8.5,Sandra Ribeiro,Lagoa,2023.0,Gratuito,25.5,16.200000000000003
+5188,2025-02-20,,2,1,Balcão,3.0,,2,3,Cappuccino,Café,3.2,9.5,,,,,9.5,6.3
+5189,2025-02-20,141.0,9,1,Delivery,4.0,28.0,2,3,Sanduíche Natural,Salgado,5.4,15.0,Bruno Martins,Itacorubi,2023.0,Fidelidade,15.0,9.6
+5190,2025-02-20,156.0,1,1,Delivery,4.0,42.0,2,3,Espresso,Café,2.0,6.0,Úrsula Moreira,Lagoa,2021.0,Gratuito,6.0,4.0
+5191,2025-02-20,,2,1,Balcão,,,2,3,Cappuccino,Café,3.2,9.5,,,,,9.5,6.3
+5192,2025-02-21,,8,3,Balcão,,,2,4,Pão de Queijo,Salgado,2.3,6.5,,,,,19.5,12.600000000000001
+5193,2025-02-21,135.0,2,1,App,4.0,,2,4,Cappuccino,Café,3.2,9.5,Sandra Teixeira,Itacorubi,2022.0,Premium,9.5,6.3
+5194,2025-02-21,142.0,8,1,Delivery,4.0,24.0,2,4,Pão de Queijo,Salgado,2.3,6.5,Hugo Pereira,Agronômica,2025.0,Gratuito,6.5,4.2
+5195,2025-02-21,126.0,1,1,App,3.0,,2,4,Espresso,Café,2.0,6.0,Fábio Rocha,Campeche,2025.0,Gratuito,6.0,4.0
+5196,2025-02-21,,7,1,Balcão,4.0,,2,4,Café Gelado,Bebida Gelada,3.4,11.0,,,,,11.0,7.6
+5197,2025-02-21,155.0,1,1,App,5.0,,2,4,Espresso,Café,2.0,6.0,Yara Souza,Centro,2024.0,Gratuito,6.0,4.0
+5198,2025-02-21,101.0,8,2,Delivery,,42.0,2,4,Pão de Queijo,Salgado,2.3,6.5,Carla Alves,Centro,2025.0,Gratuito,13.0,8.4
+5199,2025-02-21,103.0,2,1,App,,,2,4,Cappuccino,Café,3.2,9.5,João Lima,Coqueiros,2024.0,Fidelidade,9.5,6.3
+5200,2025-02-21,143.0,5,1,Balcão,4.0,,2,4,Chá Gelado,Bebida Gelada,2.5,8.0,Diego Carvalho,Estreito,2022.0,Gratuito,8.0,5.5
+5200,2025-02-21,143.0,5,1,Balcão,4.0,,2,4,Chá Gelado,Bebida Gelada,2.5,8.0,Diego Carvalho,Estreito,2022.0,Gratuito,8.0,5.5
+5201,2025-02-23,105.0,6,2,App,,,2,6,Limonada,Bebida Gelada,2.2,7.0,Úrsula Teixeira,Coqueiros,2022.0,Gratuito,14.0,9.6
+5202,2025-02-23,,11,2,Balcão,5.0,,2,6,Brownie,Doce,3.1,9.0,,,,,18.0,11.8
+5203,2025-02-23,156.0,10,2,Delivery,,35.0,2,6,Coxinha,Salgado,3.1,8.5,Úrsula Moreira,Lagoa,2021.0,Gratuito,17.0,10.8
+5204,2025-02-23,132.0,4,1,App,2.0,,2,6,Café Coado,Café,1.7,5.0,Isabela Ribeiro,Trindade,2023.0,Premium,5.0,3.3
+5205,2025-02-23,153.0,10,3,Balcão,4.0,,2,6,Coxinha,Salgado,3.1,8.5,Rafael Moreira,Agronômica,2024.0,Gratuito,25.5,16.200000000000003
+5206,2025-02-23,143.0,2,1,App,5.0,,2,6,Cappuccino,Café,3.2,9.5,Diego Carvalho,Estreito,2022.0,Gratuito,9.5,6.3
+5207,2025-02-23,114.0,4,3,Balcão,5.0,,2,6,Café Coado,Café,1.7,5.0,Lucas Gomes,Estreito,2021.0,Gratuito,15.0,9.899999999999999
+5208,2025-02-23,150.0,12,2,App,3.0,,2,6,Bolo de Cenoura,Doce,4.3,12.0,Elisa Cardoso,Lagoa,2023.0,Gratuito,24.0,15.4
+5209,2025-02-23,,10,1,Balcão,4.0,,2,6,Coxinha,Salgado,3.1,8.5,,,,,8.5,5.4
+5210,2025-02-23,,1,1,Balcão,3.0,,2,6,Espresso,Café,2.0,6.0,,,,,6.0,4.0
+5211,2025-02-23,,12,2,Balcão,4.0,,2,6,Bolo de Cenoura,Doce,4.3,12.0,,,,,24.0,15.4
+5212,2025-02-23,,4,-1,Balcão,5.0,,2,6,Café Coado,Café,1.7,5.0,,,,,-5.0,-3.3
+5213,2025-02-24,,12,2,Balcão,5.0,,2,0,Bolo de Cenoura,Doce,4.3,12.0,,,,,24.0,15.4
+5214,2025-02-25,135.0,1,2,App,4.0,,2,1,Espresso,Café,2.0,6.0,Sandra Teixeira,Itacorubi,2022.0,Premium,12.0,8.0
+5215,2025-02-26,106.0,4,1,App,3.0,,2,2,Café Coado,Café,1.7,5.0,Elisa Nunes,Estreito,2023.0,Premium,5.0,3.3
+5216,2025-02-26,,12,1,Balcão,4.0,,2,2,Bolo de Cenoura,Doce,4.3,12.0,,,,,12.0,7.7
+5217,2025-02-26,106.0,3,3,Balcão,3.0,,2,2,Latte,Café,3.6,10.5,Elisa Nunes,Estreito,2023.0,Premium,31.5,20.700000000000003
+5218,2025-02-27,,8,4,Balcão,5.0,,2,3,Pão de Queijo,Salgado,2.3,6.5,,,,,26.0,16.8
+5219,2025-02-27,117.0,6,2,Delivery,,47.0,2,3,Limonada,Bebida Gelada,2.2,7.0,Marina Pereira,Itacorubi,2025.0,Fidelidade,14.0,9.6
+5220,2025-02-27,128.0,6,4,Balcão,5.0,,2,3,Limonada,Bebida Gelada,2.2,7.0,Karina Ribeiro,Coqueiros,2021.0,Gratuito,28.0,19.2
+5221,2025-02-28,101.0,11,1,App,5.0,,2,4,Brownie,Doce,3.1,9.0,Carla Alves,Centro,2025.0,Gratuito,9.0,5.9
+5222,2025-02-28,101.0,6,1,App,5.0,,2,4,Limonada,Bebida Gelada,2.2,7.0,Carla Alves,Centro,2025.0,Gratuito,7.0,4.8
+5223,2025-02-28,114.0,1,2,Delivery,,41.0,2,4,Espresso,Café,2.0,6.0,Lucas Gomes,Estreito,2021.0,Gratuito,12.0,8.0
+5224,2025-02-28,147.0,11,1,App,4.0,,2,4,Brownie,Doce,3.1,9.0,Elisa Carvalho,Agronômica,2021.0,Premium,9.0,5.9
+5225,2025-02-28,,2,2,Balcão,4.0,,2,4,Cappuccino,Café,3.2,9.5,,,,,19.0,12.6
+5226,2025-02-28,,3,1,Balcão,5.0,,2,4,Latte,Café,3.6,10.5,,,,,10.5,6.9
+5227,2025-02-28,125.0,4,1,Delivery,3.0,44.0,2,4,Café Coado,Café,1.7,5.0,Diego Rocha,Trindade,2025.0,Premium,5.0,3.3
+5228,2025-02-28,143.0,6,2,App,5.0,,2,4,Limonada,Bebida Gelada,2.2,7.0,Diego Carvalho,Estreito,2022.0,Gratuito,14.0,9.6
+5229,2025-03-01,126.0,7,1,App,5.0,,3,5,Café Gelado,Bebida Gelada,3.4,11.0,Fábio Rocha,Campeche,2025.0,Gratuito,11.0,7.6
+5230,2025-03-01,147.0,7,2,App,5.0,,3,5,Café Gelado,Bebida Gelada,3.4,11.0,Elisa Carvalho,Agronômica,2021.0,Premium,22.0,15.2
+5231,2025-03-02,,11,2,Balcão,,,3,6,Brownie,Doce,3.1,9.0,,,,,18.0,11.8
+5232,2025-03-02,132.0,5,1,Balcão,5.0,,3,6,Chá Gelado,Bebida Gelada,2.5,8.0,Isabela Ribeiro,Trindade,2023.0,Premium,8.0,5.5
+5233,2025-03-02,107.0,7,2,Balcão,5.0,,3,6,Café Gelado,Bebida Gelada,3.4,11.0,Marina Ribeiro,Coqueiros,2022.0,Gratuito,22.0,15.2
+5234,2025-03-02,123.0,12,2,Balcão,5.0,,3,6,Bolo de Cenoura,Doce,4.3,12.0,Lucas Souza,Campeche,2021.0,Fidelidade,24.0,15.4
+5235,2025-03-03,128.0,12,3,Balcão,5.0,,3,0,Bolo de Cenoura,Doce,4.3,12.0,Karina Ribeiro,Coqueiros,2021.0,Gratuito,36.0,23.1
+5236,2025-03-03,108.0,11,1,App,5.0,,3,0,Brownie,Doce,3.1,9.0,João Barbosa,Estreito,2021.0,Gratuito,9.0,5.9
+5237,2025-03-03,110.0,1,2,Balcão,4.0,,3,0,Espresso,Café,2.0,6.0,Fábio Cardoso,Campeche,2022.0,Fidelidade,12.0,8.0
+5238,2025-03-03,114.0,5,1,Balcão,4.0,,3,0,Chá Gelado,Bebida Gelada,2.5,8.0,Lucas Gomes,Estreito,2021.0,Gratuito,8.0,5.5
+5239,2025-03-03,114.0,5,2,App,3.0,,3,0,Chá Gelado,Bebida Gelada,2.5,8.0,Lucas Gomes,Estreito,2021.0,Gratuito,16.0,11.0
+5240,2025-03-03,116.0,11,4,Balcão,,,3,0,Brownie,Doce,3.1,9.0,Elisa Barbosa,Itacorubi,2022.0,Fidelidade,36.0,23.6
+5241,2025-03-04,157.0,12,1,Delivery,4.0,29.0,3,1,Bolo de Cenoura,Doce,4.3,12.0,Paulo Martins,Coqueiros,2025.0,Fidelidade,12.0,7.7
+5242,2025-03-05,143.0,4,2,Balcão,5.0,,3,2,Café Coado,Café,1.7,5.0,Diego Carvalho,Estreito,2022.0,Gratuito,10.0,6.6
+5243,2025-03-05,150.0,3,1,Balcão,4.0,,3,2,Latte,Café,3.6,10.5,Elisa Cardoso,Lagoa,2023.0,Gratuito,10.5,6.9
+5244,2025-03-06,151.0,2,2,Delivery,5.0,13.0,3,3,Cappuccino,Café,3.2,9.5,Rafael Nunes,Trindade,2021.0,Fidelidade,19.0,12.6
+5245,2025-03-06,,12,1,Balcão,4.0,,3,3,Bolo de Cenoura,Doce,4.3,12.0,,,,,12.0,7.7
+5246,2025-03-06,123.0,9,1,Delivery,4.0,34.0,3,3,Sanduíche Natural,Salgado,5.4,15.0,Lucas Souza,Campeche,2021.0,Fidelidade,15.0,9.6
+5247,2025-03-06,122.0,3,1,Balcão,5.0,,3,3,Latte,Café,3.6,10.5,Ana Moreira,Coqueiros,2024.0,Gratuito,10.5,6.9
+5248,2025-03-07,,2,1,Balcão,4.0,,3,4,Cappuccino,Café,3.2,9.5,,,,,9.5,6.3
+5249,2025-03-07,,2,4,Balcão,,,3,4,Cappuccino,Café,3.2,9.5,,,,,38.0,25.2
+5250,2025-03-07,108.0,8,1,App,5.0,,3,4,Pão de Queijo,Salgado,2.3,6.5,João Barbosa,Estreito,2021.0,Gratuito,6.5,4.2
+5250,2025-03-07,108.0,8,1,App,5.0,,3,4,Pão de Queijo,Salgado,2.3,6.5,João Barbosa,Estreito,2021.0,Gratuito,6.5,4.2
+5251,2025-03-07,113.0,11,1,App,5.0,,3,4,Brownie,Doce,3.1,9.0,Nelson Pereira,Coqueiros,2021.0,Gratuito,9.0,5.9
+5252,2025-03-07,128.0,2,1,App,4.0,,3,4,Cappuccino,Café,3.2,9.5,Karina Ribeiro,Coqueiros,2021.0,Gratuito,9.5,6.3
+5253,2025-03-08,,6,1,Balcão,5.0,,3,5,Limonada,Bebida Gelada,2.2,7.0,,,,,7.0,4.8
+5254,2025-03-09,160.0,11,2,App,,,3,6,Brownie,Doce,3.1,9.0,Olívia Carvalho,Centro,2024.0,Gratuito,18.0,11.8
+5255,2025-03-09,144.0,8,4,Delivery,5.0,42.0,3,6,Pão de Queijo,Salgado,2.3,6.5,João Carvalho,Lagoa,2024.0,Premium,26.0,16.8
+5256,2025-03-09,141.0,5,1,Delivery,,21.0,3,6,Chá Gelado,Bebida Gelada,2.5,8.0,Bruno Martins,Itacorubi,2023.0,Fidelidade,8.0,5.5
+5257,2025-03-09,135.0,6,1,Delivery,4.0,33.0,3,6,Limonada,Bebida Gelada,2.2,7.0,Sandra Teixeira,Itacorubi,2022.0,Premium,7.0,4.8
+5258,2025-03-09,156.0,9,2,App,4.0,,3,6,Sanduíche Natural,Salgado,5.4,15.0,Úrsula Moreira,Lagoa,2021.0,Gratuito,30.0,19.2
+5259,2025-03-11,138.0,12,2,Delivery,,30.0,3,1,Bolo de Cenoura,Doce,4.3,12.0,Zeca Alves,Agronômica,2022.0,Fidelidade,24.0,15.4
+5260,2025-03-11,138.0,1,1,Delivery,4.0,45.0,3,1,Espresso,Café,2.0,6.0,Zeca Alves,Agronômica,2022.0,Fidelidade,6.0,4.0
+5261,2025-03-12,153.0,1,2,Delivery,5.0,22.0,3,2,Espresso,Café,2.0,6.0,Rafael Moreira,Agronômica,2024.0,Gratuito,12.0,8.0
+5262,2025-03-12,124.0,1,1,App,5.0,,3,2,Espresso,Café,2.0,6.0,Hugo Nunes,Agronômica,2021.0,Fidelidade,6.0,4.0
+5263,2025-03-12,158.0,7,2,Balcão,5.0,,3,2,Café Gelado,Bebida Gelada,3.4,11.0,Ana Alves,Trindade,2022.0,Fidelidade,22.0,15.2
+5264,2025-03-13,,11,3,Balcão,5.0,,3,3,Brownie,Doce,3.1,9.0,,,,,27.0,17.700000000000003
+5265,2025-03-13,137.0,8,1,Delivery,4.0,13.0,3,3,Pão de Queijo,Salgado,2.3,6.5,Úrsula Nunes,Lagoa,2025.0,Gratuito,6.5,4.2
+5266,2025-03-13,154.0,4,1,App,5.0,,3,3,Café Coado,Café,1.7,5.0,Xavier Rocha,Estreito,2025.0,Premium,5.0,3.3
+5267,2025-03-13,145.0,6,1,Balcão,5.0,,3,3,Limonada,Bebida Gelada,2.2,7.0,Lucas Pereira,Centro,2023.0,Gratuito,7.0,4.8
+5268,2025-03-13,159.0,2,1,App,,,3,3,Cappuccino,Café,3.2,9.5,Bruno Alves,Trindade,2023.0,Gratuito,9.5,6.3
+5269,2025-03-13,105.0,8,2,App,5.0,,3,3,Pão de Queijo,Salgado,2.3,6.5,Úrsula Teixeira,Coqueiros,2022.0,Gratuito,13.0,8.4
+5270,2025-03-14,120.0,10,1,App,3.0,,3,4,Coxinha,Salgado,3.1,8.5,Wanda Nunes,Campeche,2023.0,Premium,8.5,5.4
+5271,2025-03-14,,4,2,Balcão,5.0,,3,4,Café Coado,Café,1.7,5.0,,,,,10.0,6.6
+5272,2025-03-14,142.0,7,3,Balcão,4.0,,3,4,Café Gelado,Bebida Gelada,3.4,11.0,Hugo Pereira,Agronômica,2025.0,Gratuito,33.0,22.799999999999997
+5273,2025-03-14,124.0,3,1,App,4.0,,3,4,Latte,Café,3.6,10.5,Hugo Nunes,Agronômica,2021.0,Fidelidade,10.5,6.9
+5274,2025-03-14,143.0,6,1,Delivery,4.0,33.0,3,4,Limonada,Bebida Gelada,2.2,7.0,Diego Carvalho,Estreito,2022.0,Gratuito,7.0,4.8
+5275,2025-03-14,144.0,10,1,Balcão,5.0,,3,4,Coxinha,Salgado,3.1,8.5,João Carvalho,Lagoa,2024.0,Premium,8.5,5.4
+5276,2025-03-14,127.0,7,1,App,4.0,,3,4,Café Gelado,Bebida Gelada,3.4,11.0,Karina Nunes,Campeche,2021.0,Gratuito,11.0,7.6
+5277,2025-03-15,117.0,4,1,App,5.0,,3,5,Café Coado,Café,1.7,5.0,Marina Pereira,Itacorubi,2025.0,Fidelidade,5.0,3.3
+5278,2025-03-15,134.0,9,40,Balcão,,,3,5,Sanduíche Natural,Salgado,5.4,15.0,Marina Costa,Agronômica,2024.0,Gratuito,600.0,384.0
+5279,2025-03-15,125.0,2,40,App,4.0,,3,5,Cappuccino,Café,3.2,9.5,Diego Rocha,Trindade,2025.0,Premium,380.0,252.0
+5280,2025-03-15,127.0,4,2,Delivery,,22.0,3,5,Café Coado,Café,1.7,5.0,Karina Nunes,Campeche,2021.0,Gratuito,10.0,6.6
+5281,2025-03-15,143.0,4,4,App,3.0,,3,5,Café Coado,Café,1.7,5.0,Diego Carvalho,Estreito,2022.0,Gratuito,20.0,13.2
+5282,2025-03-15,108.0,11,1,Balcão,5.0,,3,5,Brownie,Doce,3.1,9.0,João Barbosa,Estreito,2021.0,Gratuito,9.0,5.9
+5283,2025-03-15,131.0,11,3,Balcão,4.0,,3,5,Brownie,Doce,3.1,9.0,Wanda Rocha,Centro,2024.0,Fidelidade,27.0,17.700000000000003
+5284,2025-03-15,,6,1,Balcão,4.0,,3,5,Limonada,Bebida Gelada,2.2,7.0,,,,,7.0,4.8
+5285,2025-03-16,160.0,2,1,App,,,3,6,Cappuccino,Café,3.2,9.5,Olívia Carvalho,Centro,2024.0,Gratuito,9.5,6.3
+5286,2025-03-16,116.0,1,1,Balcão,3.0,,3,6,Espresso,Café,2.0,6.0,Elisa Barbosa,Itacorubi,2022.0,Fidelidade,6.0,4.0
+5287,2025-03-16,,8,1,Balcão,,,3,6,Pão de Queijo,Salgado,2.3,6.5,,,,,6.5,4.2
+5288,2025-03-17,135.0,11,2,Balcão,,,3,0,Brownie,Doce,3.1,9.0,Sandra Teixeira,Itacorubi,2022.0,Premium,18.0,11.8
+5289,2025-03-17,124.0,1,3,Delivery,5.0,30.0,3,0,Espresso,Café,2.0,6.0,Hugo Nunes,Agronômica,2021.0,Fidelidade,18.0,12.0
+5290,2025-03-18,160.0,4,1,Balcão,4.0,,3,1,Café Coado,Café,1.7,5.0,Olívia Carvalho,Centro,2024.0,Gratuito,5.0,3.3
+5291,2025-03-18,107.0,7,2,App,,,3,1,Café Gelado,Bebida Gelada,3.4,11.0,Marina Ribeiro,Coqueiros,2022.0,Gratuito,22.0,15.2
+5292,2025-03-18,156.0,11,2,Balcão,4.0,,3,1,Brownie,Doce,3.1,9.0,Úrsula Moreira,Lagoa,2021.0,Gratuito,18.0,11.8
+5293,2025-03-18,144.0,2,1,Balcão,4.0,,3,1,Cappuccino,Café,3.2,9.5,João Carvalho,Lagoa,2024.0,Premium,9.5,6.3
+5294,2025-03-19,,4,4,Balcão,,,3,2,Café Coado,Café,1.7,5.0,,,,,20.0,13.2
+5295,2025-03-19,158.0,2,1,Delivery,4.0,43.0,3,2,Cappuccino,Café,3.2,9.5,Ana Alves,Trindade,2022.0,Fidelidade,9.5,6.3
+5296,2025-03-19,128.0,6,1,Delivery,4.0,36.0,3,2,Limonada,Bebida Gelada,2.2,7.0,Karina Ribeiro,Coqueiros,2021.0,Gratuito,7.0,4.8
+5297,2025-03-20,,6,2,Balcão,5.0,,3,3,Limonada,Bebida Gelada,2.2,7.0,,,,,14.0,9.6
+5298,2025-03-20,114.0,5,1,Balcão,3.0,,3,3,Chá Gelado,Bebida Gelada,2.5,8.0,Lucas Gomes,Estreito,2021.0,Gratuito,8.0,5.5
+5299,2025-03-21,153.0,4,1,Delivery,4.0,35.0,3,4,Café Coado,Café,1.7,5.0,Rafael Moreira,Agronômica,2024.0,Gratuito,5.0,3.3
+5300,2025-03-21,145.0,7,3,Balcão,3.0,,3,4,Café Gelado,Bebida Gelada,3.4,11.0,Lucas Pereira,Centro,2023.0,Gratuito,33.0,22.799999999999997
+5301,2025-03-21,,1,1,Balcão,4.0,,3,4,Espresso,Café,2.0,6.0,,,,,6.0,4.0
+5302,2025-03-21,120.0,3,2,Delivery,,35.0,3,4,Latte,Café,3.6,10.5,Wanda Nunes,Campeche,2023.0,Premium,21.0,13.8
+5303,2025-03-21,141.0,5,2,App,5.0,,3,4,Chá Gelado,Bebida Gelada,2.5,8.0,Bruno Martins,Itacorubi,2023.0,Fidelidade,16.0,11.0
+5304,2025-03-22,,10,2,Balcão,5.0,,3,5,Coxinha,Salgado,3.1,8.5,,,,,17.0,10.8
+5305,2025-03-22,143.0,2,2,Balcão,,,3,5,Cappuccino,Café,3.2,9.5,Diego Carvalho,Estreito,2022.0,Gratuito,19.0,12.6
+5306,2025-03-22,104.0,1,4,App,3.0,,3,5,Espresso,Café,2.0,6.0,Marina Cardoso,Centro,2022.0,Gratuito,24.0,16.0
+5307,2025-03-22,151.0,4,3,Balcão,5.0,,3,5,Café Coado,Café,1.7,5.0,Rafael Nunes,Trindade,2021.0,Fidelidade,15.0,9.899999999999999
+5308,2025-03-22,122.0,2,1,App,3.0,,3,5,Cappuccino,Café,3.2,9.5,Ana Moreira,Coqueiros,2024.0,Gratuito,9.5,6.3
+5309,2025-03-23,156.0,2,1,Balcão,5.0,,3,6,Cappuccino,Café,3.2,9.5,Úrsula Moreira,Lagoa,2021.0,Gratuito,9.5,6.3
+5310,2025-03-23,,2,2,Balcão,4.0,,3,6,Cappuccino,Café,3.2,9.5,,,,,19.0,12.6
+5311,2025-03-23,,2,1,Balcão,3.0,,3,6,Cappuccino,Café,3.2,9.5,,,,,9.5,6.3
+5312,2025-03-24,145.0,11,4,Balcão,3.0,,3,0,Brownie,Doce,3.1,9.0,Lucas Pereira,Centro,2023.0,Gratuito,36.0,23.6
+5313,2025-03-24,124.0,11,2,Balcão,4.0,,3,0,Brownie,Doce,3.1,9.0,Hugo Nunes,Agronômica,2021.0,Fidelidade,18.0,11.8
+5314,2025-03-24,,3,3,Balcão,5.0,,3,0,Latte,Café,3.6,10.5,,,,,31.5,20.700000000000003
+5315,2025-03-24,118.0,5,3,Balcão,4.0,,3,0,Chá Gelado,Bebida Gelada,2.5,8.0,Queila Ribeiro,Lagoa,2021.0,Premium,24.0,16.5
+5316,2025-03-25,139.0,10,2,App,4.0,,3,1,Coxinha,Salgado,3.1,8.5,Fábio Nunes,Estreito,2023.0,Fidelidade,17.0,10.8
+5317,2025-03-25,,5,3,Balcão,4.0,,3,1,Chá Gelado,Bebida Gelada,2.5,8.0,,,,,24.0,16.5
+5318,2025-03-25,133.0,3,1,App,3.0,,3,1,Latte,Café,3.6,10.5,Hugo Lima,Agronômica,2021.0,Gratuito,10.5,6.9
+5319,2025-03-25,143.0,11,2,App,5.0,,3,1,Brownie,Doce,3.1,9.0,Diego Carvalho,Estreito,2022.0,Gratuito,18.0,11.8
+5320,2025-03-26,117.0,8,3,App,4.0,,3,2,Pão de Queijo,Salgado,2.3,6.5,Marina Pereira,Itacorubi,2025.0,Fidelidade,19.5,12.600000000000001
+5321,2025-03-26,144.0,8,2,App,5.0,,3,2,Pão de Queijo,Salgado,2.3,6.5,João Carvalho,Lagoa,2024.0,Premium,13.0,8.4
+5322,2025-03-26,114.0,10,1,App,4.0,,3,2,Coxinha,Salgado,3.1,8.5,Lucas Gomes,Estreito,2021.0,Gratuito,8.5,5.4
+5323,2025-03-26,126.0,2,1,Balcão,5.0,,3,2,Cappuccino,Café,3.2,9.5,Fábio Rocha,Campeche,2025.0,Gratuito,9.5,6.3
+5324,2025-03-26,130.0,2,1,Delivery,4.0,36.0,3,2,Cappuccino,Café,3.2,9.5,Rafael Ribeiro,Trindade,2023.0,Gratuito,9.5,6.3
+5325,2025-03-27,153.0,10,2,Delivery,5.0,31.0,3,3,Coxinha,Salgado,3.1,8.5,Rafael Moreira,Agronômica,2024.0,Gratuito,17.0,10.8
+5326,2025-03-28,118.0,6,1,Balcão,,,3,4,Limonada,Bebida Gelada,2.2,7.0,Queila Ribeiro,Lagoa,2021.0,Premium,7.0,4.8
+5327,2025-03-28,119.0,5,1,App,4.0,,3,4,Chá Gelado,Bebida Gelada,2.5,8.0,Fábio Ribeiro,Campeche,2022.0,Gratuito,8.0,5.5
+5328,2025-03-28,135.0,6,1,Balcão,5.0,,3,4,Limonada,Bebida Gelada,2.2,7.0,Sandra Teixeira,Itacorubi,2022.0,Premium,7.0,4.8
+5329,2025-03-28,107.0,5,1,App,5.0,,3,4,Chá Gelado,Bebida Gelada,2.5,8.0,Marina Ribeiro,Coqueiros,2022.0,Gratuito,8.0,5.5
+5330,2025-03-28,118.0,1,1,Balcão,5.0,,3,4,Espresso,Café,2.0,6.0,Queila Ribeiro,Lagoa,2021.0,Premium,6.0,4.0
+5331,2025-03-28,105.0,8,1,Delivery,4.0,480.0,3,4,Pão de Queijo,Salgado,2.3,6.5,Úrsula Teixeira,Coqueiros,2022.0,Gratuito,6.5,4.2
+5332,2025-03-29,153.0,7,1,App,4.0,,3,5,Café Gelado,Bebida Gelada,3.4,11.0,Rafael Moreira,Agronômica,2024.0,Gratuito,11.0,7.6
+5333,2025-03-29,104.0,8,2,App,,,3,5,Pão de Queijo,Salgado,2.3,6.5,Marina Cardoso,Centro,2022.0,Gratuito,13.0,8.4
+5334,2025-03-29,107.0,4,1,App,4.0,,3,5,Café Coado,Café,1.7,5.0,Marina Ribeiro,Coqueiros,2022.0,Gratuito,5.0,3.3
+5335,2025-03-29,140.0,3,4,Balcão,3.0,,3,5,Latte,Café,3.6,10.5,Sandra Souza,Agronômica,2023.0,Fidelidade,42.0,27.6
+5336,2025-03-29,,1,2,Balcão,,,3,5,Espresso,Café,2.0,6.0,,,,,12.0,8.0
+5337,2025-03-30,160.0,8,4,App,5.0,,3,6,Pão de Queijo,Salgado,2.3,6.5,Olívia Carvalho,Centro,2024.0,Gratuito,26.0,16.8
+5338,2025-03-30,119.0,2,1,Balcão,4.0,,3,6,Cappuccino,Café,3.2,9.5,Fábio Ribeiro,Campeche,2022.0,Gratuito,9.5,6.3
+5339,2025-03-30,,12,1,Balcão,4.0,,3,6,Bolo de Cenoura,Doce,4.3,12.0,,,,,12.0,7.7
+5340,2025-03-30,107.0,11,2,Delivery,,44.0,3,6,Brownie,Doce,3.1,9.0,Marina Ribeiro,Coqueiros,2022.0,Gratuito,18.0,11.8
+5341,2025-03-30,111.0,1,1,App,5.0,,3,6,Espresso,Café,2.0,6.0,Sandra Ribeiro,Lagoa,2023.0,Gratuito,6.0,4.0
+5342,2025-03-31,146.0,3,3,Balcão,3.0,,3,0,Latte,Café,3.6,10.5,Isabela Martins,Trindade,2024.0,Gratuito,31.5,20.700000000000003
+5343,2025-03-31,,11,1,Balcão,,,3,0,Brownie,Doce,3.1,9.0,,,,,9.0,5.9
+5344,2025-04-01,141.0,2,1,Balcão,5.0,,4,1,Cappuccino,Café,3.2,9.5,Bruno Martins,Itacorubi,2023.0,Fidelidade,9.5,6.3
+5345,2025-04-02,,7,1,Balcão,5.0,,4,2,Café Gelado,Bebida Gelada,3.4,11.0,,,,,11.0,7.6
+5346,2025-04-03,155.0,4,2,App,4.0,,4,3,Café Coado,Café,1.7,5.0,Yara Souza,Centro,2024.0,Gratuito,10.0,6.6
+5347,2025-04-03,149.0,12,2,App,4.0,,4,3,Bolo de Cenoura,Doce,4.3,12.0,João Rocha,Agronômica,2022.0,Gratuito,24.0,15.4
+5348,2025-04-03,140.0,4,2,App,,,4,3,Café Coado,Café,1.7,5.0,Sandra Souza,Agronômica,2023.0,Fidelidade,10.0,6.6
+5349,2025-04-04,123.0,4,1,Balcão,5.0,,4,4,Café Coado,Café,1.7,5.0,Lucas Souza,Campeche,2021.0,Fidelidade,5.0,3.3
+5350,2025-04-04,119.0,9,2,Balcão,3.0,,4,4,Sanduíche Natural,Salgado,5.4,15.0,Fábio Ribeiro,Campeche,2022.0,Gratuito,30.0,19.2
+5351,2025-04-04,113.0,10,1,Balcão,5.0,,4,4,Coxinha,Salgado,3.1,8.5,Nelson Pereira,Coqueiros,2021.0,Gratuito,8.5,5.4
+5352,2025-04-05,124.0,3,2,Balcão,,,4,5,Latte,Café,3.6,10.5,Hugo Nunes,Agronômica,2021.0,Fidelidade,21.0,13.8
+5353,2025-04-05,158.0,5,2,App,4.0,,4,5,Chá Gelado,Bebida Gelada,2.5,8.0,Ana Alves,Trindade,2022.0,Fidelidade,16.0,11.0
+5354,2025-04-05,150.0,5,1,App,4.0,,4,5,Chá Gelado,Bebida Gelada,2.5,8.0,Elisa Cardoso,Lagoa,2023.0,Gratuito,8.0,5.5
+5355,2025-04-05,140.0,5,1,App,5.0,,4,5,Chá Gelado,Bebida Gelada,2.5,8.0,Sandra Souza,Agronômica,2023.0,Fidelidade,8.0,5.5
+5356,2025-04-05,109.0,5,1,Balcão,,,4,5,Chá Gelado,Bebida Gelada,2.5,8.0,Wanda Mendes,Agronômica,2022.0,Fidelidade,8.0,5.5
+5357,2025-04-05,104.0,2,1,App,3.0,,4,5,Cappuccino,Café,3.2,9.5,Marina Cardoso,Centro,2022.0,Gratuito,9.5,6.3
+5358,2025-04-05,148.0,6,1,Delivery,4.0,32.0,4,5,Limonada,Bebida Gelada,2.2,7.0,Lucas Moreira,Trindade,2025.0,Gratuito,7.0,4.8
+5359,2025-04-05,105.0,12,3,App,5.0,,4,5,Bolo de Cenoura,Doce,4.3,12.0,Úrsula Teixeira,Coqueiros,2022.0,Gratuito,36.0,23.1
+5360,2025-04-06,138.0,1,1,Balcão,5.0,,4,6,Espresso,Café,2.0,6.0,Zeca Alves,Agronômica,2022.0,Fidelidade,6.0,4.0
+5360,2025-04-06,138.0,1,1,Balcão,5.0,,4,6,Espresso,Café,2.0,6.0,Zeca Alves,Agronômica,2022.0,Fidelidade,6.0,4.0
+5361,2025-04-06,143.0,5,3,App,4.0,,4,6,Chá Gelado,Bebida Gelada,2.5,8.0,Diego Carvalho,Estreito,2022.0,Gratuito,24.0,16.5
+5362,2025-04-06,153.0,2,3,App,4.0,,4,6,Cappuccino,Café,3.2,9.5,Rafael Moreira,Agronômica,2024.0,Gratuito,28.5,18.9
+5363,2025-04-06,155.0,1,1,App,4.0,,4,6,Espresso,Café,2.0,6.0,Yara Souza,Centro,2024.0,Gratuito,6.0,4.0
+5364,2025-04-06,,7,1,Balcão,5.0,,4,6,Café Gelado,Bebida Gelada,3.4,11.0,,,,,11.0,7.6
+5365,2025-04-06,123.0,3,3,App,,,4,6,Latte,Café,3.6,10.5,Lucas Souza,Campeche,2021.0,Fidelidade,31.5,20.700000000000003
+5366,2025-04-06,130.0,10,1,Balcão,,,4,6,Coxinha,Salgado,3.1,8.5,Rafael Ribeiro,Trindade,2023.0,Gratuito,8.5,5.4
+5367,2025-04-07,108.0,5,1,Balcão,5.0,,4,0,Chá Gelado,Bebida Gelada,2.5,8.0,João Barbosa,Estreito,2021.0,Gratuito,8.0,5.5
+5368,2025-04-07,133.0,2,1,App,5.0,,4,0,Cappuccino,Café,3.2,9.5,Hugo Lima,Agronômica,2021.0,Gratuito,9.5,6.3
+5369,2025-04-07,117.0,1,3,Balcão,5.0,,4,0,Espresso,Café,2.0,6.0,Marina Pereira,Itacorubi,2025.0,Fidelidade,18.0,12.0
+5370,2025-04-08,145.0,10,1,Balcão,4.0,,4,1,Coxinha,Salgado,3.1,8.5,Lucas Pereira,Centro,2023.0,Gratuito,8.5,5.4
+5371,2025-04-09,141.0,8,2,App,5.0,,4,2,Pão de Queijo,Salgado,2.3,6.5,Bruno Martins,Itacorubi,2023.0,Fidelidade,13.0,8.4
+5372,2025-04-09,119.0,3,2,Delivery,5.0,16.0,4,2,Latte,Café,3.6,10.5,Fábio Ribeiro,Campeche,2022.0,Gratuito,21.0,13.8
+5373,2025-04-12,124.0,5,1,App,,,4,5,Chá Gelado,Bebida Gelada,2.5,8.0,Hugo Nunes,Agronômica,2021.0,Fidelidade,8.0,5.5
+5374,2025-04-12,125.0,8,1,App,4.0,,4,5,Pão de Queijo,Salgado,2.3,6.5,Diego Rocha,Trindade,2025.0,Premium,6.5,4.2
+5375,2025-04-12,130.0,2,1,Delivery,4.0,33.0,4,5,Cappuccino,Café,3.2,9.5,Rafael Ribeiro,Trindade,2023.0,Gratuito,9.5,6.3
+5376,2025-04-13,143.0,12,2,Delivery,5.0,480.0,4,6,Bolo de Cenoura,Doce,4.3,12.0,Diego Carvalho,Estreito,2022.0,Gratuito,24.0,15.4
+5377,2025-04-13,136.0,6,3,Delivery,5.0,40.0,4,6,Limonada,Bebida Gelada,2.2,7.0,Vitor Ribeiro,Trindade,2023.0,Premium,21.0,14.399999999999999
+5378,2025-04-13,117.0,4,1,Delivery,4.0,34.0,4,6,Café Coado,Café,1.7,5.0,Marina Pereira,Itacorubi,2025.0,Fidelidade,5.0,3.3
+5379,2025-04-13,155.0,1,2,App,5.0,,4,6,Espresso,Café,2.0,6.0,Yara Souza,Centro,2024.0,Gratuito,12.0,8.0
+5380,2025-04-14,151.0,6,4,App,5.0,,4,0,Limonada,Bebida Gelada,2.2,7.0,Rafael Nunes,Trindade,2021.0,Fidelidade,28.0,19.2
+5381,2025-04-14,153.0,4,1,Delivery,4.0,39.0,4,0,Café Coado,Café,1.7,5.0,Rafael Moreira,Agronômica,2024.0,Gratuito,5.0,3.3
+5382,2025-04-14,,2,1,Balcão,4.0,,4,0,Cappuccino,Café,3.2,9.5,,,,,9.5,6.3
+5383,2025-04-14,154.0,5,1,Balcão,4.0,,4,0,Chá Gelado,Bebida Gelada,2.5,8.0,Xavier Rocha,Estreito,2025.0,Premium,8.0,5.5
+5384,2025-04-14,,6,1,Balcão,4.0,,4,0,Limonada,Bebida Gelada,2.2,7.0,,,,,7.0,4.8
+5385,2025-04-15,155.0,5,2,Balcão,5.0,,4,1,Chá Gelado,Bebida Gelada,2.5,8.0,Yara Souza,Centro,2024.0,Gratuito,16.0,11.0
+5386,2025-04-16,153.0,4,4,Balcão,3.0,,4,2,Café Coado,Café,1.7,5.0,Rafael Moreira,Agronômica,2024.0,Gratuito,20.0,13.2
+5387,2025-04-16,139.0,10,1,App,3.0,,4,2,Coxinha,Salgado,3.1,8.5,Fábio Nunes,Estreito,2023.0,Fidelidade,8.5,5.4
+5388,2025-04-17,158.0,4,3,Delivery,5.0,39.0,4,3,Café Coado,Café,1.7,5.0,Ana Alves,Trindade,2022.0,Fidelidade,15.0,9.899999999999999
+5389,2025-04-17,147.0,12,2,Balcão,4.0,,4,3,Bolo de Cenoura,Doce,4.3,12.0,Elisa Carvalho,Agronômica,2021.0,Premium,24.0,15.4
+5390,2025-04-17,,9,2,Balcão,4.0,,4,3,Sanduíche Natural,Salgado,5.4,15.0,,,,,30.0,19.2
+5391,2025-04-18,150.0,2,1,Delivery,3.0,29.0,4,4,Cappuccino,Café,3.2,9.5,Elisa Cardoso,Lagoa,2023.0,Gratuito,9.5,6.3
+5392,2025-04-18,140.0,6,1,App,4.0,,4,4,Limonada,Bebida Gelada,2.2,7.0,Sandra Souza,Agronômica,2023.0,Fidelidade,7.0,4.8
+5393,2025-04-18,,2,2,Balcão,5.0,,4,4,Cappuccino,Café,3.2,9.5,,,,,19.0,12.6
+5394,2025-04-19,157.0,5,2,App,4.0,,4,5,Chá Gelado,Bebida Gelada,2.5,8.0,Paulo Martins,Coqueiros,2025.0,Fidelidade,16.0,11.0
+5395,2025-04-19,114.0,3,2,App,5.0,,4,5,Latte,Café,3.6,10.5,Lucas Gomes,Estreito,2021.0,Gratuito,21.0,13.8
+5396,2025-04-19,109.0,5,4,Balcão,,,4,5,Chá Gelado,Bebida Gelada,2.5,8.0,Wanda Mendes,Agronômica,2022.0,Fidelidade,32.0,22.0
+5397,2025-04-19,140.0,12,2,Balcão,5.0,,4,5,Bolo de Cenoura,Doce,4.3,12.0,Sandra Souza,Agronômica,2023.0,Fidelidade,24.0,15.4
+5398,2025-04-19,133.0,2,4,App,4.0,,4,5,Cappuccino,Café,3.2,9.5,Hugo Lima,Agronômica,2021.0,Gratuito,38.0,25.2
+5399,2025-04-19,146.0,5,1,Delivery,4.0,34.0,4,5,Chá Gelado,Bebida Gelada,2.5,8.0,Isabela Martins,Trindade,2024.0,Gratuito,8.0,5.5
+5400,2025-04-20,110.0,2,1,Balcão,4.0,,4,6,Cappuccino,Café,3.2,9.5,Fábio Cardoso,Campeche,2022.0,Fidelidade,9.5,6.3
+5400,2025-04-20,110.0,2,1,Balcão,4.0,,4,6,Cappuccino,Café,3.2,9.5,Fábio Cardoso,Campeche,2022.0,Fidelidade,9.5,6.3
+5401,2025-04-20,131.0,1,1,Balcão,4.0,,4,6,Espresso,Café,2.0,6.0,Wanda Rocha,Centro,2024.0,Fidelidade,6.0,4.0
+5402,2025-04-20,160.0,10,1,Balcão,5.0,,4,6,Coxinha,Salgado,3.1,8.5,Olívia Carvalho,Centro,2024.0,Gratuito,8.5,5.4
+5403,2025-04-20,146.0,8,1,App,3.0,,4,6,Pão de Queijo,Salgado,2.3,6.5,Isabela Martins,Trindade,2024.0,Gratuito,6.5,4.2
+5404,2025-04-21,101.0,10,1,Delivery,3.0,55.0,4,0,Coxinha,Salgado,3.1,8.5,Carla Alves,Centro,2025.0,Gratuito,8.5,5.4
+5405,2025-04-21,126.0,4,2,App,4.0,,4,0,Café Coado,Café,1.7,5.0,Fábio Rocha,Campeche,2025.0,Gratuito,10.0,6.6
+5406,2025-04-21,149.0,1,1,Balcão,4.0,,4,0,Espresso,Café,2.0,6.0,João Rocha,Agronômica,2022.0,Gratuito,6.0,4.0
+5407,2025-04-21,,3,1,Balcão,5.0,,4,0,Latte,Café,3.6,10.5,,,,,10.5,6.9
+5408,2025-04-21,,4,3,Balcão,4.0,,4,0,Café Coado,Café,1.7,5.0,,,,,15.0,9.899999999999999
+5409,2025-04-22,142.0,11,4,Delivery,5.0,36.0,4,1,Brownie,Doce,3.1,9.0,Hugo Pereira,Agronômica,2025.0,Gratuito,36.0,23.6
+5410,2025-04-23,137.0,7,1,Balcão,5.0,,4,2,Café Gelado,Bebida Gelada,3.4,11.0,Úrsula Nunes,Lagoa,2025.0,Gratuito,11.0,7.6
+5411,2025-04-23,143.0,8,3,App,5.0,,4,2,Pão de Queijo,Salgado,2.3,6.5,Diego Carvalho,Estreito,2022.0,Gratuito,19.5,12.600000000000001
+5412,2025-04-24,143.0,6,1,App,,,4,3,Limonada,Bebida Gelada,2.2,7.0,Diego Carvalho,Estreito,2022.0,Gratuito,7.0,4.8
+5413,2025-04-24,152.0,9,1,App,5.0,,4,3,Sanduíche Natural,Salgado,5.4,15.0,Isabela Rocha,Lagoa,2021.0,Gratuito,15.0,9.6
+5414,2025-04-24,111.0,6,1,App,4.0,,4,3,Limonada,Bebida Gelada,2.2,7.0,Sandra Ribeiro,Lagoa,2023.0,Gratuito,7.0,4.8
+5415,2025-04-25,118.0,12,2,App,4.0,,4,4,Bolo de Cenoura,Doce,4.3,12.0,Queila Ribeiro,Lagoa,2021.0,Premium,24.0,15.4
+5416,2025-04-25,,5,2,Balcão,4.0,,4,4,Chá Gelado,Bebida Gelada,2.5,8.0,,,,,16.0,11.0
+5417,2025-04-25,133.0,3,2,Delivery,4.0,,4,4,Latte,Café,3.6,10.5,Hugo Lima,Agronômica,2021.0,Gratuito,21.0,13.8
+5418,2025-04-25,,10,1,Balcão,4.0,,4,4,Coxinha,Salgado,3.1,8.5,,,,,8.5,5.4
+5419,2025-04-25,146.0,12,3,Delivery,5.0,27.0,4,4,Bolo de Cenoura,Doce,4.3,12.0,Isabela Martins,Trindade,2024.0,Gratuito,36.0,23.1
+5420,2025-04-25,110.0,2,3,Delivery,5.0,32.0,4,4,Cappuccino,Café,3.2,9.5,Fábio Cardoso,Campeche,2022.0,Fidelidade,28.5,18.9
+5421,2025-04-25,118.0,4,3,Balcão,,,4,4,Café Coado,Café,1.7,5.0,Queila Ribeiro,Lagoa,2021.0,Premium,15.0,9.899999999999999
+5422,2025-04-25,,6,1,Balcão,5.0,,4,4,Limonada,Bebida Gelada,2.2,7.0,,,,,7.0,4.8
+5423,2025-04-26,115.0,6,1,App,4.0,,4,5,Limonada,Bebida Gelada,2.2,7.0,Wanda Gomes,Trindade,2024.0,Gratuito,7.0,4.8
+5424,2025-04-26,117.0,3,1,Delivery,4.0,17.0,4,5,Latte,Café,3.6,10.5,Marina Pereira,Itacorubi,2025.0,Fidelidade,10.5,6.9
+5425,2025-04-26,,2,1,Balcão,5.0,,4,5,Cappuccino,Café,3.2,9.5,,,,,9.5,6.3
+5426,2025-04-26,159.0,4,1,App,5.0,,4,5,Café Coado,Café,1.7,5.0,Bruno Alves,Trindade,2023.0,Gratuito,5.0,3.3
+5427,2025-04-26,116.0,12,1,Balcão,,,4,5,Bolo de Cenoura,Doce,4.3,12.0,Elisa Barbosa,Itacorubi,2022.0,Fidelidade,12.0,7.7
+5428,2025-04-27,103.0,3,1,Delivery,,28.0,4,6,Latte,Café,3.6,10.5,João Lima,Coqueiros,2024.0,Fidelidade,10.5,6.9
+5429,2025-04-27,113.0,4,1,App,5.0,,4,6,Café Coado,Café,1.7,5.0,Nelson Pereira,Coqueiros,2021.0,Gratuito,5.0,3.3
+5430,2025-04-27,122.0,9,1,App,4.0,,4,6,Sanduíche Natural,Salgado,5.4,15.0,Ana Moreira,Coqueiros,2024.0,Gratuito,15.0,9.6
+5430,2025-04-27,122.0,9,1,App,4.0,,4,6,Sanduíche Natural,Salgado,5.4,15.0,Ana Moreira,Coqueiros,2024.0,Gratuito,15.0,9.6
+5431,2025-04-27,116.0,4,2,Balcão,5.0,,4,6,Café Coado,Café,1.7,5.0,Elisa Barbosa,Itacorubi,2022.0,Fidelidade,10.0,6.6
+5432,2025-04-27,148.0,5,1,Delivery,4.0,35.0,4,6,Chá Gelado,Bebida Gelada,2.5,8.0,Lucas Moreira,Trindade,2025.0,Gratuito,8.0,5.5
+5433,2025-04-27,121.0,11,2,Balcão,4.0,,4,6,Brownie,Doce,3.1,9.0,Zeca Nunes,Lagoa,2022.0,Fidelidade,18.0,11.8
+5434,2025-04-27,155.0,1,1,Delivery,4.0,480.0,4,6,Espresso,Café,2.0,6.0,Yara Souza,Centro,2024.0,Gratuito,6.0,4.0
+5435,2025-04-27,151.0,2,1,App,5.0,,4,6,Cappuccino,Café,3.2,9.5,Rafael Nunes,Trindade,2021.0,Fidelidade,9.5,6.3
+5436,2025-04-27,145.0,12,2,App,3.0,,4,6,Bolo de Cenoura,Doce,4.3,12.0,Lucas Pereira,Centro,2023.0,Gratuito,24.0,15.4
+5437,2025-04-28,,4,1,Balcão,5.0,,4,0,Café Coado,Café,1.7,5.0,,,,,5.0,3.3
+5438,2025-04-28,121.0,4,2,Delivery,4.0,46.0,4,0,Café Coado,Café,1.7,5.0,Zeca Nunes,Lagoa,2022.0,Fidelidade,10.0,6.6
+5439,2025-04-29,,3,1,Balcão,3.0,,4,1,Latte,Café,3.6,10.5,,,,,10.5,6.9
+5440,2025-04-29,,6,1,Balcão,5.0,,4,1,Limonada,Bebida Gelada,2.2,7.0,,,,,7.0,4.8
+5441,2025-04-30,147.0,7,1,App,4.0,,4,2,Café Gelado,Bebida Gelada,3.4,11.0,Elisa Carvalho,Agronômica,2021.0,Premium,11.0,7.6
+5442,2025-04-30,132.0,10,1,App,5.0,,4,2,Coxinha,Salgado,3.1,8.5,Isabela Ribeiro,Trindade,2023.0,Premium,8.5,5.4
+5443,2025-05-01,134.0,11,1,Balcão,5.0,,5,3,Brownie,Doce,3.1,9.0,Marina Costa,Agronômica,2024.0,Gratuito,9.0,5.9
+5444,2025-05-01,159.0,1,1,Delivery,4.0,40.0,5,3,Espresso,Café,2.0,6.0,Bruno Alves,Trindade,2023.0,Gratuito,6.0,4.0
+5445,2025-05-02,149.0,11,1,App,4.0,,5,4,Brownie,Doce,3.1,9.0,João Rocha,Agronômica,2022.0,Gratuito,9.0,5.9
+5446,2025-05-02,142.0,2,4,App,5.0,,5,4,Cappuccino,Café,3.2,9.5,Hugo Pereira,Agronômica,2025.0,Gratuito,38.0,25.2
+5447,2025-05-02,120.0,5,1,App,5.0,,5,4,Chá Gelado,Bebida Gelada,2.5,8.0,Wanda Nunes,Campeche,2023.0,Premium,8.0,5.5
+5448,2025-05-02,134.0,6,1,App,4.0,,5,4,Limonada,Bebida Gelada,2.2,7.0,Marina Costa,Agronômica,2024.0,Gratuito,7.0,4.8
+5449,2025-05-03,,1,1,Balcão,5.0,,5,5,Espresso,Café,2.0,6.0,,,,,6.0,4.0
+5450,2025-05-03,122.0,9,2,App,5.0,,5,5,Sanduíche Natural,Salgado,5.4,15.0,Ana Moreira,Coqueiros,2024.0,Gratuito,30.0,19.2
+5451,2025-05-03,,12,1,Balcão,5.0,,5,5,Bolo de Cenoura,Doce,4.3,12.0,,,,,12.0,7.7
+5452,2025-05-03,132.0,7,1,App,,,5,5,Café Gelado,Bebida Gelada,3.4,11.0,Isabela Ribeiro,Trindade,2023.0,Premium,11.0,7.6
+5453,2025-05-03,158.0,8,2,App,4.0,,5,5,Pão de Queijo,Salgado,2.3,6.5,Ana Alves,Trindade,2022.0,Fidelidade,13.0,8.4
+5454,2025-05-04,121.0,2,1,Delivery,4.0,30.0,5,6,Cappuccino,Café,3.2,9.5,Zeca Nunes,Lagoa,2022.0,Fidelidade,9.5,6.3
+5455,2025-05-04,102.0,9,1,App,5.0,,5,6,Sanduíche Natural,Salgado,5.4,15.0,Karina Pereira,Estreito,2024.0,Gratuito,15.0,9.6
+5456,2025-05-04,156.0,5,1,App,5.0,,5,6,Chá Gelado,Bebida Gelada,2.5,8.0,Úrsula Moreira,Lagoa,2021.0,Gratuito,8.0,5.5
+5457,2025-05-04,151.0,5,-1,App,5.0,,5,6,Chá Gelado,Bebida Gelada,2.5,8.0,Rafael Nunes,Trindade,2021.0,Fidelidade,-8.0,-5.5
+5458,2025-05-04,,5,2,Balcão,5.0,,5,6,Chá Gelado,Bebida Gelada,2.5,8.0,,,,,16.0,11.0
+5459,2025-05-04,102.0,1,1,Balcão,3.0,,5,6,Espresso,Café,2.0,6.0,Karina Pereira,Estreito,2024.0,Gratuito,6.0,4.0
+5460,2025-05-04,,12,4,Balcão,5.0,,5,6,Bolo de Cenoura,Doce,4.3,12.0,,,,,48.0,30.8
+5461,2025-05-04,103.0,11,1,App,5.0,,5,6,Brownie,Doce,3.1,9.0,João Lima,Coqueiros,2024.0,Fidelidade,9.0,5.9
+5462,2025-05-04,130.0,10,1,App,4.0,,5,6,Coxinha,Salgado,3.1,8.5,Rafael Ribeiro,Trindade,2023.0,Gratuito,8.5,5.4
+5463,2025-05-04,153.0,11,2,Delivery,,40.0,5,6,Brownie,Doce,3.1,9.0,Rafael Moreira,Agronômica,2024.0,Gratuito,18.0,11.8
+5464,2025-05-05,,11,1,Balcão,3.0,,5,0,Brownie,Doce,3.1,9.0,,,,,9.0,5.9
+5465,2025-05-05,101.0,5,1,Delivery,3.0,16.0,5,0,Chá Gelado,Bebida Gelada,2.5,8.0,Carla Alves,Centro,2025.0,Gratuito,8.0,5.5
+5466,2025-05-06,148.0,7,3,Balcão,,,5,1,Café Gelado,Bebida Gelada,3.4,11.0,Lucas Moreira,Trindade,2025.0,Gratuito,33.0,22.799999999999997
+5467,2025-05-06,128.0,5,1,App,3.0,,5,1,Chá Gelado,Bebida Gelada,2.5,8.0,Karina Ribeiro,Coqueiros,2021.0,Gratuito,8.0,5.5
+5468,2025-05-06,138.0,9,3,App,3.0,,5,1,Sanduíche Natural,Salgado,5.4,15.0,Zeca Alves,Agronômica,2022.0,Fidelidade,45.0,28.799999999999997
+5469,2025-05-07,,10,4,Balcão,5.0,,5,2,Coxinha,Salgado,3.1,8.5,,,,,34.0,21.6
+5470,2025-05-09,126.0,4,1,Delivery,4.0,43.0,5,4,Café Coado,Café,1.7,5.0,Fábio Rocha,Campeche,2025.0,Gratuito,5.0,3.3
+5471,2025-05-09,127.0,4,1,Balcão,4.0,,5,4,Café Coado,Café,1.7,5.0,Karina Nunes,Campeche,2021.0,Gratuito,5.0,3.3
+5472,2025-05-09,121.0,7,2,App,,,5,4,Café Gelado,Bebida Gelada,3.4,11.0,Zeca Nunes,Lagoa,2022.0,Fidelidade,22.0,15.2
+5473,2025-05-10,152.0,4,1,App,5.0,,5,5,Café Coado,Café,1.7,5.0,Isabela Rocha,Lagoa,2021.0,Gratuito,5.0,3.3
+5474,2025-05-10,,5,1,Balcão,4.0,,5,5,Chá Gelado,Bebida Gelada,2.5,8.0,,,,,8.0,5.5
+5475,2025-05-10,102.0,2,1,Balcão,,,5,5,Cappuccino,Café,3.2,9.5,Karina Pereira,Estreito,2024.0,Gratuito,9.5,6.3
+5476,2025-05-10,,12,1,Balcão,5.0,,5,5,Bolo de Cenoura,Doce,4.3,12.0,,,,,12.0,7.7
+5477,2025-05-10,128.0,10,1,App,,,5,5,Coxinha,Salgado,3.1,8.5,Karina Ribeiro,Coqueiros,2021.0,Gratuito,8.5,5.4
+5478,2025-05-10,,2,1,Balcão,5.0,,5,5,Cappuccino,Café,3.2,9.5,,,,,9.5,6.3
+5479,2025-05-10,130.0,11,1,Balcão,5.0,,5,5,Brownie,Doce,3.1,9.0,Rafael Ribeiro,Trindade,2023.0,Gratuito,9.0,5.9
+5480,2025-05-10,,5,1,Balcão,,,5,5,Chá Gelado,Bebida Gelada,2.5,8.0,,,,,8.0,5.5
+5481,2025-05-10,121.0,12,4,Balcão,4.0,,5,5,Bolo de Cenoura,Doce,4.3,12.0,Zeca Nunes,Lagoa,2022.0,Fidelidade,48.0,30.8
+5482,2025-05-11,,10,1,Balcão,5.0,,5,6,Coxinha,Salgado,3.1,8.5,,,,,8.5,5.4
+5483,2025-05-11,140.0,1,1,App,5.0,,5,6,Espresso,Café,2.0,6.0,Sandra Souza,Agronômica,2023.0,Fidelidade,6.0,4.0
+5484,2025-05-11,125.0,9,2,Delivery,4.0,53.0,5,6,Sanduíche Natural,Salgado,5.4,15.0,Diego Rocha,Trindade,2025.0,Premium,30.0,19.2
+5485,2025-05-11,139.0,6,1,Balcão,4.0,,5,6,Limonada,Bebida Gelada,2.2,7.0,Fábio Nunes,Estreito,2023.0,Fidelidade,7.0,4.8
+5486,2025-05-11,111.0,4,1,Delivery,4.0,19.0,5,6,Café Coado,Café,1.7,5.0,Sandra Ribeiro,Lagoa,2023.0,Gratuito,5.0,3.3
+5487,2025-05-11,114.0,4,3,Delivery,5.0,41.0,5,6,Café Coado,Café,1.7,5.0,Lucas Gomes,Estreito,2021.0,Gratuito,15.0,9.899999999999999
+5488,2025-05-11,146.0,4,3,App,4.0,,5,6,Café Coado,Café,1.7,5.0,Isabela Martins,Trindade,2024.0,Gratuito,15.0,9.899999999999999
+5489,2025-05-11,160.0,12,1,App,5.0,,5,6,Bolo de Cenoura,Doce,4.3,12.0,Olívia Carvalho,Centro,2024.0,Gratuito,12.0,7.7
+5490,2025-05-11,158.0,5,1,App,5.0,,5,6,Chá Gelado,Bebida Gelada,2.5,8.0,Ana Alves,Trindade,2022.0,Fidelidade,8.0,5.5
+5491,2025-05-12,122.0,1,1,Delivery,4.0,42.0,5,0,Espresso,Café,2.0,6.0,Ana Moreira,Coqueiros,2024.0,Gratuito,6.0,4.0
+5492,2025-05-12,145.0,11,3,App,5.0,,5,0,Brownie,Doce,3.1,9.0,Lucas Pereira,Centro,2023.0,Gratuito,27.0,17.700000000000003
+5493,2025-05-12,145.0,4,1,Balcão,5.0,,5,0,Café Coado,Café,1.7,5.0,Lucas Pereira,Centro,2023.0,Gratuito,5.0,3.3
+5494,2025-05-12,101.0,10,1,App,5.0,,5,0,Coxinha,Salgado,3.1,8.5,Carla Alves,Centro,2025.0,Gratuito,8.5,5.4
+5495,2025-05-12,,9,3,Balcão,2.0,,5,0,Sanduíche Natural,Salgado,5.4,15.0,,,,,45.0,28.799999999999997
+5496,2025-05-12,,6,1,Balcão,,,5,0,Limonada,Bebida Gelada,2.2,7.0,,,,,7.0,4.8
+5497,2025-05-13,147.0,10,1,Balcão,5.0,,5,1,Coxinha,Salgado,3.1,8.5,Elisa Carvalho,Agronômica,2021.0,Premium,8.5,5.4
+5498,2025-05-13,126.0,11,1,Delivery,4.0,28.0,5,1,Brownie,Doce,3.1,9.0,Fábio Rocha,Campeche,2025.0,Gratuito,9.0,5.9
+5499,2025-05-13,150.0,8,2,Balcão,5.0,,5,1,Pão de Queijo,Salgado,2.3,6.5,Elisa Cardoso,Lagoa,2023.0,Gratuito,13.0,8.4
+5500,2025-05-13,101.0,10,1,Balcão,5.0,,5,1,Coxinha,Salgado,3.1,8.5,Carla Alves,Centro,2025.0,Gratuito,8.5,5.4
+5500,2025-05-13,101.0,10,1,Balcão,5.0,,5,1,Coxinha,Salgado,3.1,8.5,Carla Alves,Centro,2025.0,Gratuito,8.5,5.4
+5501,2025-05-13,,1,3,Balcão,5.0,,5,1,Espresso,Café,2.0,6.0,,,,,18.0,12.0
+5502,2025-05-13,143.0,9,1,Balcão,4.0,,5,1,Sanduíche Natural,Salgado,5.4,15.0,Diego Carvalho,Estreito,2022.0,Gratuito,15.0,9.6
+5503,2025-05-14,129.0,11,1,Balcão,4.0,,5,2,Brownie,Doce,3.1,9.0,Rafael Mendes,Lagoa,2021.0,Fidelidade,9.0,5.9
+5504,2025-05-14,142.0,3,1,Balcão,4.0,,5,2,Latte,Café,3.6,10.5,Hugo Pereira,Agronômica,2025.0,Gratuito,10.5,6.9
+5505,2025-05-14,126.0,4,2,Delivery,,30.0,5,2,Café Coado,Café,1.7,5.0,Fábio Rocha,Campeche,2025.0,Gratuito,10.0,6.6
+5506,2025-05-14,125.0,10,1,App,3.0,,5,2,Coxinha,Salgado,3.1,8.5,Diego Rocha,Trindade,2025.0,Premium,8.5,5.4
+5507,2025-05-14,124.0,3,1,App,4.0,,5,2,Latte,Café,3.6,10.5,Hugo Nunes,Agronômica,2021.0,Fidelidade,10.5,6.9
+5508,2025-05-15,112.0,7,1,App,3.0,,5,3,Café Gelado,Bebida Gelada,3.4,11.0,Zeca Costa,Lagoa,2023.0,Fidelidade,11.0,7.6
+5509,2025-05-15,,2,2,Balcão,5.0,,5,3,Cappuccino,Café,3.2,9.5,,,,,19.0,12.6
+5510,2025-05-16,113.0,5,1,App,5.0,,5,4,Chá Gelado,Bebida Gelada,2.5,8.0,Nelson Pereira,Coqueiros,2021.0,Gratuito,8.0,5.5
+5511,2025-05-16,155.0,10,1,App,5.0,,5,4,Coxinha,Salgado,3.1,8.5,Yara Souza,Centro,2024.0,Gratuito,8.5,5.4
+5512,2025-05-16,157.0,4,3,Balcão,,,5,4,Café Coado,Café,1.7,5.0,Paulo Martins,Coqueiros,2025.0,Fidelidade,15.0,9.899999999999999
+5513,2025-05-17,109.0,5,1,Delivery,4.0,41.0,5,5,Chá Gelado,Bebida Gelada,2.5,8.0,Wanda Mendes,Agronômica,2022.0,Fidelidade,8.0,5.5
+5514,2025-05-17,158.0,1,1,App,4.0,,5,5,Espresso,Café,2.0,6.0,Ana Alves,Trindade,2022.0,Fidelidade,6.0,4.0
+5515,2025-05-17,104.0,3,3,App,5.0,,5,5,Latte,Café,3.6,10.5,Marina Cardoso,Centro,2022.0,Gratuito,31.5,20.700000000000003
+5516,2025-05-18,,5,2,Balcão,4.0,,5,6,Chá Gelado,Bebida Gelada,2.5,8.0,,,,,16.0,11.0
+5517,2025-05-18,,7,1,Balcão,4.0,,5,6,Café Gelado,Bebida Gelada,3.4,11.0,,,,,11.0,7.6
+5518,2025-05-18,118.0,7,1,Delivery,,21.0,5,6,Café Gelado,Bebida Gelada,3.4,11.0,Queila Ribeiro,Lagoa,2021.0,Premium,11.0,7.6
+5519,2025-05-18,155.0,1,1,Balcão,3.0,,5,6,Espresso,Café,2.0,6.0,Yara Souza,Centro,2024.0,Gratuito,6.0,4.0
+5520,2025-05-18,,9,2,Balcão,5.0,,5,6,Sanduíche Natural,Salgado,5.4,15.0,,,,,30.0,19.2
+5521,2025-05-18,122.0,5,2,Balcão,4.0,,5,6,Chá Gelado,Bebida Gelada,2.5,8.0,Ana Moreira,Coqueiros,2024.0,Gratuito,16.0,11.0
+5522,2025-05-18,155.0,6,1,App,5.0,,5,6,Limonada,Bebida Gelada,2.2,7.0,Yara Souza,Centro,2024.0,Gratuito,7.0,4.8
+5523,2025-05-19,124.0,5,1,App,,,5,0,Chá Gelado,Bebida Gelada,2.5,8.0,Hugo Nunes,Agronômica,2021.0,Fidelidade,8.0,5.5
+5524,2025-05-19,,7,2,Balcão,,,5,0,Café Gelado,Bebida Gelada,3.4,11.0,,,,,22.0,15.2
+5525,2025-05-19,142.0,10,1,Delivery,,26.0,5,0,Coxinha,Salgado,3.1,8.5,Hugo Pereira,Agronômica,2025.0,Gratuito,8.5,5.4
+5526,2025-05-19,,12,1,Balcão,3.0,,5,0,Bolo de Cenoura,Doce,4.3,12.0,,,,,12.0,7.7
+5527,2025-05-19,119.0,4,1,App,4.0,,5,0,Café Coado,Café,1.7,5.0,Fábio Ribeiro,Campeche,2022.0,Gratuito,5.0,3.3
+5528,2025-05-19,118.0,2,2,App,5.0,,5,0,Cappuccino,Café,3.2,9.5,Queila Ribeiro,Lagoa,2021.0,Premium,19.0,12.6
+5529,2025-05-19,132.0,6,1,App,4.0,,5,0,Limonada,Bebida Gelada,2.2,7.0,Isabela Ribeiro,Trindade,2023.0,Premium,7.0,4.8
+5530,2025-05-20,160.0,9,3,Balcão,,,5,1,Sanduíche Natural,Salgado,5.4,15.0,Olívia Carvalho,Centro,2024.0,Gratuito,45.0,28.799999999999997
+5531,2025-05-20,122.0,4,1,Delivery,3.0,47.0,5,1,Café Coado,Café,1.7,5.0,Ana Moreira,Coqueiros,2024.0,Gratuito,5.0,3.3
+5532,2025-05-20,142.0,11,1,App,5.0,,5,1,Brownie,Doce,3.1,9.0,Hugo Pereira,Agronômica,2025.0,Gratuito,9.0,5.9
+5533,2025-05-20,126.0,12,2,App,4.0,,5,1,Bolo de Cenoura,Doce,4.3,12.0,Fábio Rocha,Campeche,2025.0,Gratuito,24.0,15.4
+5534,2025-05-20,,2,1,Balcão,3.0,,5,1,Cappuccino,Café,3.2,9.5,,,,,9.5,6.3
+5535,2025-05-22,117.0,2,1,App,4.0,,5,3,Cappuccino,Café,3.2,9.5,Marina Pereira,Itacorubi,2025.0,Fidelidade,9.5,6.3
+5536,2025-05-22,,11,4,Balcão,3.0,,5,3,Brownie,Doce,3.1,9.0,,,,,36.0,23.6
+5537,2025-05-22,113.0,6,3,App,,,5,3,Limonada,Bebida Gelada,2.2,7.0,Nelson Pereira,Coqueiros,2021.0,Gratuito,21.0,14.399999999999999
+5538,2025-05-23,156.0,5,1,App,5.0,,5,4,Chá Gelado,Bebida Gelada,2.5,8.0,Úrsula Moreira,Lagoa,2021.0,Gratuito,8.0,5.5
+5539,2025-05-24,120.0,5,1,Delivery,4.0,30.0,5,5,Chá Gelado,Bebida Gelada,2.5,8.0,Wanda Nunes,Campeche,2023.0,Premium,8.0,5.5
+5540,2025-05-24,113.0,6,1,App,5.0,,5,5,Limonada,Bebida Gelada,2.2,7.0,Nelson Pereira,Coqueiros,2021.0,Gratuito,7.0,4.8
+5540,2025-05-24,113.0,6,1,App,5.0,,5,5,Limonada,Bebida Gelada,2.2,7.0,Nelson Pereira,Coqueiros,2021.0,Gratuito,7.0,4.8
+5541,2025-05-24,,5,2,Balcão,5.0,,5,5,Chá Gelado,Bebida Gelada,2.5,8.0,,,,,16.0,11.0
+5542,2025-05-24,152.0,1,4,App,5.0,,5,5,Espresso,Café,2.0,6.0,Isabela Rocha,Lagoa,2021.0,Gratuito,24.0,16.0
+5543,2025-05-24,,1,2,Balcão,,,5,5,Espresso,Café,2.0,6.0,,,,,12.0,8.0
+5544,2025-05-25,144.0,12,2,App,,,5,6,Bolo de Cenoura,Doce,4.3,12.0,João Carvalho,Lagoa,2024.0,Premium,24.0,15.4
+5545,2025-05-25,,5,1,Balcão,,,5,6,Chá Gelado,Bebida Gelada,2.5,8.0,,,,,8.0,5.5
+5546,2025-05-25,118.0,2,3,Balcão,5.0,,5,6,Cappuccino,Café,3.2,9.5,Queila Ribeiro,Lagoa,2021.0,Premium,28.5,18.9
+5547,2025-05-25,,1,1,Balcão,5.0,,5,6,Espresso,Café,2.0,6.0,,,,,6.0,4.0
+5548,2025-05-25,,11,4,Balcão,4.0,,5,6,Brownie,Doce,3.1,9.0,,,,,36.0,23.6
+5549,2025-05-25,112.0,12,1,Delivery,4.0,29.0,5,6,Bolo de Cenoura,Doce,4.3,12.0,Zeca Costa,Lagoa,2023.0,Fidelidade,12.0,7.7
+5550,2025-05-25,142.0,10,1,App,3.0,,5,6,Coxinha,Salgado,3.1,8.5,Hugo Pereira,Agronômica,2025.0,Gratuito,8.5,5.4
+5551,2025-05-26,,10,2,Balcão,5.0,,5,0,Coxinha,Salgado,3.1,8.5,,,,,17.0,10.8
+5552,2025-05-26,109.0,2,1,App,,,5,0,Cappuccino,Café,3.2,9.5,Wanda Mendes,Agronômica,2022.0,Fidelidade,9.5,6.3
+5553,2025-05-26,139.0,12,1,Delivery,,21.0,5,0,Bolo de Cenoura,Doce,4.3,12.0,Fábio Nunes,Estreito,2023.0,Fidelidade,12.0,7.7
+5554,2025-05-26,123.0,9,1,Balcão,,,5,0,Sanduíche Natural,Salgado,5.4,15.0,Lucas Souza,Campeche,2021.0,Fidelidade,15.0,9.6
+5555,2025-05-27,134.0,1,1,Delivery,4.0,36.0,5,1,Espresso,Café,2.0,6.0,Marina Costa,Agronômica,2024.0,Gratuito,6.0,4.0
+5556,2025-05-27,,9,1,Balcão,5.0,,5,1,Sanduíche Natural,Salgado,5.4,15.0,,,,,15.0,9.6
+5557,2025-05-27,107.0,3,3,App,3.0,,5,1,Latte,Café,3.6,10.5,Marina Ribeiro,Coqueiros,2022.0,Gratuito,31.5,20.700000000000003
+5558,2025-05-27,154.0,5,1,App,3.0,,5,1,Chá Gelado,Bebida Gelada,2.5,8.0,Xavier Rocha,Estreito,2025.0,Premium,8.0,5.5
+5559,2025-05-27,154.0,10,2,App,4.0,,5,1,Coxinha,Salgado,3.1,8.5,Xavier Rocha,Estreito,2025.0,Premium,17.0,10.8
+5560,2025-05-28,123.0,6,1,App,4.0,,5,2,Limonada,Bebida Gelada,2.2,7.0,Lucas Souza,Campeche,2021.0,Fidelidade,7.0,4.8
+5561,2025-05-28,118.0,8,1,App,5.0,,5,2,Pão de Queijo,Salgado,2.3,6.5,Queila Ribeiro,Lagoa,2021.0,Premium,6.5,4.2
+5562,2025-05-28,,12,2,Balcão,4.0,,5,2,Bolo de Cenoura,Doce,4.3,12.0,,,,,24.0,15.4
+5563,2025-05-28,153.0,5,2,App,5.0,,5,2,Chá Gelado,Bebida Gelada,2.5,8.0,Rafael Moreira,Agronômica,2024.0,Gratuito,16.0,11.0
+5564,2025-05-28,135.0,4,1,Delivery,3.0,41.0,5,2,Café Coado,Café,1.7,5.0,Sandra Teixeira,Itacorubi,2022.0,Premium,5.0,3.3
+5565,2025-05-28,160.0,2,1,Delivery,4.0,19.0,5,2,Cappuccino,Café,3.2,9.5,Olívia Carvalho,Centro,2024.0,Gratuito,9.5,6.3
+5566,2025-05-28,,10,1,Balcão,3.0,,5,2,Coxinha,Salgado,3.1,8.5,,,,,8.5,5.4
+5567,2025-05-29,,6,1,Balcão,4.0,,5,3,Limonada,Bebida Gelada,2.2,7.0,,,,,7.0,4.8
+5568,2025-05-29,,9,1,Balcão,5.0,,5,3,Sanduíche Natural,Salgado,5.4,15.0,,,,,15.0,9.6
+5569,2025-05-30,107.0,6,1,App,4.0,,5,4,Limonada,Bebida Gelada,2.2,7.0,Marina Ribeiro,Coqueiros,2022.0,Gratuito,7.0,4.8
+5570,2025-05-30,112.0,10,1,Delivery,4.0,35.0,5,4,Coxinha,Salgado,3.1,8.5,Zeca Costa,Lagoa,2023.0,Fidelidade,8.5,5.4
+5571,2025-05-30,141.0,9,2,Balcão,,,5,4,Sanduíche Natural,Salgado,5.4,15.0,Bruno Martins,Itacorubi,2023.0,Fidelidade,30.0,19.2
+5572,2025-05-30,134.0,1,2,Delivery,5.0,22.0,5,4,Espresso,Café,2.0,6.0,Marina Costa,Agronômica,2024.0,Gratuito,12.0,8.0
+5573,2025-05-30,,8,2,Balcão,4.0,,5,4,Pão de Queijo,Salgado,2.3,6.5,,,,,13.0,8.4
+5574,2025-05-30,131.0,7,1,Balcão,4.0,,5,4,Café Gelado,Bebida Gelada,3.4,11.0,Wanda Rocha,Centro,2024.0,Fidelidade,11.0,7.6
+5575,2025-05-31,137.0,5,1,Delivery,4.0,25.0,5,5,Chá Gelado,Bebida Gelada,2.5,8.0,Úrsula Nunes,Lagoa,2025.0,Gratuito,8.0,5.5
+5576,2025-05-31,159.0,1,1,App,3.0,,5,5,Espresso,Café,2.0,6.0,Bruno Alves,Trindade,2023.0,Gratuito,6.0,4.0
+5577,2025-05-31,114.0,8,2,Balcão,3.0,,5,5,Pão de Queijo,Salgado,2.3,6.5,Lucas Gomes,Estreito,2021.0,Gratuito,13.0,8.4
+5578,2025-05-31,123.0,12,1,App,5.0,,5,5,Bolo de Cenoura,Doce,4.3,12.0,Lucas Souza,Campeche,2021.0,Fidelidade,12.0,7.7
+5579,2025-05-31,146.0,4,1,Balcão,5.0,,5,5,Café Coado,Café,1.7,5.0,Isabela Martins,Trindade,2024.0,Gratuito,5.0,3.3
+5580,2025-06-01,124.0,8,1,Balcão,4.0,,6,6,Pão de Queijo,Salgado,2.3,6.5,Hugo Nunes,Agronômica,2021.0,Fidelidade,6.5,4.2
+5581,2025-06-03,136.0,7,1,Balcão,,,6,1,Café Gelado,Bebida Gelada,3.4,11.0,Vitor Ribeiro,Trindade,2023.0,Premium,11.0,7.6
+5582,2025-06-03,,10,3,Balcão,5.0,,6,1,Coxinha,Salgado,3.1,8.5,,,,,25.5,16.200000000000003
+5583,2025-06-04,136.0,9,1,App,3.0,,6,2,Sanduíche Natural,Salgado,5.4,15.0,Vitor Ribeiro,Trindade,2023.0,Premium,15.0,9.6
+5584,2025-06-04,,9,3,Balcão,5.0,,6,2,Sanduíche Natural,Salgado,5.4,15.0,,,,,45.0,28.799999999999997
+5585,2025-06-05,155.0,9,3,App,,,6,3,Sanduíche Natural,Salgado,5.4,15.0,Yara Souza,Centro,2024.0,Gratuito,45.0,28.799999999999997
+5586,2025-06-05,144.0,6,1,Balcão,5.0,,6,3,Limonada,Bebida Gelada,2.2,7.0,João Carvalho,Lagoa,2024.0,Premium,7.0,4.8
+5587,2025-06-06,158.0,11,1,Delivery,4.0,28.0,6,4,Brownie,Doce,3.1,9.0,Ana Alves,Trindade,2022.0,Fidelidade,9.0,5.9
+5588,2025-06-06,133.0,11,1,App,5.0,,6,4,Brownie,Doce,3.1,9.0,Hugo Lima,Agronômica,2021.0,Gratuito,9.0,5.9
+5589,2025-06-06,121.0,3,2,App,5.0,,6,4,Latte,Café,3.6,10.5,Zeca Nunes,Lagoa,2022.0,Fidelidade,21.0,13.8
+5590,2025-06-06,124.0,11,1,Balcão,4.0,,6,4,Brownie,Doce,3.1,9.0,Hugo Nunes,Agronômica,2021.0,Fidelidade,9.0,5.9
+5590,2025-06-06,124.0,11,1,Balcão,4.0,,6,4,Brownie,Doce,3.1,9.0,Hugo Nunes,Agronômica,2021.0,Fidelidade,9.0,5.9
+5591,2025-06-06,160.0,2,2,App,,,6,4,Cappuccino,Café,3.2,9.5,Olívia Carvalho,Centro,2024.0,Gratuito,19.0,12.6
+5592,2025-06-07,103.0,6,1,Delivery,3.0,33.0,6,5,Limonada,Bebida Gelada,2.2,7.0,João Lima,Coqueiros,2024.0,Fidelidade,7.0,4.8
+5593,2025-06-07,,8,1,Balcão,5.0,,6,5,Pão de Queijo,Salgado,2.3,6.5,,,,,6.5,4.2
+5594,2025-06-07,,6,1,Balcão,,,6,5,Limonada,Bebida Gelada,2.2,7.0,,,,,7.0,4.8
+5595,2025-06-07,139.0,5,1,Delivery,4.0,35.0,6,5,Chá Gelado,Bebida Gelada,2.5,8.0,Fábio Nunes,Estreito,2023.0,Fidelidade,8.0,5.5
+5596,2025-06-07,112.0,7,1,Delivery,4.0,37.0,6,5,Café Gelado,Bebida Gelada,3.4,11.0,Zeca Costa,Lagoa,2023.0,Fidelidade,11.0,7.6
+5597,2025-06-07,,2,2,Balcão,,,6,5,Cappuccino,Café,3.2,9.5,,,,,19.0,12.6
+5598,2025-06-07,135.0,9,1,Delivery,3.0,30.0,6,5,Sanduíche Natural,Salgado,5.4,15.0,Sandra Teixeira,Itacorubi,2022.0,Premium,15.0,9.6
+5599,2025-06-08,141.0,4,3,Delivery,5.0,33.0,6,6,Café Coado,Café,1.7,5.0,Bruno Martins,Itacorubi,2023.0,Fidelidade,15.0,9.899999999999999
+5600,2025-06-09,112.0,11,1,Balcão,,,6,0,Brownie,Doce,3.1,9.0,Zeca Costa,Lagoa,2023.0,Fidelidade,9.0,5.9
+5601,2025-06-09,116.0,12,1,Delivery,4.0,13.0,6,0,Bolo de Cenoura,Doce,4.3,12.0,Elisa Barbosa,Itacorubi,2022.0,Fidelidade,12.0,7.7
+5602,2025-06-10,106.0,1,3,App,5.0,,6,1,Espresso,Café,2.0,6.0,Elisa Nunes,Estreito,2023.0,Premium,18.0,12.0
+5603,2025-06-10,,10,2,Balcão,3.0,,6,1,Coxinha,Salgado,3.1,8.5,,,,,17.0,10.8
+5604,2025-06-11,,3,2,Balcão,4.0,,6,2,Latte,Café,3.6,10.5,,,,,21.0,13.8
+5605,2025-06-11,156.0,2,1,Balcão,5.0,,6,2,Cappuccino,Café,3.2,9.5,Úrsula Moreira,Lagoa,2021.0,Gratuito,9.5,6.3
+5606,2025-06-11,104.0,5,1,Delivery,4.0,23.0,6,2,Chá Gelado,Bebida Gelada,2.5,8.0,Marina Cardoso,Centro,2022.0,Gratuito,8.0,5.5
+5607,2025-06-11,135.0,7,3,App,4.0,,6,2,Café Gelado,Bebida Gelada,3.4,11.0,Sandra Teixeira,Itacorubi,2022.0,Premium,33.0,22.799999999999997
+5608,2025-06-11,150.0,1,1,Balcão,4.0,,6,2,Espresso,Café,2.0,6.0,Elisa Cardoso,Lagoa,2023.0,Gratuito,6.0,4.0
+5609,2025-06-11,,12,2,Balcão,3.0,,6,2,Bolo de Cenoura,Doce,4.3,12.0,,,,,24.0,15.4
+5610,2025-06-12,131.0,11,2,Balcão,5.0,,6,3,Brownie,Doce,3.1,9.0,Wanda Rocha,Centro,2024.0,Fidelidade,18.0,11.8
+5611,2025-06-12,124.0,5,4,Balcão,4.0,,6,3,Chá Gelado,Bebida Gelada,2.5,8.0,Hugo Nunes,Agronômica,2021.0,Fidelidade,32.0,22.0
+5612,2025-06-12,102.0,11,1,Balcão,5.0,,6,3,Brownie,Doce,3.1,9.0,Karina Pereira,Estreito,2024.0,Gratuito,9.0,5.9
+5613,2025-06-12,102.0,9,1,App,3.0,,6,3,Sanduíche Natural,Salgado,5.4,15.0,Karina Pereira,Estreito,2024.0,Gratuito,15.0,9.6
+5614,2025-06-13,,1,1,Balcão,4.0,,6,4,Espresso,Café,2.0,6.0,,,,,6.0,4.0
+5615,2025-06-13,129.0,5,1,App,5.0,,6,4,Chá Gelado,Bebida Gelada,2.5,8.0,Rafael Mendes,Lagoa,2021.0,Fidelidade,8.0,5.5
+5616,2025-06-13,,6,2,Balcão,,,6,4,Limonada,Bebida Gelada,2.2,7.0,,,,,14.0,9.6
+5617,2025-06-13,123.0,10,1,App,,,6,4,Coxinha,Salgado,3.1,8.5,Lucas Souza,Campeche,2021.0,Fidelidade,8.5,5.4
+5618,2025-06-13,126.0,10,2,App,3.0,,6,4,Coxinha,Salgado,3.1,8.5,Fábio Rocha,Campeche,2025.0,Gratuito,17.0,10.8
+5619,2025-06-13,132.0,6,40,Balcão,,,6,4,Limonada,Bebida Gelada,2.2,7.0,Isabela Ribeiro,Trindade,2023.0,Premium,280.0,192.0
+5620,2025-06-14,135.0,1,1,App,4.0,,6,5,Espresso,Café,2.0,6.0,Sandra Teixeira,Itacorubi,2022.0,Premium,6.0,4.0
+5621,2025-06-14,133.0,7,1,Delivery,4.0,21.0,6,5,Café Gelado,Bebida Gelada,3.4,11.0,Hugo Lima,Agronômica,2021.0,Gratuito,11.0,7.6
+5622,2025-06-14,128.0,5,1,App,5.0,,6,5,Chá Gelado,Bebida Gelada,2.5,8.0,Karina Ribeiro,Coqueiros,2021.0,Gratuito,8.0,5.5
+5623,2025-06-14,,2,1,Balcão,4.0,,6,5,Cappuccino,Café,3.2,9.5,,,,,9.5,6.3
+5624,2025-06-15,132.0,4,1,App,5.0,,6,6,Café Coado,Café,1.7,5.0,Isabela Ribeiro,Trindade,2023.0,Premium,5.0,3.3
+5625,2025-06-15,121.0,11,1,Balcão,5.0,,6,6,Brownie,Doce,3.1,9.0,Zeca Nunes,Lagoa,2022.0,Fidelidade,9.0,5.9
+5626,2025-06-15,,10,2,Balcão,4.0,,6,6,Coxinha,Salgado,3.1,8.5,,,,,17.0,10.8
+5627,2025-06-15,110.0,4,1,Balcão,3.0,,6,6,Café Coado,Café,1.7,5.0,Fábio Cardoso,Campeche,2022.0,Fidelidade,5.0,3.3
+5628,2025-06-16,151.0,3,4,Delivery,5.0,32.0,6,0,Latte,Café,3.6,10.5,Rafael Nunes,Trindade,2021.0,Fidelidade,42.0,27.6
+5629,2025-06-16,155.0,1,1,App,5.0,,6,0,Espresso,Café,2.0,6.0,Yara Souza,Centro,2024.0,Gratuito,6.0,4.0
+5630,2025-06-17,135.0,6,2,Balcão,4.0,,6,1,Limonada,Bebida Gelada,2.2,7.0,Sandra Teixeira,Itacorubi,2022.0,Premium,14.0,9.6
+5631,2025-06-17,121.0,7,1,Delivery,,30.0,6,1,Café Gelado,Bebida Gelada,3.4,11.0,Zeca Nunes,Lagoa,2022.0,Fidelidade,11.0,7.6
+5632,2025-06-18,146.0,6,1,App,5.0,,6,2,Limonada,Bebida Gelada,2.2,7.0,Isabela Martins,Trindade,2024.0,Gratuito,7.0,4.8
+5633,2025-06-18,110.0,9,2,App,4.0,,6,2,Sanduíche Natural,Salgado,5.4,15.0,Fábio Cardoso,Campeche,2022.0,Fidelidade,30.0,19.2
+5634,2025-06-19,104.0,4,1,App,5.0,,6,3,Café Coado,Café,1.7,5.0,Marina Cardoso,Centro,2022.0,Gratuito,5.0,3.3
+5635,2025-06-19,160.0,7,2,Balcão,2.0,,6,3,Café Gelado,Bebida Gelada,3.4,11.0,Olívia Carvalho,Centro,2024.0,Gratuito,22.0,15.2
+5636,2025-06-19,136.0,11,3,Delivery,5.0,21.0,6,3,Brownie,Doce,3.1,9.0,Vitor Ribeiro,Trindade,2023.0,Premium,27.0,17.700000000000003
+5637,2025-06-20,133.0,10,2,Balcão,4.0,,6,4,Coxinha,Salgado,3.1,8.5,Hugo Lima,Agronômica,2021.0,Gratuito,17.0,10.8
+5638,2025-06-20,132.0,10,1,Balcão,3.0,,6,4,Coxinha,Salgado,3.1,8.5,Isabela Ribeiro,Trindade,2023.0,Premium,8.5,5.4
+5639,2025-06-20,101.0,2,2,App,4.0,,6,4,Cappuccino,Café,3.2,9.5,Carla Alves,Centro,2025.0,Gratuito,19.0,12.6
+5640,2025-06-20,144.0,7,1,App,,,6,4,Café Gelado,Bebida Gelada,3.4,11.0,João Carvalho,Lagoa,2024.0,Premium,11.0,7.6
+5641,2025-06-20,,6,1,Balcão,5.0,,6,4,Limonada,Bebida Gelada,2.2,7.0,,,,,7.0,4.8
+5642,2025-06-21,113.0,4,1,App,5.0,,6,5,Café Coado,Café,1.7,5.0,Nelson Pereira,Coqueiros,2021.0,Gratuito,5.0,3.3
+5643,2025-06-21,119.0,6,1,App,,,6,5,Limonada,Bebida Gelada,2.2,7.0,Fábio Ribeiro,Campeche,2022.0,Gratuito,7.0,4.8
+5644,2025-06-21,,2,3,Balcão,5.0,,6,5,Cappuccino,Café,3.2,9.5,,,,,28.5,18.9
+5645,2025-06-21,,10,1,Balcão,4.0,,6,5,Coxinha,Salgado,3.1,8.5,,,,,8.5,5.4
+5646,2025-06-21,130.0,9,1,Delivery,3.0,31.0,6,5,Sanduíche Natural,Salgado,5.4,15.0,Rafael Ribeiro,Trindade,2023.0,Gratuito,15.0,9.6
+5647,2025-06-21,106.0,12,1,App,4.0,,6,5,Bolo de Cenoura,Doce,4.3,12.0,Elisa Nunes,Estreito,2023.0,Premium,12.0,7.7
+5648,2025-06-21,158.0,8,1,Balcão,5.0,,6,5,Pão de Queijo,Salgado,2.3,6.5,Ana Alves,Trindade,2022.0,Fidelidade,6.5,4.2
+5649,2025-06-21,121.0,11,1,Delivery,,29.0,6,5,Brownie,Doce,3.1,9.0,Zeca Nunes,Lagoa,2022.0,Fidelidade,9.0,5.9
+5650,2025-06-22,119.0,4,1,App,4.0,,6,6,Café Coado,Café,1.7,5.0,Fábio Ribeiro,Campeche,2022.0,Gratuito,5.0,3.3
+5651,2025-06-22,,9,2,Balcão,5.0,,6,6,Sanduíche Natural,Salgado,5.4,15.0,,,,,30.0,19.2
+5652,2025-06-22,142.0,8,1,Balcão,3.0,,6,6,Pão de Queijo,Salgado,2.3,6.5,Hugo Pereira,Agronômica,2025.0,Gratuito,6.5,4.2
+5653,2025-06-22,103.0,11,4,Delivery,5.0,41.0,6,6,Brownie,Doce,3.1,9.0,João Lima,Coqueiros,2024.0,Fidelidade,36.0,23.6
+5654,2025-06-24,145.0,4,2,App,5.0,,6,1,Café Coado,Café,1.7,5.0,Lucas Pereira,Centro,2023.0,Gratuito,10.0,6.6
+5655,2025-06-24,154.0,5,1,Balcão,,,6,1,Chá Gelado,Bebida Gelada,2.5,8.0,Xavier Rocha,Estreito,2025.0,Premium,8.0,5.5
+5656,2025-06-25,159.0,11,2,App,5.0,,6,2,Brownie,Doce,3.1,9.0,Bruno Alves,Trindade,2023.0,Gratuito,18.0,11.8
+5657,2025-06-25,148.0,7,1,App,4.0,,6,2,Café Gelado,Bebida Gelada,3.4,11.0,Lucas Moreira,Trindade,2025.0,Gratuito,11.0,7.6
+5658,2025-06-25,137.0,3,2,App,3.0,,6,2,Latte,Café,3.6,10.5,Úrsula Nunes,Lagoa,2025.0,Gratuito,21.0,13.8
+5659,2025-06-25,136.0,5,2,Balcão,4.0,,6,2,Chá Gelado,Bebida Gelada,2.5,8.0,Vitor Ribeiro,Trindade,2023.0,Premium,16.0,11.0
+5660,2025-06-25,141.0,8,4,Balcão,,,6,2,Pão de Queijo,Salgado,2.3,6.5,Bruno Martins,Itacorubi,2023.0,Fidelidade,26.0,16.8
+5661,2025-06-25,116.0,7,3,App,4.0,,6,2,Café Gelado,Bebida Gelada,3.4,11.0,Elisa Barbosa,Itacorubi,2022.0,Fidelidade,33.0,22.799999999999997
+5662,2025-06-26,121.0,8,2,Balcão,5.0,,6,3,Pão de Queijo,Salgado,2.3,6.5,Zeca Nunes,Lagoa,2022.0,Fidelidade,13.0,8.4
+5663,2025-06-26,112.0,9,2,Balcão,5.0,,6,3,Sanduíche Natural,Salgado,5.4,15.0,Zeca Costa,Lagoa,2023.0,Fidelidade,30.0,19.2
+5664,2025-06-27,135.0,9,2,Balcão,4.0,,6,4,Sanduíche Natural,Salgado,5.4,15.0,Sandra Teixeira,Itacorubi,2022.0,Premium,30.0,19.2
+5665,2025-06-27,125.0,9,2,Balcão,5.0,,6,4,Sanduíche Natural,Salgado,5.4,15.0,Diego Rocha,Trindade,2025.0,Premium,30.0,19.2
+5666,2025-06-28,117.0,11,1,Balcão,5.0,,6,5,Brownie,Doce,3.1,9.0,Marina Pereira,Itacorubi,2025.0,Fidelidade,9.0,5.9
+5667,2025-06-28,104.0,2,1,Balcão,4.0,,6,5,Cappuccino,Café,3.2,9.5,Marina Cardoso,Centro,2022.0,Gratuito,9.5,6.3
+5668,2025-06-28,101.0,12,4,App,4.0,,6,5,Bolo de Cenoura,Doce,4.3,12.0,Carla Alves,Centro,2025.0,Gratuito,48.0,30.8
+5669,2025-06-28,121.0,7,1,Balcão,5.0,,6,5,Café Gelado,Bebida Gelada,3.4,11.0,Zeca Nunes,Lagoa,2022.0,Fidelidade,11.0,7.6
+5670,2025-06-29,,1,2,Balcão,,,6,6,Espresso,Café,2.0,6.0,,,,,12.0,8.0
+5671,2025-06-29,122.0,5,1,Balcão,4.0,,6,6,Chá Gelado,Bebida Gelada,2.5,8.0,Ana Moreira,Coqueiros,2024.0,Gratuito,8.0,5.5
+5672,2025-06-29,109.0,7,1,Balcão,4.0,,6,6,Café Gelado,Bebida Gelada,3.4,11.0,Wanda Mendes,Agronômica,2022.0,Fidelidade,11.0,7.6
+5673,2025-06-29,106.0,7,1,App,5.0,,6,6,Café Gelado,Bebida Gelada,3.4,11.0,Elisa Nunes,Estreito,2023.0,Premium,11.0,7.6
+5674,2025-06-29,133.0,4,1,Balcão,4.0,,6,6,Café Coado,Café,1.7,5.0,Hugo Lima,Agronômica,2021.0,Gratuito,5.0,3.3
