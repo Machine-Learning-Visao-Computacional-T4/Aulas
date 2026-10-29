@@ -38,5 +38,5 @@ pedidos["faixa_entrega"] = pedidos["tempo_entrega_min"].apply(faixa_tempo)
 # 6) lambda: nota de 1 a 5 em percentual (NaN continua NaN)
 pedidos["nota_pct"] = pedidos["avaliacao"].apply(lambda n: n * 20)
 
-print(pedidos[["data", "mes", "dia_semana", "dia"]].head(3))
+print(pedidos[["data", "mes", "dia_semana", "dia"]].head(10))
 print(pedidos["faixa_entrega"].value_counts())
