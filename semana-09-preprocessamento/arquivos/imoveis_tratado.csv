@@ -1,0 +1,598 @@
+id_anuncio,bairro,tipo,area_m2,quartos,banheiros,vagas,idade_anos,condicao,aceita_pet,mobiliado,distancia_praia_km,preco,idade_ausente,preco_atipico
+3308,Rio Tavares,Apartamento,73.0,2,1,1,22.0,Regular,Não,Não,1.5,398000.0,False,False
+3166,Kobrasol,Apartamento,67.0,2,2,1,17.0,Bom,Sim,Sim,4.9,432000.0,True,False
+3359,Saco Dos Limões,Casa,167.0,4,4,2,16.0,Ótimo,Não,Sim,1.2,1596000.0,True,False
+3026,Itacorubi,Studio,28.0,1,2,2,12.0,Regular,Não,Não,2.3,199000.0,False,False
+3061,Canasvieiras,Casa,178.0,4,3,1,11.0,Ótimo,Não,Não,3.8,1527000.0,False,False
+3353,Estreito,Cobertura,208.0,5,4,1,28.0,Bom,Sim,Sim,1.8,1109000.0,False,False
+3289,Saco Dos Limões,Apartamento,42.0,1,2,0,11.0,Bom,Sim,Não,5.6,289000.0,False,False
+3509,Barra Da Lagoa,Casa,188.0,5,5,2,11.0,Regular,Sim,Não,8.6,1179000.0,False,False
+3189,Barra Da Lagoa,Casa,163.0,4,3,2,6.0,Bom,Não,Não,1.2,1368000.0,False,False
+3316,Rio Tavares,Apartamento,77.0,2,1,1,10.0,Ótimo,Sim,Não,3.5,600000.0,False,False
+3535,Canasvieiras,Apartamento,69.0,1,1,1,14.0,Bom,Não,Não,5.8,456000.0,False,False
+3110,Estreito,Apartamento,80.0,2,2,1,14.0,Bom,Sim,Não,6.9,408000.0,False,False
+3145,Kobrasol,Apartamento,88.0,2,1,2,12.0,Ótimo,Sim,Não,2.0,672000.0,False,False
+3219,Canasvieiras,Apartamento,89.0,2,2,1,14.0,Ótimo,Sim,Não,2.2,763000.0,False,False
+3348,Saco Dos Limões,Apartamento,53.0,1,2,0,55.0,Bom,Não,Não,2.6,289000.0,False,False
+3180,Saco Dos Limões,Casa,148.0,4,4,2,9.0,Bom,Sim,Não,1.3,1140000.0,False,False
+3437,Estreito,Casa,156.0,3,3,1,7.0,Ótimo,Sim,Sim,1.5,1023000.0,False,False
+3154,Canasvieiras,Casa,210.0,5,3,3,21.0,Regular,Sim,Sim,1.7,1486000.0,False,False
+3579,Canasvieiras,Cobertura,166.0,3,3,2,3.0,Bom,Sim,Sim,1.4,1037000.0,False,False
+3374,Kobrasol,Casa,156.0,2,2,2,53.0,Regular,Não,Não,4.1,385000.0,False,False
+3525,Estreito,Apartamento,84.0,2,2,1,18.0,Bom,Não,Não,5.0,478000.0,False,False
+3567,Kobrasol,Casa,106.0,3,3,1,16.0,Bom,Sim,Sim,3.1,715000.0,False,False
+3256,Rio Tavares,Apartamento,75.0,1,2,1,5.0,Regular,Sim,Não,1.9,551000.0,False,False
+3572,Ingleses,Apartamento,119.0,3,3,0,50.0,Ruim,Sim,Não,5.4,490000.0,False,False
+3599,Kobrasol,Studio,34.0,1,2,0,7.0,Bom,Sim,Não,4.2,216000.0,False,False
+3151,Rio Tavares,Casa,150.0,3,2,2,29.0,Bom,Sim,Sim,1.9,988000.0,False,False
+3135,Estreito,Apartamento,98.0,3,3,1,26.0,Bom,Não,Sim,0.5,602000.0,False,False
+3093,Kobrasol,Casa,180.0,4,4,2,21.0,Regular,Não,Sim,1.4,973000.0,False,False
+3433,Estreito,Studio,34.0,1,1,2,6.0,Ótimo,Sim,Sim,6.2,210000.0,False,False
+3260,Ingleses,Casa,109.0,3,2,0,14.0,Ótimo,Sim,Não,0.4,846000.0,False,False
+3500,Kobrasol,Apartamento,64.0,2,2,0,10.0,Bom,Sim,Não,2.4,384000.0,False,False
+3038,Barra Da Lagoa,Studio,42.0,1,1,0,15.0,Bom,Não,Sim,2.5,295000.0,False,False
+3355,Canasvieiras,Casa,154.0,4,4,1,6.0,Bom,Não,Sim,4.2,1063000.0,False,False
+3184,Saco Dos Limões,Apartamento,75.0,2,2,0,15.0,Ótimo,Não,Não,2.5,583000.0,False,False
+3582,Itacorubi,Apartamento,76.0,2,2,1,9.0,Bom,Sim,Sim,0.9,734000.0,False,False
+3129,Rio Tavares,Apartamento,84.0,2,2,1,27.0,Regular,Sim,Não,9.1,455000.0,False,False
+3105,Saco Dos Limões,Apartamento,36.0,1,2,0,11.0,Bom,Não,Não,0.6,229000.0,False,False
+3204,Barra Da Lagoa,Apartamento,77.0,2,2,0,55.0,Regular,Sim,Não,2.4,265000.0,False,False
+3172,Ingleses,Apartamento,58.0,2,2,1,20.0,Ruim,Não,Não,5.2,254000.0,False,False
+3218,Itacorubi,Apartamento,90.0,3,2,0,29.0,Regular,Não,Não,4.3,585000.0,False,False
+3416,Canasvieiras,Casa,170.0,4,3,1,55.0,Bom,Não,Não,2.3,1047000.0,False,False
+3231,Barra Da Lagoa,Cobertura,127.0,3,3,1,41.0,Ruim,Sim,Não,7.0,613000.0,False,False
+3902,Saco Dos Limões,Studio,31.0,1,2,1,19.0,Regular,Não,Não,1.3,179000.0,False,False
+3034,Barra Da Lagoa,Casa,187.0,4,3,2,12.0,Ótimo,Não,Não,0.4,1767000.0,False,True
+3471,Kobrasol,Apartamento,57.0,1,3,1,5.0,Bom,Sim,Não,6.2,364000.0,False,False
+3272,Estreito,Apartamento,75.0,2,3,1,16.0,Bom,Não,Não,5.1,373000.0,False,False
+3094,Barra Da Lagoa,Cobertura,610.0,5,3,4,20.0,Bom,Sim,Não,8.0,7800000.0,False,True
+3392,Barra Da Lagoa,Apartamento,92.0,2,2,0,13.0,Bom,Não,Sim,3.2,670000.0,False,False
+3275,Kobrasol,Apartamento,84.0,2,2,2,9.0,Ótimo,Sim,Não,2.5,579000.0,False,False
+3596,Itacorubi,Casa,176.0,4,3,1,14.0,Bom,Não,Não,2.3,1405000.0,False,False
+3908,Ingleses,Apartamento,76.0,2,3,2,45.0,Ruim,Sim,Não,2.0,343000.0,False,False
+3068,Estreito,Apartamento,109.0,2,3,1,17.0,Bom,Sim,Não,4.7,690000.0,True,False
+3149,Canasvieiras,Apartamento,71.0,1,2,1,17.0,Ótimo,Sim,Não,3.3,598000.0,True,False
+3221,Ingleses,Apartamento,77.0,2,1,1,11.0,Bom,Não,Não,6.2,580000.0,False,False
+3538,Itacorubi,Apartamento,67.0,1,1,1,14.0,Ótimo,Não,Não,2.4,570000.0,False,False
+3050,Ingleses,Casa,127.0,2,2,2,12.0,Regular,Não,Não,3.8,755000.0,False,False
+3040,Estreito,Apartamento,82.0,2,2,1,32.0,Regular,Sim,Sim,0.8,425000.0,False,False
+3373,Barra Da Lagoa,Apartamento,77.0,1,1,0,19.0,Bom,Não,Sim,1.8,636000.0,False,False
+3345,Barra Da Lagoa,Casa,160.0,3,3,2,16.0,Regular,Não,Não,1.1,1065000.0,True,False
+3181,Barra Da Lagoa,Apartamento,106.0,2,2,1,24.0,Bom,Sim,Não,3.1,779000.0,False,False
+3254,Barra Da Lagoa,Studio,37.0,1,1,1,19.0,Bom,Sim,Sim,5.9,288000.0,False,False
+3514,Estreito,Studio,44.0,1,1,0,18.0,Ótimo,Não,Sim,2.3,292000.0,False,False
+3027,Rio Tavares,Casa,165.0,4,2,2,16.0,Regular,Sim,Sim,0.9,931000.0,True,False
+3097,Saco Dos Limões,Casa,187.0,4,4,2,8.0,Regular,Sim,Não,2.9,1149000.0,False,False
+3267,Ingleses,Studio,38.0,1,1,0,6.0,Bom,Não,Não,3.7,253000.0,False,False
+3361,Itacorubi,Studio,43.0,1,2,0,11.0,Ótimo,Sim,Não,2.3,398000.0,False,False
+3005,Itacorubi,Casa,71.0,2,2,1,27.0,Regular,Sim,Não,0.8,552000.0,False,False
+3062,Saco Dos Limões,Casa,69.0,1,2,1,5.0,Regular,Não,Sim,13.7,393000.0,False,False
+3089,Saco Dos Limões,Apartamento,104.0,3,3,1,6.0,Regular,Sim,Não,0.5,657000.0,False,False
+3298,Ingleses,Studio,27.0,1,1,0,20.0,Bom,Não,Não,4.3,167000.0,False,False
+3208,Ingleses,Casa,142.0,3,2,2,3.0,Ótimo,Sim,Não,9.7,963000.0,False,False
+3240,Kobrasol,Apartamento,83.0,1,1,0,12.0,Bom,Não,Não,5.8,463000.0,False,False
+3488,Estreito,Casa,147.0,3,4,1,54.0,Bom,Sim,Não,7.3,687000.0,False,False
+3539,Saco Dos Limões,Apartamento,49.0,1,1,0,50.0,Regular,Sim,Não,3.5,226000.0,False,False
+3192,Kobrasol,Studio,25.0,1,1,0,4.0,Bom,Não,Não,1.5,174000.0,False,False
+3581,Kobrasol,Casa,245.0,5,5,2,3.0,Ótimo,Sim,Sim,3.2,1840000.0,False,True
+3328,Kobrasol,Apartamento,77.0,1,1,1,17.0,Ótimo,Sim,Não,5.8,505000.0,False,False
+3255,Saco Dos Limões,Apartamento,77.0,1,2,0,20.0,Regular,Sim,Sim,2.5,137000.0,False,False
+3096,Kobrasol,Apartamento,49.0,1,1,0,22.0,Regular,Sim,Sim,0.3,296000.0,False,False
+3092,Itacorubi,Apartamento,74.0,1,1,0,25.0,Bom,Sim,Não,5.3,538000.0,False,False
+3130,Canasvieiras,Casa,82.0,1,2,2,1.0,Bom,Não,Não,0.5,657000.0,False,False
+3496,Estreito,Casa,108.0,3,3,1,10.0,Bom,Sim,Não,0.7,658000.0,False,False
+3295,Rio Tavares,Casa,175.0,4,3,2,6.0,Bom,Sim,Não,1.0,1366000.0,False,False
+3296,Ingleses,Apartamento,138.0,4,4,1,5.0,Regular,Não,Sim,1.6,819000.0,False,False
+3408,Kobrasol,Studio,40.0,1,1,1,4.0,Ótimo,Sim,Não,0.6,332000.0,False,False
+3248,Canasvieiras,Apartamento,60.0,2,2,1,8.0,Regular,Não,Sim,2.6,382000.0,False,False
+3222,Estreito,Apartamento,66.0,1,1,0,4.0,Ótimo,Não,Sim,3.0,427000.0,False,False
+3452,Estreito,Cobertura,191.0,5,5,2,24.0,Ruim,Sim,Não,0.6,816000.0,False,False
+3312,Estreito,Apartamento,58.0,2,2,0,24.0,Bom,Não,Sim,2.4,309000.0,False,False
+3487,Rio Tavares,Apartamento,157.0,3,2,2,21.0,Bom,Sim,Não,3.5,701000.0,False,False
+3294,Ingleses,Apartamento,29.0,1,1,0,15.0,Regular,Não,Não,0.5,157000.0,False,False
+3400,Canasvieiras,Studio,35.0,1,1,0,14.0,Bom,Sim,Não,1.5,255000.0,False,False
+3382,Saco Dos Limões,Studio,30.0,1,1,0,11.0,Bom,Sim,Não,5.6,193000.0,False,False
+3292,Ingleses,Casa,115.0,3,4,0,31.0,Bom,Sim,Sim,1.6,732000.0,False,False
+3495,Rio Tavares,Apartamento,98.0,1,1,0,10.0,Regular,Não,Não,3.9,609000.0,False,False
+3459,Rio Tavares,Apartamento,88.0,2,1,1,9.0,Bom,Não,Não,1.6,719000.0,False,False
+3138,Saco Dos Limões,Casa,169.0,4,3,2,19.0,Regular,Sim,Não,5.8,1031000.0,False,False
+3401,Saco Dos Limões,Apartamento,102.0,3,3,0,10.0,Regular,Sim,Não,3.0,623000.0,False,False
+3012,Barra Da Lagoa,Apartamento,77.0,1,1,1,17.0,Ótimo,Sim,Não,5.5,732000.0,False,False
+3354,Estreito,Studio,31.0,1,2,0,29.0,Bom,Sim,Não,8.0,145000.0,False,False
+3479,Estreito,Casa,205.0,4,3,2,26.0,Ruim,Sim,Sim,4.9,808000.0,False,False
+3317,Kobrasol,Apartamento,55.0,1,2,1,11.0,Regular,Sim,Não,2.8,328000.0,False,False
+3150,Itacorubi,Apartamento,121.0,3,2,0,26.0,Regular,Sim,Não,2.1,876000.0,False,False
+3515,Rio Tavares,Casa,128.0,4,3,3,20.0,Regular,Sim,Não,1.5,795000.0,False,False
+3455,Ingleses,Cobertura,264.0,5,4,2,5.0,Bom,Não,Sim,7.0,1660000.0,False,True
+3493,Itacorubi,Studio,28.0,1,1,1,8.0,Bom,Sim,Sim,2.4,209000.0,False,False
+3297,Barra Da Lagoa,Apartamento,91.0,2,3,1,15.0,Bom,Não,Sim,3.0,713000.0,False,False
+3058,Kobrasol,Apartamento,65.0,1,1,1,18.0,Ótimo,Não,Não,2.8,429000.0,False,False
+3147,Kobrasol,Apartamento,37.0,1,2,1,12.0,Bom,Não,Não,3.1,245000.0,False,False
+3358,Estreito,Casa,69.0,2,2,0,33.0,Regular,Sim,Não,8.1,290000.0,False,False
+3390,Canasvieiras,Casa,108.0,2,2,0,16.0,Bom,Sim,Sim,0.7,778000.0,True,False
+3170,Ingleses,Studio,34.0,1,2,1,30.0,Regular,Sim,Sim,3.4,183000.0,False,False
+3278,Kobrasol,Cobertura,170.0,4,3,2,26.0,Ruim,Sim,Não,4.7,759000.0,False,False
+3055,Barra Da Lagoa,Cobertura,480.0,5,4,4,21.0,Bom,Sim,Não,1.0,6200000.0,False,True
+3230,Canasvieiras,Casa,47.0,1,1,1,18.0,Bom,Sim,Não,2.2,349000.0,False,False
+3057,Kobrasol,Casa,122.0,2,2,0,17.0,Regular,Sim,Sim,2.1,641000.0,False,False
+3196,Saco Dos Limões,Cobertura,126.0,3,2,1,18.0,Bom,Sim,Não,4.4,854000.0,False,False
+3071,Ingleses,Apartamento,100.0,2,2,1,17.0,Bom,Não,Sim,1.0,693000.0,False,False
+3362,Kobrasol,Apartamento,100.0,2,2,1,42.0,Regular,Não,Não,2.0,452000.0,False,False
+3306,Estreito,Apartamento,92.0,3,3,0,38.0,Bom,Sim,Sim,3.8,504000.0,False,False
+3376,Kobrasol,Casa,151.0,3,2,1,15.0,Bom,Sim,Não,2.1,1033000.0,False,False
+3241,Ingleses,Casa,194.0,5,4,2,6.0,Bom,Não,Não,2.6,1413000.0,False,False
+3301,Canasvieiras,Cobertura,249.0,6,5,3,12.0,Bom,Não,Não,2.8,1887000.0,False,True
+3439,Barra Da Lagoa,Casa,115.0,2,1,2,17.0,Bom,Sim,Sim,1.4,845000.0,False,False
+3504,Ingleses,Apartamento,107.0,2,2,2,9.0,Bom,Sim,Sim,2.2,782000.0,False,False
+3124,Ingleses,Casa,99.0,2,2,2,16.0,Bom,Não,Não,4.6,545000.0,True,False
+3302,Itacorubi,Casa,206.0,5,4,2,8.0,Bom,Não,Não,8.5,1543000.0,False,False
+3598,Ingleses,Studio,36.0,1,1,0,5.0,Ótimo,Não,Sim,4.0,279000.0,False,False
+3420,Barra Da Lagoa,Apartamento,103.0,3,3,2,22.0,Regular,Sim,Não,1.5,738000.0,False,False
+3560,Barra Da Lagoa,Apartamento,43.0,1,1,0,26.0,Regular,Sim,Não,0.5,328000.0,False,False
+3054,Ingleses,Casa,212.0,5,5,2,16.0,Ótimo,Sim,Não,2.1,1697000.0,True,True
+3251,Estreito,Apartamento,36.0,1,1,0,25.0,Bom,Sim,Não,0.7,198000.0,False,False
+3593,Kobrasol,Apartamento,82.0,2,3,1,22.0,Ruim,Não,Sim,6.0,366000.0,False,False
+3330,Barra Da Lagoa,Apartamento,101.0,2,3,1,20.0,Regular,Sim,Não,1.2,727000.0,False,False
+3536,Barra Da Lagoa,Casa,172.0,4,3,1,2.0,Bom,Sim,Não,2.6,1416000.0,False,False
+3553,Kobrasol,Casa,116.0,3,3,1,43.0,Ruim,Sim,Não,2.5,482000.0,False,False
+3564,Saco Dos Limões,Casa,131.0,2,3,1,14.0,Bom,Não,Não,8.7,848000.0,False,False
+3465,Barra Da Lagoa,Apartamento,67.0,2,1,2,10.0,Bom,Sim,Sim,1.0,557000.0,False,False
+3045,Kobrasol,Studio,38.0,1,1,1,29.0,Regular,Sim,Sim,2.3,215000.0,False,False
+3422,Kobrasol,Apartamento,105.0,2,2,0,44.0,Bom,Sim,Não,5.1,394000.0,False,False
+3144,Canasvieiras,Apartamento,77.0,1,2,1,14.0,Regular,Não,Sim,1.5,536000.0,False,False
+3199,Estreito,Apartamento,72.0,2,2,0,16.0,Regular,Sim,Não,2.7,401000.0,False,False
+3140,Itacorubi,Apartamento,97.0,2,2,1,36.0,Ruim,Não,Sim,6.6,508000.0,False,False
+3544,Kobrasol,Cobertura,245.0,5,3,3,18.0,Ótimo,Sim,Sim,3.5,1587000.0,False,False
+3288,Itacorubi,Apartamento,90.0,2,1,1,17.0,Regular,Não,Não,1.8,601000.0,True,False
+3448,Rio Tavares,Apartamento,91.0,2,2,1,17.0,Ótimo,Sim,Sim,2.25,721000.0,True,False
+3205,Ingleses,Casa,205.0,4,3,2,16.0,Regular,Sim,Não,3.5,1118000.0,True,False
+3175,Estreito,Apartamento,94.0,1,2,2,13.0,Bom,Não,Não,1.2,555000.0,False,False
+3426,Kobrasol,Apartamento,97.0,2,2,2,19.0,Ótimo,Não,Sim,1.8,742000.0,False,False
+3321,Rio Tavares,Casa,184.0,5,4,1,19.0,Bom,Não,Não,3.2,1283000.0,False,False
+3490,Barra Da Lagoa,Apartamento,77.0,1,2,1,37.0,Regular,Sim,Sim,8.5,538000.0,False,False
+3010,Estreito,Apartamento,69.0,1,2,1,21.0,Ruim,Sim,Não,3.1,292000.0,False,False
+3159,Saco Dos Limões,Apartamento,83.0,2,2,0,15.0,Bom,Sim,Não,3.4,633000.0,False,False
+3007,Barra Da Lagoa,Studio,26.0,1,2,1,26.0,Ruim,Sim,Sim,0.3,135000.0,False,False
+3477,Itacorubi,Apartamento,81.0,1,1,1,55.0,Bom,Não,Não,1.4,587000.0,False,False
+3202,Itacorubi,Apartamento,90.0,1,1,1,30.0,Regular,Sim,Não,4.7,631000.0,False,False
+3402,Kobrasol,Apartamento,78.0,2,2,0,10.0,Ótimo,Sim,Não,4.4,586000.0,False,False
+3531,Rio Tavares,Apartamento,97.0,2,3,1,9.0,Regular,Sim,Não,3.6,677000.0,False,False
+3377,Itacorubi,Apartamento,85.0,3,2,0,37.0,Bom,Sim,Não,3.7,644000.0,False,False
+3389,Estreito,Apartamento,56.0,1,1,1,31.0,Regular,Não,Sim,2.6,245000.0,False,False
+3215,Itacorubi,Apartamento,35.0,1,1,0,18.0,Ótimo,Não,Não,2.9,336000.0,False,False
+3084,Kobrasol,Apartamento,74.0,1,1,2,35.0,Bom,Sim,Sim,2.0,418000.0,False,False
+3305,Ingleses,Studio,33.0,1,2,0,24.0,Regular,Não,Não,2.4,160000.0,False,False
+3445,Canasvieiras,Apartamento,53.0,1,1,0,19.0,Bom,Não,Não,2.0,482000.0,False,False
+3562,Canasvieiras,Apartamento,68.0,1,1,1,24.0,Bom,Sim,Não,5.9,477000.0,False,False
+3100,Ingleses,Apartamento,80.0,1,1,1,19.0,Regular,Não,Sim,1.9,459000.0,False,False
+3125,Rio Tavares,Cobertura,208.0,4,4,2,19.0,Bom,Sim,Sim,5.1,1370000.0,False,False
+3335,Rio Tavares,Cobertura,216.0,4,3,3,1.0,Ótimo,Não,Não,4.0,1762000.0,False,True
+3435,Kobrasol,Apartamento,73.0,2,3,1,16.0,Bom,Não,Não,1.9,459000.0,False,False
+3088,Saco Dos Limões,Casa,186.0,5,4,2,16.0,Bom,Sim,Não,6.0,1199000.0,True,False
+3591,Saco Dos Limões,Apartamento,43.0,1,1,0,17.0,Bom,Sim,Sim,0.5,318000.0,True,False
+3269,Saco Dos Limões,Apartamento,53.0,1,2,1,10.0,Bom,Não,Sim,2.6,354000.0,False,False
+3349,Canasvieiras,Apartamento,42.0,1,1,1,27.0,Regular,Não,Sim,1.0,282000.0,False,False
+3072,Kobrasol,Studio,32.0,1,1,0,32.0,Bom,Sim,Não,0.9,162000.0,False,False
+3478,Itacorubi,Casa,136.0,2,2,1,25.0,Ruim,Sim,Sim,1.8,810000.0,False,False
+3244,Rio Tavares,Apartamento,50.0,1,2,0,34.0,Bom,Sim,Não,2.25,324000.0,False,False
+3131,Barra Da Lagoa,Apartamento,63.0,2,2,0,9.0,Ótimo,Sim,Sim,3.9,553000.0,False,False
+3075,Kobrasol,Casa,170.0,3,3,3,31.0,Bom,Não,Não,2.7,1081000.0,False,False
+3137,Estreito,Apartamento,82.0,2,1,2,5.0,Regular,Sim,Sim,2.8,476000.0,False,False
+3566,Rio Tavares,Studio,31.0,1,1,0,20.0,Regular,Não,Não,3.3,188000.0,False,False
+3529,Ingleses,Casa,195.0,4,4,2,11.0,Ótimo,Não,Não,8.4,1430000.0,False,False
+3017,Canasvieiras,Apartamento,103.0,2,2,2,6.0,Regular,Sim,Não,2.9,776000.0,False,False
+3114,Saco Dos Limões,Casa,154.0,4,4,1,11.0,Regular,Não,Não,3.1,941000.0,False,False
+3008,Ingleses,Studio,38.0,1,2,1,34.0,Bom,Não,Sim,2.9,192000.0,False,False
+3174,Itacorubi,Casa,174.0,4,4,3,30.0,Regular,Não,Sim,3.9,1199000.0,False,False
+3550,Itacorubi,Casa,119.0,2,2,2,16.0,Bom,Sim,Sim,2.0,952000.0,True,False
+3418,Rio Tavares,Apartamento,84.0,2,3,1,3.0,Ótimo,Sim,Não,0.5,700000.0,False,False
+3472,Kobrasol,Casa,156.0,2,3,1,16.0,Regular,Sim,Não,1.8,677000.0,True,False
+3438,Saco Dos Limões,Casa,210.0,5,4,3,16.0,Bom,Não,Sim,2.9,1415000.0,True,False
+3534,Kobrasol,Studio,33.0,1,2,1,7.0,Bom,Sim,Não,6.3,219000.0,False,False
+3468,Barra Da Lagoa,Casa,153.0,4,3,1,13.0,Bom,Sim,Não,2.0,1247000.0,False,False
+3428,Itacorubi,Apartamento,68.0,1,1,2,26.0,Regular,Não,Sim,5.1,463000.0,False,False
+3286,Kobrasol,Casa,156.0,2,3,3,9.0,Ótimo,Sim,Sim,6.3,979000.0,False,False
+3464,Itacorubi,Apartamento,77.0,2,2,1,10.0,Ótimo,Sim,Sim,2.4,503000.0,False,False
+3387,Ingleses,Casa,112.0,3,3,1,12.0,Ótimo,Não,Sim,0.4,907000.0,False,False
+3589,Estreito,Studio,24.0,1,1,0,13.5,Bom,Sim,Não,2.0,132000.0,True,False
+3431,Canasvieiras,Apartamento,51.0,2,2,0,14.0,Bom,Não,Não,4.2,398000.0,False,False
+3375,Canasvieiras,Apartamento,69.0,1,2,0,2.0,Ótimo,Sim,Não,4.7,563000.0,False,False
+3556,Ingleses,Studio,41.0,1,1,0,2.0,Ótimo,Sim,Não,8.0,314000.0,False,False
+3441,Canasvieiras,Studio,33.0,1,1,0,55.0,Regular,Sim,Sim,1.0,197000.0,False,False
+3480,Canasvieiras,Apartamento,69.0,2,2,1,24.0,Regular,Sim,Sim,6.0,460000.0,False,False
+3200,Kobrasol,Cobertura,186.0,4,4,3,24.0,Bom,Sim,Não,5.6,1048000.0,False,False
+3299,Barra Da Lagoa,Casa,181.0,4,4,1,9.0,Regular,Sim,Não,0.6,1294000.0,False,False
+3220,Saco Dos Limões,Casa,141.0,3,3,1,16.0,Bom,Não,Não,3.5,950000.0,False,False
+3281,Barra Da Lagoa,Apartamento,62.0,1,1,1,15.0,Bom,Não,Sim,5.9,463000.0,False,False
+3393,Kobrasol,Apartamento,74.0,1,2,1,23.0,Regular,Não,Não,1.7,384000.0,False,False
+3122,Kobrasol,Apartamento,77.0,1,1,1,20.0,Regular,Não,Não,1.9,432000.0,False,False
+3526,Kobrasol,Apartamento,106.0,2,2,1,13.0,Bom,Não,Não,7.9,649000.0,False,False
+3565,Itacorubi,Apartamento,85.0,2,2,1,9.0,Regular,Não,Não,0.7,675000.0,False,False
+3311,Barra Da Lagoa,Apartamento,99.0,2,2,1,5.0,Ótimo,Não,Não,2.9,928000.0,False,False
+3484,Estreito,Apartamento,77.0,2,2,2,31.0,Regular,Não,Não,4.8,423000.0,False,False
+3021,Ingleses,Apartamento,74.0,1,2,1,3.0,Ótimo,Sim,Não,4.6,582000.0,False,False
+3530,Barra Da Lagoa,Apartamento,37.0,1,1,0,8.0,Bom,Não,Não,4.0,294000.0,False,False
+3211,Canasvieiras,Casa,153.0,3,2,1,16.0,Regular,Sim,Sim,0.3,962000.0,True,False
+3283,Canasvieiras,Apartamento,61.0,2,2,0,10.0,Bom,Não,Não,2.1,455000.0,False,False
+3594,Kobrasol,Apartamento,83.0,2,1,1,12.0,Bom,Sim,Não,0.9,552000.0,False,False
+3397,Ingleses,Apartamento,83.0,2,2,1,26.0,Bom,Não,Não,3.7,532000.0,False,False
+3545,Rio Tavares,Casa,202.0,4,3,1,16.0,Bom,Não,Sim,0.6,1369000.0,True,False
+3391,Ingleses,Casa,201.0,4,3,3,8.0,Ótimo,Não,Não,1.3,1587000.0,False,False
+3118,Saco Dos Limões,Studio,32.0,1,1,1,2.0,Ótimo,Sim,Sim,2.9,324000.0,False,False
+3563,Itacorubi,Apartamento,77.0,1,1,1,19.0,Bom,Sim,Sim,5.3,740000.0,False,False
+3271,Barra Da Lagoa,Casa,76.0,2,2,0,14.0,Bom,Não,Não,8.2,536000.0,False,False
+3350,Barra Da Lagoa,Casa,215.0,5,4,3,16.0,Bom,Não,Sim,3.8,1643000.0,True,True
+3370,Ingleses,Studio,30.0,1,2,1,21.0,Bom,Sim,Não,2.1,210000.0,False,False
+3483,Canasvieiras,Casa,247.0,6,5,2,16.0,Bom,Sim,Sim,8.7,1742000.0,True,True
+3203,Saco Dos Limões,Casa,149.0,2,2,1,16.0,Regular,Não,Não,6.0,930000.0,True,False
+3106,Ingleses,Casa,156.0,3,3,1,2.0,Bom,Não,Sim,5.7,1067000.0,False,False
+3513,Rio Tavares,Apartamento,77.0,3,3,1,9.0,Bom,Sim,Não,1.5,694000.0,False,False
+3201,Ingleses,Studio,36.0,1,1,0,13.5,Regular,Não,Sim,3.1,204000.0,True,False
+3319,Canasvieiras,Apartamento,75.0,1,1,1,12.0,Regular,Não,Não,4.7,473000.0,False,False
+3087,Kobrasol,Casa,183.0,4,4,2,15.0,Regular,Não,Não,3.3,953000.0,False,False
+3548,Kobrasol,Studio,31.0,1,1,0,50.0,Bom,Sim,Não,1.6,164000.0,False,False
+3318,Barra Da Lagoa,Casa,173.0,5,4,1,16.0,Ótimo,Não,Não,2.8,1705000.0,True,True
+3454,Rio Tavares,Casa,44.0,1,2,1,6.0,Bom,Sim,Não,2.2,305000.0,False,False
+3163,Ingleses,Studio,30.0,1,1,0,13.5,Regular,Não,Sim,1.2,181000.0,True,False
+3341,Itacorubi,Apartamento,86.0,2,2,1,18.0,Regular,Não,Sim,6.0,589000.0,False,False
+3136,Estreito,Apartamento,112.0,2,2,1,18.0,Bom,Sim,Não,1.2,696000.0,False,False
+3486,Canasvieiras,Cobertura,308.0,6,5,3,10.0,Regular,Não,Não,0.8,1861000.0,False,True
+3116,Estreito,Casa,186.0,3,3,2,16.0,Ótimo,Sim,Sim,6.6,1156000.0,False,False
+3457,Ingleses,Apartamento,77.0,2,2,1,34.0,Regular,Não,Sim,4.4,377000.0,False,False
+3224,Saco Dos Limões,Casa,86.0,3,3,2,6.0,Regular,Não,Não,2.0,566000.0,False,False
+3263,Ingleses,Casa,151.0,4,4,1,19.0,Bom,Sim,Não,5.6,846000.0,False,False
+3035,Kobrasol,Apartamento,77.0,3,3,2,21.0,Regular,Não,Não,5.5,457000.0,False,False
+3326,Rio Tavares,Studio,32.0,1,1,0,4.0,Ótimo,Não,Não,2.4,373000.0,False,False
+3905,Itacorubi,Casa,156.0,6,4,2,19.0,Regular,Sim,Não,2.4,1321000.0,False,False
+3022,Estreito,Casa,93.0,2,2,1,23.0,Bom,Sim,Não,3.7,515000.0,False,False
+3015,Canasvieiras,Studio,29.0,1,2,0,22.0,Regular,Sim,Não,1.4,175000.0,False,False
+3273,Ingleses,Casa,125.0,2,1,1,10.0,Bom,Sim,Sim,2.5,773000.0,False,False
+3410,Canasvieiras,Studio,28.0,1,1,1,14.0,Bom,Sim,Não,3.1,186000.0,False,False
+3185,Kobrasol,Studio,26.0,1,1,1,16.0,Bom,Sim,Não,0.6,158000.0,False,False
+3407,Estreito,Apartamento,71.0,1,1,1,1.0,Bom,Sim,Não,2.8,448000.0,False,False
+3310,Kobrasol,Casa,126.0,3,2,1,18.0,Ótimo,Não,Sim,3.7,873000.0,False,False
+3099,Barra Da Lagoa,Apartamento,76.0,1,1,3,9.0,Bom,Sim,Não,5.7,591000.0,False,False
+3557,Kobrasol,Apartamento,28.0,1,1,1,49.0,Regular,Não,Não,1.4,139000.0,False,False
+3325,Estreito,Casa,156.0,3,3,3,31.0,Ruim,Sim,Não,2.7,686000.0,False,False
+3095,Canasvieiras,Apartamento,74.0,1,1,0,29.0,Bom,Sim,Não,1.8,516000.0,False,False
+3032,Estreito,Casa,166.0,4,4,2,13.0,Ótimo,Não,Sim,1.5,1230000.0,False,False
+3277,Itacorubi,Apartamento,124.0,3,3,2,17.0,Ótimo,Não,Sim,5.4,1133000.0,True,False
+3176,Ingleses,Apartamento,66.0,1,2,1,17.0,Bom,Sim,Não,2.7,415000.0,True,False
+3107,Rio Tavares,Casa,92.0,2,2,0,16.0,Ótimo,Não,Sim,2.4,716000.0,True,False
+3252,Estreito,Casa,171.0,4,4,2,10.0,Bom,Não,Sim,3.6,1059000.0,False,False
+3903,Ingleses,Apartamento,40.0,1,2,1,15.0,Bom,Não,Não,5.5,241000.0,False,False
+3904,Itacorubi,Apartamento,86.0,1,1,1,18.0,Ótimo,Sim,Não,2.5,845000.0,False,False
+3357,Estreito,Apartamento,121.0,3,3,1,13.0,Bom,Sim,Sim,2.3,726000.0,False,False
+3543,Rio Tavares,Apartamento,54.0,1,1,0,3.0,Ótimo,Sim,Não,12.8,401000.0,False,False
+3568,Estreito,Studio,43.0,1,1,0,20.0,Ruim,Sim,Não,10.9,147000.0,False,False
+3473,Kobrasol,Apartamento,66.0,1,3,0,17.0,Bom,Sim,Não,3.6,417000.0,True,False
+3522,Kobrasol,Apartamento,82.0,2,3,1,17.0,Regular,Sim,Sim,2.0,418000.0,True,False
+3491,Barra Da Lagoa,Studio,34.0,1,2,0,21.0,Ruim,Sim,Não,7.4,193000.0,False,False
+3279,Saco Dos Limões,Casa,192.0,4,4,2,16.0,Regular,Sim,Sim,0.8,954000.0,True,False
+3481,Itacorubi,Studio,34.0,1,2,1,14.0,Bom,Sim,Não,2.9,286000.0,False,False
+3489,Estreito,Apartamento,94.0,2,2,1,17.0,Bom,Não,Não,1.0,565000.0,False,False
+3379,Saco Dos Limões,Apartamento,40.0,1,1,0,48.0,Bom,Não,Não,2.0,272000.0,False,False
+3485,Canasvieiras,Casa,163.0,3,3,2,26.0,Bom,Sim,Não,0.5,1101000.0,False,False
+3340,Kobrasol,Apartamento,48.0,1,1,1,6.0,Bom,Não,Não,0.4,337000.0,False,False
+3424,Estreito,Casa,173.0,3,3,2,27.0,Ruim,Sim,Não,1.8,671000.0,False,False
+3102,Estreito,Casa,137.0,2,2,1,15.0,Ótimo,Não,Não,5.9,766000.0,False,False
+3388,Canasvieiras,Casa,114.0,2,3,2,16.0,Bom,Não,Sim,3.5,853000.0,False,False
+3056,Rio Tavares,Apartamento,77.0,2,2,1,34.0,Regular,Sim,Não,0.7,336000.0,False,False
+3069,Itacorubi,Apartamento,103.0,3,2,1,8.0,Regular,Sim,Não,3.1,861000.0,False,False
+3042,Itacorubi,Casa,137.0,3,3,2,8.0,Bom,Sim,Não,5.2,1135000.0,False,False
+3086,Canasvieiras,Apartamento,71.0,1,1,0,23.0,Regular,Sim,Sim,2.3,448000.0,False,False
+3512,Ingleses,Apartamento,83.0,1,1,2,6.0,Bom,Não,Não,4.5,587000.0,False,False
+3197,Itacorubi,Apartamento,67.0,2,2,1,26.0,Regular,Não,Sim,1.8,463000.0,False,False
+3367,Rio Tavares,Cobertura,174.0,4,3,3,19.0,Ótimo,Não,Sim,12.8,1198000.0,False,False
+3217,Itacorubi,Apartamento,88.0,2,2,1,18.0,Ótimo,Sim,Não,3.5,854000.0,False,False
+3285,Rio Tavares,Apartamento,88.0,2,3,0,13.0,Bom,Sim,Não,1.0,600000.0,False,False
+3148,Estreito,Apartamento,68.0,1,2,0,10.0,Bom,Não,Não,5.4,399000.0,False,False
+3112,Canasvieiras,Casa,231.0,5,5,3,6.0,Bom,Não,Sim,4.4,1684000.0,False,True
+3571,Ingleses,Casa,156.0,3,2,2,34.0,Regular,Sim,Sim,1.1,774000.0,False,False
+3542,Kobrasol,Apartamento,84.0,2,2,0,8.0,Ótimo,Sim,Não,6.2,643000.0,False,False
+3430,Itacorubi,Apartamento,53.0,1,2,0,18.0,Bom,Não,Não,3.9,482000.0,False,False
+3537,Saco Dos Limões,Apartamento,100.0,3,3,2,13.0,Bom,Não,Não,1.7,771000.0,False,False
+3331,Saco Dos Limões,Apartamento,65.0,2,2,1,15.0,Regular,Sim,Sim,0.4,423000.0,False,False
+3268,Itacorubi,Apartamento,103.0,3,3,1,15.0,Bom,Não,Não,1.2,781000.0,False,False
+3360,Saco Dos Limões,Apartamento,89.0,2,2,0,37.0,Ruim,Não,Sim,3.8,438000.0,False,False
+3013,Ingleses,Apartamento,106.0,1,1,2,10.0,Bom,Sim,Não,2.5,664000.0,False,False
+3063,Kobrasol,Casa,145.0,4,4,2,13.0,Bom,Não,Sim,2.5,955000.0,False,False
+3171,Barra Da Lagoa,Apartamento,106.0,2,3,2,23.0,Regular,Não,Não,3.6,747000.0,False,False
+3182,Ingleses,Studio,33.0,1,1,0,22.0,Regular,Sim,Sim,6.8,188000.0,False,False
+3193,Estreito,Studio,29.0,1,1,0,7.0,Bom,Sim,Sim,2.2,167000.0,False,False
+3190,Saco Dos Limões,Casa,137.0,4,4,2,11.0,Regular,Não,Sim,3.5,824000.0,False,False
+3113,Saco Dos Limões,Casa,241.0,5,4,2,12.0,Ótimo,Não,Sim,0.6,2013000.0,False,True
+3103,Ingleses,Apartamento,128.0,2,2,2,13.0,Bom,Sim,Não,0.7,866000.0,False,False
+3078,Kobrasol,Casa,180.0,4,3,2,16.0,Bom,Sim,Não,2.8,1122000.0,True,False
+3191,Saco Dos Limões,Apartamento,89.0,3,3,1,30.0,Regular,Sim,Não,5.7,517000.0,False,False
+3521,Ingleses,Apartamento,67.0,2,2,0,7.0,Bom,Sim,Não,2.4,470000.0,False,False
+3029,Canasvieiras,Studio,26.0,1,2,0,47.0,Regular,Não,Não,2.7,145000.0,False,False
+3066,Canasvieiras,Apartamento,79.0,1,1,1,16.0,Bom,Não,Não,1.6,605000.0,False,False
+3450,Estreito,Apartamento,77.0,2,3,0,24.0,Bom,Não,Não,3.2,440000.0,False,False
+3291,Kobrasol,Apartamento,77.0,1,1,1,9.0,Bom,Não,Não,2.8,449000.0,False,False
+3474,Estreito,Apartamento,52.0,1,1,1,17.0,Bom,Sim,Não,1.0,266000.0,True,False
+3083,Canasvieiras,Casa,147.0,3,2,2,43.0,Regular,Não,Não,5.2,848000.0,False,False
+3309,Kobrasol,Casa,138.0,3,3,2,21.0,Ruim,Não,Sim,1.7,597000.0,False,False
+3160,Estreito,Apartamento,64.0,2,2,0,4.0,Ótimo,Sim,Não,1.7,453000.0,False,False
+3366,Rio Tavares,Cobertura,214.0,4,4,2,28.0,Bom,Não,Não,1.7,1325000.0,False,False
+3245,Estreito,Studio,27.0,1,1,1,4.0,Bom,Não,Não,2.0,158000.0,False,False
+3559,Estreito,Cobertura,145.0,4,4,1,11.0,Bom,Sim,Não,0.8,790000.0,False,False
+3399,Estreito,Casa,178.0,4,3,2,7.0,Regular,Sim,Não,3.1,937000.0,False,False
+3127,Barra Da Lagoa,Casa,147.0,3,3,1,32.0,Regular,Não,Não,5.6,878000.0,False,False
+3233,Ingleses,Casa,110.0,3,3,0,16.0,Bom,Sim,Não,4.8,803000.0,True,False
+3212,Estreito,Apartamento,101.0,3,3,1,7.0,Regular,Sim,Não,3.9,536000.0,False,False
+3323,Ingleses,Apartamento,41.0,1,2,1,17.0,Regular,Sim,Não,3.9,225000.0,False,False
+3463,Kobrasol,Cobertura,170.0,3,2,2,2.0,Ótimo,Sim,Sim,2.7,1238000.0,False,False
+3293,Saco Dos Limões,Studio,31.0,1,1,0,19.0,Bom,Sim,Não,0.8,271000.0,False,False
+3104,Canasvieiras,Apartamento,80.0,1,2,1,17.0,Ótimo,Sim,Sim,2.8,696000.0,True,False
+3482,Canasvieiras,Apartamento,86.0,2,1,1,9.0,Bom,Sim,Não,5.8,579000.0,False,False
+3347,Barra Da Lagoa,Casa,227.0,4,3,2,11.0,Bom,Sim,Não,2.6,1551000.0,False,False
+3334,Barra Da Lagoa,Cobertura,212.0,5,5,3,4.0,Bom,Não,Sim,6.5,1864000.0,False,True
+3412,Canasvieiras,Studio,24.0,1,1,0,7.0,Regular,Não,Sim,2.6,157000.0,False,False
+3009,Barra Da Lagoa,Apartamento,78.0,2,2,1,1.0,Ótimo,Não,Sim,3.3,737000.0,False,False
+3229,Itacorubi,Casa,156.0,3,3,0,8.0,Regular,Sim,Sim,3.9,759000.0,False,False
+3238,Saco Dos Limões,Cobertura,109.0,3,2,1,31.0,Bom,Não,Não,4.8,670000.0,False,False
+3574,Saco Dos Limões,Apartamento,95.0,2,3,1,23.0,Regular,Sim,Sim,3.2,566000.0,False,False
+3183,Ingleses,Studio,34.0,1,2,0,1.0,Bom,Não,Sim,5.9,229000.0,False,False
+3403,Itacorubi,Apartamento,74.0,1,2,1,16.0,Regular,Não,Sim,4.1,511000.0,False,False
+3198,Kobrasol,Apartamento,77.0,3,3,1,51.0,Regular,Não,Não,2.8,506000.0,False,False
+3282,Saco Dos Limões,Casa,184.0,4,3,1,16.0,Bom,Não,Não,3.0,1258000.0,True,False
+3425,Barra Da Lagoa,Casa,203.0,6,5,3,16.0,Bom,Não,Sim,2.1,1536000.0,True,False
+3597,Ingleses,Apartamento,106.0,2,1,1,46.0,Ruim,Sim,Não,5.4,455000.0,False,False
+3555,Barra Da Lagoa,Apartamento,116.0,3,3,1,17.0,Bom,Sim,Não,7.5,1004000.0,True,False
+3108,Ingleses,Casa,211.0,5,4,2,5.0,Bom,Não,Não,8.1,1535000.0,False,False
+3051,Ingleses,Apartamento,73.0,2,2,1,41.0,Bom,Não,Não,2.9,379000.0,False,False
+3188,Barra Da Lagoa,Casa,108.0,3,3,2,16.0,Bom,Não,Sim,1.2,837000.0,False,False
+3342,Saco Dos Limões,Apartamento,75.0,2,2,1,8.0,Bom,Sim,Não,7.0,558000.0,False,False
+3165,Barra Da Lagoa,Apartamento,103.0,2,2,2,22.0,Bom,Não,Sim,2.9,799000.0,False,False
+3023,Rio Tavares,Studio,31.0,1,1,0,13.0,Bom,Sim,Não,4.8,206000.0,False,False
+3235,Kobrasol,Cobertura,231.0,5,4,3,25.0,Bom,Não,Não,6.3,1402000.0,False,False
+3169,Canasvieiras,Apartamento,84.0,1,1,1,20.0,Bom,Sim,Não,4.7,669000.0,False,False
+3395,Estreito,Apartamento,58.0,1,2,2,35.0,Regular,Não,Não,2.1,281000.0,False,False
+3356,Estreito,Apartamento,69.0,2,2,1,9.0,Bom,Não,Sim,1.9,397000.0,False,False
+3070,Barra Da Lagoa,Apartamento,103.0,3,3,1,4.0,Ótimo,Sim,Não,1.1,961000.0,False,False
+3187,Kobrasol,Apartamento,81.0,2,3,1,17.0,Ótimo,Sim,Não,2.8,590000.0,True,False
+3518,Barra Da Lagoa,Casa,226.0,4,3,3,29.0,Regular,Não,Sim,0.3,1394000.0,False,False
+3511,Rio Tavares,Cobertura,213.0,4,3,3,10.0,Bom,Não,Não,4.7,1631000.0,False,False
+3501,Saco Dos Limões,Apartamento,86.0,1,2,1,24.0,Bom,Não,Sim,1.1,626000.0,False,False
+3394,Saco Dos Limões,Cobertura,278.0,6,5,3,18.5,Ótimo,Sim,Não,2.7,2105000.0,True,True
+3365,Canasvieiras,Apartamento,75.0,2,3,1,45.0,Regular,Sim,Sim,2.6,422000.0,False,False
+3206,Canasvieiras,Apartamento,81.0,1,1,1,19.0,Bom,Sim,Sim,2.6,547000.0,False,False
+3352,Saco Dos Limões,Apartamento,91.0,2,2,1,4.0,Bom,Não,Sim,3.2,676000.0,False,False
+3152,Estreito,Apartamento,88.0,2,2,2,17.0,Ótimo,Sim,Não,1.4,618000.0,True,False
+3524,Barra Da Lagoa,Apartamento,24.0,1,1,0,9.0,Bom,Sim,Não,2.4,195000.0,False,False
+3449,Kobrasol,Casa,107.0,3,3,1,16.0,Bom,Não,Não,4.5,688000.0,False,False
+3030,Ingleses,Apartamento,64.0,1,1,2,11.0,Ótimo,Sim,Sim,1.2,483000.0,False,False
+3443,Barra Da Lagoa,Apartamento,77.0,2,3,0,14.0,Bom,Sim,Não,2.6,551000.0,False,False
+3239,Itacorubi,Apartamento,76.0,1,1,1,3.0,Bom,Sim,Não,3.5,701000.0,False,False
+3162,Ingleses,Casa,66.0,1,1,1,16.0,Bom,Não,Não,12.1,404000.0,True,False
+3588,Canasvieiras,Apartamento,55.0,1,1,1,10.0,Ótimo,Não,Não,2.2,454000.0,False,False
+3414,Barra Da Lagoa,Casa,237.0,5,4,3,16.0,Bom,Sim,Não,2.0,1848000.0,False,True
+3398,Saco Dos Limões,Studio,32.0,1,1,1,11.0,Bom,Não,Não,0.5,240000.0,False,False
+3324,Rio Tavares,Casa,157.0,4,3,1,16.0,Regular,Não,Sim,3.4,940000.0,False,False
+3117,Kobrasol,Apartamento,108.0,2,2,2,17.0,Bom,Sim,Não,5.1,591000.0,False,False
+3343,Itacorubi,Apartamento,104.0,3,3,1,21.0,Regular,Sim,Sim,0.9,809000.0,False,False
+3258,Kobrasol,Apartamento,65.0,1,2,1,3.0,Ótimo,Sim,Não,6.7,411000.0,False,False
+3411,Canasvieiras,Apartamento,113.0,3,3,2,17.0,Ótimo,Sim,Não,0.2,1017000.0,True,False
+3462,Ingleses,Apartamento,40.0,1,1,1,14.0,Ótimo,Não,Sim,1.3,297000.0,False,False
+3528,Barra Da Lagoa,Casa,192.0,4,3,2,14.0,Ótimo,Sim,Sim,3.9,1584000.0,False,False
+3380,Kobrasol,Apartamento,78.0,2,2,1,26.0,Regular,Não,Sim,3.7,425000.0,False,False
+3047,Estreito,Apartamento,65.0,2,2,1,20.0,Bom,Sim,Não,3.2,332000.0,False,False
+3004,Barra Da Lagoa,Casa,88.0,2,2,1,28.0,Regular,Não,Não,2.4,618000.0,False,False
+3369,Rio Tavares,Apartamento,64.0,1,1,1,14.0,Bom,Não,Não,0.7,379000.0,False,False
+3396,Kobrasol,Apartamento,78.0,1,2,2,4.0,Ótimo,Sim,Não,1.0,611000.0,False,False
+3236,Barra Da Lagoa,Casa,267.0,5,5,3,5.0,Bom,Sim,Sim,4.2,2294000.0,False,True
+3031,Estreito,Apartamento,57.0,2,2,0,6.0,Ótimo,Sim,Não,3.2,371000.0,False,False
+3155,Estreito,Apartamento,65.0,1,2,1,17.0,Bom,Não,Sim,2.8,385000.0,False,False
+3351,Barra Da Lagoa,Apartamento,98.0,3,3,1,8.0,Ótimo,Não,Não,1.0,961000.0,False,False
+3516,Canasvieiras,Casa,181.0,4,3,3,47.0,Regular,Sim,Não,2.6,1016000.0,False,False
+3432,Ingleses,Apartamento,60.0,2,3,0,36.0,Regular,Não,Não,0.6,329000.0,False,False
+3280,Itacorubi,Apartamento,49.0,1,1,0,18.0,Bom,Sim,Não,3.5,412000.0,False,False
+3052,Kobrasol,Apartamento,48.0,1,1,1,16.0,Regular,Não,Não,0.5,289000.0,False,False
+3037,Itacorubi,Apartamento,68.0,2,1,2,5.0,Bom,Sim,Não,2.4,532000.0,False,False
+3098,Itacorubi,Cobertura,217.0,4,3,1,7.0,Ótimo,Não,Sim,1.2,1938000.0,False,True
+3421,Kobrasol,Apartamento,86.0,1,1,1,25.0,Regular,Sim,Não,2.5,465000.0,False,False
+3014,Barra Da Lagoa,Cobertura,520.0,5,2,4,33.0,Regular,Não,Sim,5.3,6900000.0,False,True
+3164,Estreito,Studio,40.0,1,2,1,19.0,Bom,Sim,Não,4.4,220000.0,False,False
+3059,Ingleses,Apartamento,46.0,1,1,0,34.0,Bom,Não,Não,6.3,260000.0,False,False
+3064,Itacorubi,Casa,104.0,3,3,1,6.0,Bom,Sim,Não,0.8,970000.0,False,False
+3234,Rio Tavares,Apartamento,69.0,1,1,0,9.0,Bom,Sim,Sim,2.4,507000.0,False,False
+3492,Barra Da Lagoa,Apartamento,93.0,1,2,2,7.0,Bom,Sim,Não,2.1,768000.0,False,False
+3533,Kobrasol,Casa,129.0,2,2,2,11.0,Ótimo,Sim,Não,4.7,901000.0,False,False
+3413,Estreito,Casa,128.0,2,1,2,28.0,Bom,Sim,Sim,5.5,680000.0,False,False
+3458,Kobrasol,Apartamento,74.0,2,2,1,11.0,Bom,Sim,Não,2.6,402000.0,False,False
+3406,Canasvieiras,Apartamento,48.0,1,1,0,10.0,Ótimo,Sim,Não,2.1,418000.0,False,False
+3266,Itacorubi,Casa,159.0,3,3,2,5.0,Bom,Não,Sim,1.9,1430000.0,False,False
+3446,Ingleses,Apartamento,90.0,3,3,1,26.0,Ruim,Sim,Não,1.6,409000.0,False,False
+3385,Itacorubi,Apartamento,79.0,3,2,0,10.0,Bom,Sim,Não,1.5,665000.0,False,False
+3405,Ingleses,Studio,31.0,1,2,1,7.0,Bom,Sim,Não,1.3,228000.0,False,False
+3079,Kobrasol,Casa,204.0,5,4,2,16.0,Ótimo,Sim,Sim,4.6,1580000.0,True,False
+3046,Rio Tavares,Casa,143.0,2,2,3,2.0,Bom,Não,Sim,5.2,1010000.0,False,False
+3372,Estreito,Cobertura,242.0,6,5,3,33.0,Bom,Sim,Sim,3.0,1253000.0,False,False
+3332,Kobrasol,Studio,35.0,1,2,0,24.0,Bom,Não,Sim,1.9,229000.0,False,False
+3158,Estreito,Studio,31.0,1,1,0,12.0,Bom,Não,Não,6.2,190000.0,False,False
+3025,Estreito,Studio,24.0,1,2,1,3.0,Ótimo,Não,Sim,2.2,173000.0,False,False
+3470,Rio Tavares,Casa,156.0,2,3,0,18.0,Ótimo,Sim,Sim,3.2,895000.0,False,False
+3434,Ingleses,Studio,36.0,1,3,1,13.0,Bom,Sim,Não,1.7,232000.0,False,False
+3257,Saco Dos Limões,Studio,35.0,1,1,1,5.0,Bom,Sim,Sim,1.8,264000.0,False,False
+3383,Estreito,Apartamento,77.0,2,3,1,11.0,Bom,Sim,Não,5.1,475000.0,False,False
+3570,Rio Tavares,Casa,169.0,4,3,1,34.0,Ruim,Sim,Sim,1.0,887000.0,False,False
+3508,Ingleses,Apartamento,77.0,1,1,1,47.0,Ruim,Não,Não,1.9,198000.0,False,False
+3569,Barra Da Lagoa,Studio,27.0,1,1,0,3.0,Ótimo,Não,Sim,4.5,231000.0,False,False
+3290,Barra Da Lagoa,Apartamento,78.0,1,1,1,5.0,Bom,Não,Não,6.7,558000.0,False,False
+3517,Canasvieiras,Casa,156.0,3,2,2,25.0,Regular,Sim,Não,10.7,894000.0,False,False
+3475,Kobrasol,Apartamento,106.0,2,2,0,10.0,Bom,Sim,Não,1.0,759000.0,False,False
+3123,Estreito,Cobertura,194.0,4,4,3,7.0,Regular,Não,Não,3.4,1086000.0,False,False
+3320,Kobrasol,Casa,139.0,3,3,1,16.0,Bom,Não,Não,3.2,973000.0,True,False
+3067,Canasvieiras,Casa,90.0,2,2,0,22.0,Regular,Sim,Não,5.7,538000.0,False,False
+3195,Estreito,Apartamento,71.0,1,1,1,42.0,Bom,Não,Sim,1.7,387000.0,False,False
+3178,Ingleses,Studio,37.0,1,2,0,18.0,Ótimo,Sim,Sim,1.6,270000.0,False,False
+3207,Kobrasol,Casa,169.0,3,3,1,18.0,Bom,Sim,Não,0.6,1080000.0,False,False
+3128,Itacorubi,Casa,223.0,6,4,1,27.0,Bom,Sim,Sim,1.5,1734000.0,False,True
+3177,Kobrasol,Casa,146.0,3,3,2,15.0,Bom,Não,Não,2.8,881000.0,False,False
+3337,Rio Tavares,Studio,24.0,1,1,0,26.0,Regular,Não,Sim,1.6,162000.0,False,False
+3456,Itacorubi,Apartamento,49.0,1,1,1,55.0,Ruim,Não,Não,1.0,264000.0,False,False
+3503,Barra Da Lagoa,Apartamento,73.0,2,1,1,17.0,Ruim,Não,Não,7.6,342000.0,True,False
+3001,Barra Da Lagoa,Studio,25.0,1,1,1,11.0,Bom,Não,Sim,0.8,205000.0,False,False
+3227,Itacorubi,Apartamento,79.0,1,1,2,20.0,Regular,Sim,Não,1.4,606000.0,False,False
+3592,Ingleses,Apartamento,71.0,2,2,2,17.0,Bom,Sim,Não,1.8,494000.0,False,False
+3585,Barra Da Lagoa,Studio,26.0,1,1,0,34.0,Bom,Não,Não,2.0,136000.0,False,False
+3250,Canasvieiras,Casa,253.0,5,3,4,30.0,Regular,Não,Não,1.5,1479000.0,False,False
+3378,Kobrasol,Casa,91.0,2,1,1,16.0,Bom,Sim,Não,4.8,578000.0,True,False
+3109,Canasvieiras,Apartamento,83.0,2,2,0,32.0,Regular,Não,Não,10.6,464000.0,False,False
+3427,Kobrasol,Casa,144.0,3,2,1,23.0,Bom,Sim,Não,4.2,847000.0,False,False
+3194,Estreito,Studio,39.0,1,2,1,19.0,Ótimo,Sim,Não,1.6,248000.0,False,False
+3006,Barra Da Lagoa,Studio,28.0,1,2,0,7.0,Bom,Sim,Não,3.1,223000.0,False,False
+3261,Estreito,Apartamento,77.0,2,3,1,27.0,Ruim,Sim,Não,2.8,334000.0,False,False
+3586,Canasvieiras,Studio,35.0,1,1,0,17.0,Ótimo,Sim,Não,6.8,269000.0,False,False
+3314,Saco Dos Limões,Apartamento,92.0,2,3,0,9.0,Regular,Sim,Sim,1.6,562000.0,False,False
+3554,Itacorubi,Casa,130.0,3,3,1,24.0,Regular,Sim,Não,7.0,803000.0,False,False
+3583,Canasvieiras,Apartamento,52.0,2,1,1,17.0,Bom,Não,Não,2.0,394000.0,False,False
+3060,Canasvieiras,Apartamento,67.0,1,1,0,10.0,Bom,Sim,Sim,2.7,479000.0,False,False
+3346,Kobrasol,Studio,30.0,1,1,1,24.0,Regular,Sim,Sim,5.7,160000.0,False,False
+3048,Rio Tavares,Apartamento,110.0,3,4,0,21.0,Regular,Sim,Não,1.3,659000.0,False,False
+3541,Estreito,Cobertura,215.0,4,4,1,6.0,Regular,Sim,Não,3.1,1222000.0,False,False
+3303,Itacorubi,Studio,39.0,1,1,1,9.0,Bom,Sim,Sim,2.2,305000.0,False,False
+3587,Ingleses,Apartamento,87.0,2,3,1,17.0,Bom,Não,Não,3.8,573000.0,True,False
+3121,Estreito,Casa,182.0,4,4,2,39.0,Regular,Não,Não,2.3,754000.0,False,False
+3287,Itacorubi,Casa,213.0,5,4,2,35.0,Bom,Sim,Não,0.7,1520000.0,False,False
+3423,Kobrasol,Casa,212.0,4,3,2,37.0,Regular,Não,Não,6.3,1012000.0,False,False
+3415,Saco Dos Limões,Apartamento,105.0,2,2,1,17.0,Regular,Não,Sim,3.3,604000.0,True,False
+3561,Kobrasol,Casa,101.0,2,1,2,3.0,Ótimo,Sim,Não,5.2,766000.0,False,False
+3247,Barra Da Lagoa,Studio,40.0,1,2,1,4.0,Bom,Não,Não,3.6,312000.0,False,False
+3467,Ingleses,Apartamento,86.0,2,2,0,15.0,Regular,Sim,Sim,5.8,446000.0,False,False
+3532,Kobrasol,Apartamento,30.0,2,3,0,17.0,Bom,Não,Sim,1.1,196000.0,True,False
+3167,Ingleses,Casa,156.0,3,3,2,5.0,Regular,Não,Não,1.3,855000.0,False,False
+3313,Saco Dos Limões,Casa,126.0,3,3,1,16.0,Ótimo,Sim,Sim,1.5,1013000.0,True,False
+3210,Kobrasol,Casa,127.0,3,3,2,49.0,Ruim,Sim,Não,2.8,471000.0,False,False
+3520,Ingleses,Casa,208.0,5,5,3,12.0,Regular,Sim,Não,2.5,1261000.0,False,False
+3223,Barra Da Lagoa,Apartamento,47.0,1,2,0,26.0,Bom,Sim,Sim,1.0,386000.0,False,False
+3300,Kobrasol,Casa,104.0,2,2,0,7.0,Bom,Sim,Não,0.5,690000.0,False,False
+3214,Canasvieiras,Cobertura,204.0,5,4,3,16.0,Bom,Não,Não,3.5,1561000.0,False,False
+3460,Kobrasol,Apartamento,42.0,1,1,0,25.0,Regular,Sim,Não,2.9,216000.0,False,False
+3119,Barra Da Lagoa,Apartamento,81.0,2,2,0,18.0,Bom,Sim,Não,5.8,606000.0,False,False
+3461,Saco Dos Limões,Casa,98.0,3,3,0,19.0,Bom,Sim,Não,1.9,624000.0,False,False
+3384,Kobrasol,Apartamento,74.0,2,2,1,17.0,Ótimo,Não,Não,0.6,578000.0,True,False
+3018,Kobrasol,Casa,173.0,4,4,2,16.0,Bom,Não,Não,1.1,1478000.0,True,False
+3552,Saco Dos Limões,Apartamento,76.0,1,1,1,15.0,Bom,Não,Sim,0.9,605000.0,False,False
+3498,Saco Dos Limões,Apartamento,77.0,1,1,1,12.0,Bom,Não,Não,2.7,559000.0,False,False
+3043,Saco Dos Limões,Casa,147.0,3,2,2,1.0,Ótimo,Sim,Não,3.6,1238000.0,False,False
+3546,Ingleses,Casa,105.0,2,2,2,16.0,Bom,Não,Não,4.6,618000.0,True,False
+3476,Estreito,Casa,222.0,6,5,3,29.0,Bom,Não,Não,2.5,1101000.0,False,False
+3578,Kobrasol,Casa,113.0,2,2,0,6.0,Bom,Não,Não,8.7,619000.0,False,False
+3551,Saco Dos Limões,Apartamento,62.0,2,2,1,9.0,Ótimo,Não,Não,4.1,491000.0,False,False
+3600,Itacorubi,Apartamento,57.0,2,1,0,23.0,Ruim,Não,Sim,6.1,303000.0,False,False
+3077,Kobrasol,Casa,206.0,5,3,2,11.0,Ótimo,Sim,Não,5.3,1526000.0,False,False
+3523,Rio Tavares,Apartamento,94.0,2,1,1,9.0,Bom,Sim,Não,2.3,649000.0,False,False
+3142,Kobrasol,Casa,229.0,5,4,3,22.0,Ruim,Não,Não,3.5,989000.0,False,False
+3590,Itacorubi,Casa,159.0,3,3,2,23.0,Regular,Não,Sim,6.0,1184000.0,False,False
+3074,Barra Da Lagoa,Casa,239.0,5,4,3,11.0,Bom,Sim,Sim,0.7,1951000.0,False,True
+3307,Ingleses,Apartamento,44.0,1,1,1,29.0,Ruim,Não,Não,4.3,189000.0,False,False
+3527,Rio Tavares,Casa,157.0,3,3,2,14.0,Regular,Não,Sim,1.3,964000.0,False,False
+3577,Rio Tavares,Studio,27.0,1,1,1,5.0,Bom,Sim,Não,2.7,200000.0,False,False
+3573,Barra Da Lagoa,Apartamento,87.0,2,2,1,22.0,Bom,Sim,Não,1.5,674000.0,False,False
+3153,Ingleses,Apartamento,69.0,2,2,0,2.0,Ótimo,Sim,Sim,1.9,580000.0,False,False
+3033,Saco Dos Limões,Apartamento,63.0,2,3,0,9.0,Bom,Não,Não,2.6,478000.0,False,False
+3016,Estreito,Casa,157.0,4,3,2,2.0,Bom,Não,Sim,7.2,973000.0,False,False
+3436,Canasvieiras,Apartamento,100.0,2,2,1,33.0,Bom,Sim,Sim,2.8,543000.0,False,False
+3499,Ingleses,Casa,164.0,4,3,3,16.0,Regular,Sim,Não,3.4,979000.0,True,False
+3506,Rio Tavares,Apartamento,95.0,2,1,1,36.0,Ruim,Sim,Sim,2.8,430000.0,False,False
+3404,Rio Tavares,Apartamento,117.0,4,2,0,31.0,Regular,Não,Não,2.1,693000.0,False,False
+3451,Kobrasol,Apartamento,79.0,2,3,1,5.0,Bom,Sim,Não,3.4,552000.0,False,False
+3036,Estreito,Apartamento,62.0,1,1,1,35.0,Regular,Sim,Não,3.8,268000.0,False,False
+3226,Rio Tavares,Apartamento,77.0,1,1,1,21.0,Regular,Sim,Não,0.6,609000.0,False,False
+3173,Kobrasol,Apartamento,59.0,1,2,0,24.0,Bom,Não,Não,5.4,342000.0,False,False
+3242,Estreito,Apartamento,117.0,2,3,1,16.0,Bom,Sim,Não,4.0,693000.0,False,False
+3344,Ingleses,Apartamento,81.0,2,1,2,11.0,Bom,Não,Não,2.1,549000.0,False,False
+3157,Canasvieiras,Apartamento,76.0,1,1,1,12.0,Bom,Sim,Não,4.4,645000.0,False,False
+3558,Estreito,Apartamento,98.0,3,3,1,7.0,Bom,Sim,Não,1.9,577000.0,False,False
+3549,Barra Da Lagoa,Casa,203.0,4,4,3,9.0,Ótimo,Sim,Não,4.7,1976000.0,False,True
+3507,Estreito,Cobertura,262.0,5,5,3,21.0,Bom,Sim,Não,6.9,1348000.0,False,False
+3216,Kobrasol,Casa,226.0,5,4,3,29.0,Regular,Não,Sim,1.3,1364000.0,False,False
+3209,Barra Da Lagoa,Studio,24.0,1,1,0,18.0,Regular,Sim,Não,0.7,174000.0,False,False
+3065,Kobrasol,Casa,160.0,4,2,2,16.0,Bom,Sim,Não,4.9,950000.0,True,False
+3011,Ingleses,Apartamento,109.0,2,2,1,19.0,Bom,Sim,Não,7.8,694000.0,False,False
+3179,Estreito,Apartamento,72.0,1,2,0,11.0,Ótimo,Sim,Não,2.6,466000.0,False,False
+3253,Itacorubi,Studio,35.0,1,2,0,13.0,Ótimo,Sim,Não,0.9,299000.0,False,False
+3262,Estreito,Apartamento,94.0,2,2,1,12.0,Bom,Sim,Não,2.7,578000.0,False,False
+3101,Estreito,Casa,121.0,3,2,1,25.0,Bom,Não,Não,0.6,431000.0,False,False
+3168,Itacorubi,Casa,233.0,4,3,1,36.0,Bom,Sim,Não,2.9,1681000.0,False,True
+3315,Barra Da Lagoa,Casa,162.0,3,2,2,23.0,Bom,Não,Não,5.7,1228000.0,False,False
+3519,Estreito,Apartamento,116.0,3,2,1,21.0,Bom,Sim,Não,1.5,626000.0,False,False
+3540,Itacorubi,Casa,83.0,2,1,0,21.0,Regular,Sim,Sim,3.0,576000.0,False,False
+3447,Estreito,Casa,191.0,5,4,2,12.0,Regular,Sim,Não,1.8,1042000.0,False,False
+3368,Estreito,Apartamento,79.0,2,2,1,9.0,Ótimo,Sim,Não,0.5,557000.0,False,False
+3146,Rio Tavares,Studio,30.0,1,1,1,31.0,Regular,Sim,Não,1.1,198000.0,False,False
+3363,Rio Tavares,Studio,39.0,1,1,0,2.0,Ótimo,Sim,Não,3.5,311000.0,False,False
+3576,Estreito,Apartamento,88.0,2,2,2,35.0,Regular,Não,Não,1.7,427000.0,False,False
+3322,Saco Dos Limões,Apartamento,71.0,2,2,1,17.0,Regular,Sim,Não,3.8,452000.0,False,False
+3186,Rio Tavares,Apartamento,116.0,3,3,1,14.0,Bom,Não,Sim,1.9,793000.0,False,False
+3133,Canasvieiras,Apartamento,84.0,1,1,1,9.0,Ótimo,Sim,Sim,1.7,713000.0,False,False
+3120,Barra Da Lagoa,Studio,29.0,1,1,1,30.0,Regular,Sim,Não,3.4,188000.0,False,False
+3039,Estreito,Apartamento,100.0,2,2,1,25.0,Bom,Sim,Sim,6.9,540000.0,False,False
+3494,Kobrasol,Casa,148.0,3,3,2,16.0,Bom,Sim,Não,4.0,853000.0,True,False
+3575,Ingleses,Apartamento,117.0,3,3,2,22.0,Regular,Não,Não,2.0,652000.0,False,False
+3339,Itacorubi,Apartamento,65.0,2,2,0,18.0,Ótimo,Não,Sim,2.4,577000.0,False,False
+3085,Itacorubi,Casa,178.0,3,3,1,27.0,Regular,Sim,Sim,0.6,1298000.0,False,False
+3225,Itacorubi,Casa,143.0,3,3,1,16.0,Ótimo,Não,Sim,1.3,1291000.0,True,False
+3073,Kobrasol,Casa,130.0,2,2,2,20.0,Regular,Não,Não,2.8,761000.0,False,False
+3419,Saco Dos Limões,Apartamento,24.0,1,3,0,17.0,Regular,Sim,Não,0.7,168000.0,True,False
+3076,Rio Tavares,Casa,122.0,2,1,1,17.0,Ótimo,Não,Sim,1.8,1060000.0,False,False
+3381,Canasvieiras,Apartamento,83.0,2,2,1,6.0,Ótimo,Sim,Sim,2.4,824000.0,False,False
+3386,Canasvieiras,Apartamento,66.0,2,2,2,6.0,Bom,Não,Não,1.3,533000.0,False,False
+3453,Ingleses,Casa,37.0,1,1,0,16.0,Bom,Sim,Não,3.4,218000.0,True,False
+3265,Estreito,Apartamento,65.0,1,2,2,17.0,Bom,Não,Não,2.3,382000.0,False,False
+3429,Estreito,Apartamento,112.0,2,2,0,17.0,Ótimo,Não,Não,5.5,777000.0,False,False
+3161,Saco Dos Limões,Casa,209.0,5,4,3,30.0,Bom,Não,Sim,3.2,1289000.0,False,False
+3111,Itacorubi,Casa,117.0,3,3,2,29.0,Regular,Sim,Não,2.6,671000.0,False,False
+3304,Barra Da Lagoa,Studio,35.0,1,2,1,13.0,Bom,Não,Sim,1.1,308000.0,False,False
+3595,Kobrasol,Casa,156.0,3,3,2,16.0,Bom,Sim,Não,1.9,905000.0,True,False
+3049,Saco Dos Limões,Casa,176.0,4,4,1,19.0,Bom,Sim,Não,2.4,1177000.0,False,False
+3510,Saco Dos Limões,Apartamento,90.0,2,2,1,19.0,Bom,Sim,Sim,0.6,551000.0,False,False
+3019,Kobrasol,Apartamento,80.0,2,3,0,26.0,Ruim,Não,Sim,10.2,299000.0,False,False
+3044,Rio Tavares,Apartamento,106.0,2,2,2,19.0,Regular,Não,Não,3.2,693000.0,False,False
+3274,Saco Dos Limões,Apartamento,33.0,1,2,2,51.0,Ruim,Sim,Não,1.7,133000.0,False,False
+3444,Kobrasol,Studio,30.0,1,1,1,14.0,Bom,Não,Não,2.3,181000.0,False,False
+3091,Ingleses,Studio,32.0,1,2,0,3.0,Bom,Sim,Não,2.1,227000.0,False,False
+3276,Canasvieiras,Studio,29.0,1,1,1,8.0,Regular,Não,Não,3.7,218000.0,False,False
+3115,Canasvieiras,Studio,41.0,1,2,1,25.0,Bom,Não,Sim,1.0,285000.0,False,False
+3329,Estreito,Casa,145.0,3,2,3,11.0,Bom,Sim,Sim,3.5,845000.0,False,False
+3466,Itacorubi,Casa,158.0,3,3,2,12.0,Regular,Não,Não,1.6,1183000.0,False,False
+3132,Canasvieiras,Apartamento,115.0,3,3,2,20.0,Regular,Sim,Não,1.6,760000.0,False,False
+3228,Estreito,Studio,27.0,1,2,0,13.5,Regular,Sim,Sim,2.1,140000.0,True,False
+3134,Kobrasol,Cobertura,266.0,6,5,3,22.0,Regular,Sim,Não,1.6,1431000.0,False,False
+3249,Estreito,Casa,192.0,3,3,3,8.0,Ótimo,Sim,Não,4.3,1384000.0,False,False
+3284,Ingleses,Apartamento,73.0,2,2,2,23.0,Regular,Não,Não,0.9,382000.0,False,False
+3497,Saco Dos Limões,Apartamento,65.0,1,2,0,4.0,Bom,Sim,Sim,2.7,471000.0,False,False
+3336,Ingleses,Casa,136.0,3,2,1,16.0,Bom,Sim,Não,5.4,909000.0,True,False
+3440,Barra Da Lagoa,Apartamento,98.0,2,2,0,14.0,Bom,Não,Sim,1.9,832000.0,False,False
+3264,Kobrasol,Apartamento,82.0,2,3,1,23.0,Ruim,Não,Sim,2.0,401000.0,False,False
+3143,Kobrasol,Apartamento,84.0,2,3,2,17.0,Bom,Sim,Não,4.3,464000.0,True,False
+3246,Rio Tavares,Apartamento,58.0,1,1,1,14.0,Regular,Não,Não,4.2,346000.0,False,False
+3028,Estreito,Casa,156.0,4,3,2,9.0,Regular,Não,Não,5.7,900000.0,False,False
+3442,Barra Da Lagoa,Apartamento,86.0,2,3,2,23.0,Bom,Sim,Sim,4.8,576000.0,False,False
+3139,Itacorubi,Apartamento,86.0,2,2,0,36.0,Regular,Não,Sim,3.1,551000.0,False,False
+3364,Itacorubi,Casa,107.0,4,3,2,5.0,Bom,Sim,Não,3.0,889000.0,False,False
+3090,Rio Tavares,Casa,67.0,2,2,1,23.0,Bom,Não,Não,1.0,489000.0,False,False
+3024,Ingleses,Studio,36.0,1,1,0,6.0,Bom,Não,Não,11.1,206000.0,False,False
+3080,Barra Da Lagoa,Casa,204.0,4,2,1,9.0,Bom,Não,Sim,4.7,1620000.0,False,False
+3126,Estreito,Apartamento,47.0,2,2,0,41.0,Bom,Não,Não,5.0,197000.0,False,False
+3243,Ingleses,Studio,24.0,1,2,0,11.0,Bom,Não,Não,2.9,151000.0,False,False
+3371,Saco Dos Limões,Studio,43.0,1,1,1,12.0,Bom,Sim,Sim,4.1,331000.0,False,False
+3327,Estreito,Apartamento,69.0,1,1,0,6.0,Bom,Não,Não,7.6,377000.0,False,False
+3580,Kobrasol,Cobertura,225.0,4,4,2,10.0,Bom,Sim,Sim,1.0,1549000.0,False,False
+3505,Rio Tavares,Apartamento,74.0,2,2,1,21.0,Bom,Sim,Não,2.0,363000.0,False,False
+3409,Ingleses,Apartamento,91.0,2,2,1,21.0,Regular,Não,Sim,0.3,467000.0,False,False
+3082,Kobrasol,Apartamento,58.0,1,1,1,3.0,Bom,Não,Não,5.4,328000.0,False,False
+3469,Canasvieiras,Casa,189.0,4,3,2,8.0,Bom,Não,Não,2.0,1243000.0,False,False
+3232,Ingleses,Casa,129.0,4,3,2,43.0,Regular,Sim,Não,1.9,666000.0,False,False
+3502,Ingleses,Apartamento,80.0,2,3,0,30.0,Bom,Sim,Não,2.7,466000.0,False,False
+3141,Ingleses,Apartamento,75.0,1,2,1,13.0,Bom,Não,Não,3.3,508000.0,False,False
+3547,Itacorubi,Apartamento,37.0,1,1,0,9.0,Regular,Sim,Sim,0.7,284000.0,False,False
+3237,Kobrasol,Apartamento,72.0,1,1,2,7.0,Bom,Não,Não,0.9,433000.0,False,False
+3417,Itacorubi,Apartamento,43.0,1,1,1,17.0,Bom,Não,Sim,6.3,378000.0,True,False
+3584,Rio Tavares,Casa,168.0,4,3,2,14.0,Bom,Sim,Não,3.8,1146000.0,False,False
+3333,Rio Tavares,Apartamento,29.0,1,2,0,24.0,Regular,Não,Não,2.25,192000.0,False,False
+3270,Itacorubi,Apartamento,77.0,1,1,1,25.0,Regular,Sim,Não,1.8,460000.0,False,False
+3338,Rio Tavares,Apartamento,64.0,2,1,0,3.0,Ótimo,Não,Não,1.4,499000.0,False,False
+3081,Canasvieiras,Casa,103.0,2,1,1,16.0,Bom,Sim,Não,6.2,720000.0,False,False

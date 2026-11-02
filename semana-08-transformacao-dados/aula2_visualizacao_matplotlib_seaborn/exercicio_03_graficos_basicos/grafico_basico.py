@@ -10,7 +10,7 @@ base = pd.read_csv(BASE / "pedidos_prontos.csv", parse_dates=["data"])
 # 1) Linha: quantidade de pedidos por mês
 pedidos_mes = base.groupby("mes").size()
 print(pedidos_mes)
-plt.figure(figsize=(5, 3.6))
+plt.figure(figsize=(5, 5))
 plt.plot(pedidos_mes.index, pedidos_mes.values, marker="o")
 plt.title("Pedidos por mês")
 

@@ -8,7 +8,7 @@ BASE = Path(__file__).parent if "__file__" in globals() else Path.cwd()  # funci
 
 base = pd.read_csv(BASE / "pedidos_prontos.csv", parse_dates=["data"])
 
-VERDE = "#3E6B22"
+VERDE = "#299486"
 CLARO = "#B5C9A5"
 
 por_cat = base.groupby("categoria")["total"].sum().sort_values(ascending=False)
