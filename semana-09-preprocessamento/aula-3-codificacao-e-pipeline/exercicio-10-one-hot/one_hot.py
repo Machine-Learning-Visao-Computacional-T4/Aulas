@@ -12,6 +12,6 @@ print("soma por linha:", todas.sum(axis=1).unique())
 oh = OneHotEncoder(handle_unknown="ignore", sparse_output=False)
 oh.fit(imoveis[["tipo"]])
 print(oh.get_feature_names_out().tolist())
-print(oh.transform(pd.DataFrame({"tipo": ["Casa", "Galpão"]})))
+print(oh.transform(pd.DataFrame({"tipo": ["Casa", "Apartamento"]})))
 
 # Em produção: OneHotEncoder, porque guarda as categorias do treino e ignora as inéditas.
