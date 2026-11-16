@@ -1,0 +1,164 @@
+{
+  "reports": [
+    {
+      "reportName": "RELATORIO_BASICO_PF_PME",
+      "registration": {
+        "documentNumber": "08978148603",
+        "consumerName": "OSMAR JUNIO SILVA FELIX",
+        "motherName": "GISELY SILVA",
+        "birthDate": "1986-12-12",
+        "statusRegistration": "REGULAR",
+        "statusDate": "2026-10-20"
+      },
+      "negativeData": {
+        "pefin": {
+          "pefinResponse": [],
+          "summary": { "count": 0, "balance": 0.0 }
+        },
+        "refin": {
+          "refinResponse": [],
+          "summary": { "count": 0, "balance": 0.0 }
+        },
+        "notary": {
+          "notaryResponse": [],
+          "summary": { "count": 0, "balance": 0.0 }
+        },
+        "check": {
+          "checkResponse": [],
+          "summary": { "count": 0, "balance": 0.0 }
+        },
+        "collectionRecords": {
+          "collectionRecordsResponse": [],
+          "summary": { "count": 0, "balance": 0.0 }
+        }
+      },
+      "score": {
+        "score": 861,
+        "scoreModel": "HRLN",
+        "range": "B",
+        "defaultRate": "5,30",
+        "codeMessage": 99,
+        "message": "ESPACO RESERVADO PARA MENSAGEM DA INSTITUICAO"
+      },
+      "negativeSummary": {},
+      "facts": {
+        "inquiry": {
+          "inquiryResponse": [
+            {
+              "occurrenceDate": "2026-10-28",
+              "segmentDescription": "SERVICOS BASICOS",
+              "daysQuantity": 1
+            },
+            {
+              "occurrenceDate": "2026-09-03",
+              "segmentDescription": "MEDIOS BANCOS",
+              "daysQuantity": 1
+            },
+            {
+              "occurrenceDate": "2026-06-18",
+              "segmentDescription": "SEGURADORAS",
+              "daysQuantity": 1
+            },
+            {
+              "occurrenceDate": "2026-06-18",
+              "segmentDescription": "SEGURADORAS",
+              "daysQuantity": 1
+            },
+            {
+              "occurrenceDate": "2026-06-18",
+              "segmentDescription": "SEGURADORAS",
+              "daysQuantity": 1
+            }
+          ],
+          "summary": { "count": 5 }
+        },
+        "inquirySummary": {
+          "inquiryQuantity": {
+            "actual": 0,
+            "creditInquiriesQuantity": [
+              { "inquiryDate": "2026-10", "occurrences": 1 },
+              { "inquiryDate": "2026-09", "occurrences": 1 },
+              { "inquiryDate": "2026-08", "occurrences": 0 },
+              { "inquiryDate": "2026-07", "occurrences": 0 }
+            ]
+          }
+        },
+        "stolenDocuments": {
+          "stolenDocumentsResponse": [],
+          "summary": { "count": 0, "balance": 0.0 }
+        }
+      },
+      "partner": {
+        "partnershipResponse": [
+          {
+            "businessDocument": "45140893000109",
+            "companyName": "MARIA FORMIGA VENEZA LTDA ME",
+            "participationPercentage": 100.0,
+            "companyStatus": "ATIVA",
+            "companyStatusCode": "2",
+            "companyState": "MG",
+            "companyStatusDate": "2025-05-10",
+            "updateDate": "2025-05-02",
+            "hasNegative": false
+          },
+          {
+            "businessDocument": "54178235000105",
+            "companyName": "ADMINISTRADORA MARIA FORMIGA II LTDA ME",
+            "participationPercentage": 50.0,
+            "companyStatus": "CANCELADA (NAO EXISTE MAIS P/A RF)",
+            "companyStatusCode": "9",
+            "companyState": "MG",
+            "companyStatusDate": "2025-08-09",
+            "updateDate": "2025-08-31",
+            "hasNegative": true
+          },
+          {
+            "businessDocument": "36190412000189",
+            "companyName": "MARIA FORMIGA LTDA ME",
+            "participationPercentage": 50.0,
+            "companyStatus": "ATIVA",
+            "companyStatusCode": "2",
+            "companyState": "MG",
+            "companyStatusDate": "2025-05-10",
+            "updateDate": "2023-09-07",
+            "hasNegative": false
+          },
+          {
+            "businessDocument": "54178143000117",
+            "companyName": "ADMINISTRADORA MARIA FORMIGA I LTDA ME",
+            "participationPercentage": 50.0,
+            "companyStatus": "CANCELADA (NAO EXISTE MAIS P/A RF)",
+            "companyStatusCode": "9",
+            "companyState": "MG",
+            "companyStatusDate": "2025-08-09",
+            "updateDate": "2025-08-31",
+            "hasNegative": false
+          },
+          {
+            "businessDocument": "53919574000124",
+            "companyName": "MARIA FORMIGA SHOPPING DO VALE LTDA ME",
+            "participationPercentage": 50.0,
+            "companyStatus": "ATIVA",
+            "companyStatusCode": "2",
+            "companyState": "MG",
+            "companyStatusDate": "2025-05-10",
+            "updateDate": "2026-03-16",
+            "hasNegative": false
+          },
+          {
+            "businessDocument": "63117418000101",
+            "companyName": "MARIA FORMIGA CIDADE NOBRE LTDA ME",
+            "participationPercentage": 0.0,
+            "companyStatus": "ATIVA",
+            "companyStatusCode": "2",
+            "companyState": "MG",
+            "companyStatusDate": "2025-10-16",
+            "updateDate": "2025-10-17",
+            "hasNegative": false
+          }
+        ],
+        "summary": { "count": 6, "balance": 0.0 }
+      }
+    }
+  ]
+}

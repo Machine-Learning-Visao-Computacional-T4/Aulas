@@ -1,23 +1,24 @@
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split
-
-transacoes = pd.read_csv("arquivos/transacoes.csv")
-X = transacoes.drop(columns=["id_transacao", "fraude"])
-y = transacoes["fraude"]
-X_treino, X_teste, y_treino, y_teste = train_test_split(
-    X, y, test_size=0.25, stratify=y, random_state=42)
-from sklearn.compose import ColumnTransformer
-from sklearn.preprocessing import OneHotEncoder, StandardScaler
-
-numericas = ["valor", "hora", "distancia_residencia_km", "tentativas_24h", "idade_conta_dias"]
-prep = ColumnTransformer([("num", StandardScaler(), numericas),
-                          ("cat", OneHotEncoder(), ["canal"])], remainder="passthrough")
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import average_precision_score, recall_score, roc_auc_score
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.pipeline import Pipeline
 from sklearn.tree import DecisionTreeClassifier
+from sklearn.compose import ColumnTransformer
+from sklearn.preprocessing import OneHotEncoder, StandardScaler
+
+transacoes = pd.read_csv("arquivos/transacoes.csv")
+X = transacoes.drop(columns=["id_transacao", "fraude"])
+y = transacoes["fraude"]
+print("fraude:", round(y.mean(), 3), "| alertas:", y.sum(), "| total:", len(y))
+X_treino, X_teste, y_treino, y_teste = train_test_split(
+    X, y, test_size=0.25, stratify=y, random_state=42)
+
+numericas = ["valor", "hora", "distancia_residencia_km", "tentativas_24h", "idade_conta_dias"]
+prep = ColumnTransformer([("num", StandardScaler(), numericas),
+                          ("cat", OneHotEncoder(), ["canal"])], remainder="passthrough")
 
 arvore = Pipeline([("prep", prep), ("clf", DecisionTreeClassifier(random_state=42))]).fit(X_treino, y_treino)
 print("árvore, recall no treino:", round(recall_score(y_treino, arvore.predict(X_treino)), 2))

@@ -12,7 +12,7 @@ print(X_treino.shape, X_teste.shape)
 print("fraudes no treino:", y_treino.sum(), "| no teste:", y_teste.sum())
 
 for semente in [1, 2, 3]:
-    _, _, _, y_t = train_test_split(X, y, test_size=0.25, random_state=semente)
+    _, _, _, y_t = train_test_split(X, y, test_size=0.30, random_state=semente)
     print("semente", semente, "-> fraudes no teste sem stratify:", y_t.sum())
 
 base = DummyClassifier(strategy="most_frequent")

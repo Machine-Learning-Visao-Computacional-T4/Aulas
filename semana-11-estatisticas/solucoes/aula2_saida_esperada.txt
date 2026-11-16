@@ -1,0 +1,52 @@
+== 1. Forma da distribuição: assimetria e curtose ==
+alugueis       skew=  0.03  curtose= -0.34
+temperatura_c  skew= -0.03  curtose= -1.03
+duracao_min    skew=  8.81  curtose= 90.88
+chuva_mm       skew=  5.74  curtose= 38.48
+
+== 2. Histograma em tabela: pd.cut + value_counts ==
+alugueis
+(0, 200]       23
+(200, 300]     96
+(300, 400]    164
+(400, 500]    190
+(500, 600]    166
+(600, 700]     64
+(700, 900]     28
+Name: count, dtype: int64
+
+== 3. Regra empírica 68-95-99,7 ==
+dentro de ±1 desvio(s): 66.9%
+dentro de ±2 desvio(s): 94.8%
+dentro de ±3 desvio(s): 100.0%
+
+== 4. Escore z ==
+mean    0.00
+std     1.00
+min    -2.93
+max     2.60
+Name: alugueis, dtype: float64
+dia mais extremo: 2024-06-07 | z = -2.93
+dias com |z| > 2: 38
+
+== 5. Teste de normalidade (Shapiro-Wilk) ==
+alugueis     W=0.996  p=0.04881  -> NÃO normal
+duracao_min  W=0.374  p=3.742e-38  -> NÃO normal
+
+== 6. Transformação logarítmica ==
+duracao_min   skew = 8.81
+log1p(duracao) skew = 0.53
+chuva_mm      skew = 5.74
+log1p(chuva)  skew = 2.94  (muitos zeros: a transformação ajuda pouco)
+% de dias sem chuva: 85.8 %
+
+== 7. Teorema Central do Limite (simulação) ==
+população: média=19.1  skew=8.81
+1000 médias de amostras (n=30): média=18.6  desvio=6.18  skew=1.90
+erro padrão teórico = 6.46
+
+== 8. Percentis e ECDF ==
+percentis da duração: {0.5: 12.8, 0.9: 31.8, 0.95: 41.0, 0.99: 191.1}
+P(duração <= 30 min) = 88.2%
+
+ok

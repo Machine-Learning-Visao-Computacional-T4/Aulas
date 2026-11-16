@@ -1,0 +1,86 @@
+== 1. Covariância x correlação ==
+covariância(temperatura, aluguéis) = 524.0  (depende da unidade)
+correlação (temperatura, aluguéis) = 0.785  (sempre entre -1 e 1)
+covariância com temperatura em °F  = 943.2
+correlação com temperatura em °F   = 0.785
+
+== 2. Pearson x Spearman ==
+chuva x aluguéis: Pearson = -0.330 | Spearman = -0.253
+distância x duração: Pearson = 0.297 | Spearman = 0.895  (outliers derrubam o Pearson)
+pearsonr temperatura x aluguéis: r = 0.785, p-valor = 6.1e-154
+
+== 3. Matriz de correlação ==
+                    temperatura_c  sensacao_termica_c  ...  chuva_mm  alugueis
+temperatura_c                1.00                0.99  ...     -0.03      0.79
+sensacao_termica_c           0.99                1.00  ...     -0.02      0.77
+umidade_pct                 -0.42               -0.41  ...      0.05     -0.37
+vento_kmh                    0.01                0.01  ...     -0.01     -0.18
+chuva_mm                    -0.03               -0.02  ...      1.00     -0.33
+alugueis                     0.79                0.77  ...     -0.33      1.00
+
+[6 rows x 6 columns]
+
+correlação de cada variável com o alvo:
+temperatura_c         0.79
+sensacao_termica_c    0.77
+umidade_pct          -0.37
+chuva_mm             -0.33
+vento_kmh            -0.18
+Name: alugueis, dtype: float64
+
+== 4. Multicolinearidade e VIF ==
+VIF com as duas temperaturas:
+ temperatura_c         62.3
+sensacao_termica_c    61.8
+umidade_pct            1.2
+vento_kmh              1.0
+chuva_mm               1.0
+dtype: float64
+
+VIF sem sensacao_termica_c:
+ temperatura_c    1.2
+umidade_pct      1.2
+vento_kmh        1.0
+chuva_mm         1.0
+dtype: float64
+
+== 5. Variância como filtro de atributos ==
+variâncias brutas:
+ temperatura_c    23.17
+umidade_pct      75.63
+vento_kmh        53.78
+chuva_mm         26.70
+feriado           0.03
+fim_semana        0.20
+dtype: float64
+
+variâncias após padronização: [1.]
+
+VarianceThreshold(0.05) mantém: ['temperatura_c', 'umidade_pct', 'vento_kmh', 'chuva_mm', 'fim_semana']
+descartadas: ['feriado']
+
+== 6. Correlação não é causa: o papel da estação do ano ==
+temperatura x aluguéis (ano todo): 0.785
+temperatura x aluguéis (só verão): 0.517
+umidade x aluguéis: -0.369 | mas umidade x temperatura: -0.421
+umidade x aluguéis, descontada a temperatura: -0.069 (praticamente some)
+
+== 7. Paradoxo de Simpson ==
+nota x valor (todas as viagens): -0.168
+bicicleta
+comum       0.424
+eletrica    0.776
+dtype: float64
+           valor_rs  nota
+bicicleta                
+comum          7.86  4.64
+eletrica      18.60  2.21
+
+== 8. Checklist: função de resumo estatístico ==
+              media  mediana  desvio    cv_%  skew  ausentes_%       alerta
+distancia_km   3.30     2.80    2.22   67.52  1.41         0.0  assimétrica
+duracao_min   19.10    12.80   35.40  185.28  8.81         0.0  assimétrica
+valor_rs      11.40     8.34    9.86   86.50  3.11         0.0  assimétrica
+nota           3.84     4.00    1.31   34.14 -0.78         0.0             
+
+ok

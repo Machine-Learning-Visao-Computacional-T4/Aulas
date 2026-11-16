@@ -1,0 +1,58 @@
+== 1. Primeiro olhar ==
+(731, 10) (5000, 8)
+        data  temperatura_c  chuva_mm  alugueis
+0 2024-01-01           26.9      22.4       206
+1 2024-01-02           29.8       0.0       567
+2 2024-01-03           29.5       0.0       629
+
+== 2. Medidas de tendência central ==
+média   = 444.7
+mediana = 443.0
+moda    = 0 (dia da semana mais frequente)
+duração: média = 19.1 min | mediana = 12.8 min
+
+== 3. Dispersão: variância, desvio padrão, amplitude ==
+variância (pandas, ddof=1) = 19217.4
+variância (NumPy, ddof=0)  = 19191.1
+desvio padrão (ddof=1)     = 138.6
+amplitude = 766
+coeficiente de variação = 31.2%
+CV de temperatura vs alugueis: 22.9 % 31.2 %
+
+== 4. Quartis e IQR ==
+Q1=343  Q2=443  Q3=548  IQR=205
+{0.05: 234.0, 0.95: 684.0}
+
+== 5. describe() e agg() ==
+       temperatura_c  chuva_mm  alugueis
+count         731.00    731.00    731.00
+mean           21.04      1.32    444.65
+std             4.81      5.17    138.63
+min             9.40      0.00     39.00
+25%            17.10      0.00    343.00
+50%            20.90      0.00    443.00
+75%            25.20      0.00    548.00
+max            30.60     47.80    805.00
+        chuva_mm  alugueis
+mean        1.32    444.65
+median      0.00    443.00
+std         5.17    138.63
+skew        5.74      0.03
+kurt       38.48     -0.34
+
+== 6. Estatísticas por grupo ==
+            count   mean  median    std
+fim_semana                             
+False         523  403.7   404.0  119.0
+True          208  547.5   554.5  131.2
+           mean  median   std
+bicicleta                    
+comum      21.0    14.5  35.9
+eletrica   15.3    10.1  34.0
+
+== 7. Outliers pela regra do IQR ==
+limite superior = 41.9 min | viagens acima: 237 (4.7%)
+maior duração = 496 min (8.3 h)
+média sem os outliers: 14.2 | mediana sem: 12.3
+
+ok
