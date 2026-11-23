@@ -1,0 +1,4 @@
+ruído de  0 pontos: coeficiente da ocupação = 1.65 | erro no teste = 35.0 kWh
+ruído de 10 pontos: coeficiente da ocupação = 0.55 | erro no teste = 35.5 kWh
+ruído de 20 pontos: coeficiente da ocupação = 0.23 | erro no teste = 36.7 kWh
+ruído de 40 pontos: coeficiente da ocupação = 0.15 | erro no teste = 36.9 kWh

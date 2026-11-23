@@ -1,0 +1,7 @@
+== curva de aprendizado (erro de validação) ==
+linear {58: 35.6, 233: 34.1, 584: 33.5}
+árvore {58: 45.0, 233: 37.4, 584: 32.9}
+
+== ocupação nos dois campi ==
+KS = 0.38 | p-valor = 6.2e-19
+viés no campus da serra = +36.1 kWh | erro absoluto = 55.0 kWh
