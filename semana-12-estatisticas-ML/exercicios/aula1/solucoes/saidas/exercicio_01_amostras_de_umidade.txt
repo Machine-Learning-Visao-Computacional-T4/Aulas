@@ -1,0 +1,3 @@
+média da população = 69.77 % | desvio padrão = 8.93
+n =  30: desvio das médias = 1.64 | erro padrão teórico = 1.63
+n = 120: desvio das médias = 0.76 | erro padrão teórico = 0.81

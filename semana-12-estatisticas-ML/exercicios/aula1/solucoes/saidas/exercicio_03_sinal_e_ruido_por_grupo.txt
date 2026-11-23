@@ -1,0 +1,12 @@
+             mean   std  count
+dia_semana                    
+0           541.9  48.0    105
+1           542.7  53.6    104
+2           540.6  55.5    104
+3           548.8  53.8    104
+4           543.3  55.4    104
+5           369.2  55.6    104
+6           367.2  54.0    105
+variância total = 9143
+variância dentro dos grupos (dia útil x fim de semana) = 2868
+fração da variação explicada pelo tipo de dia = 68.6%

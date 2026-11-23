@@ -1,0 +1,21 @@
+== métricas no teste ==
+MAE = 35.0 | RMSE = 43.0 | MAPE = 7.3% | R² = 0.812
+baseline: MAE = 82.0 | R² = -0.002
+
+== validação cruzada (MAE) ==
+baseline                  77.1 ± 4.8 kWh
+regressão                 32.9 ± 2.6 kWh
+árvore (profundidade 4)   32.6 ± 1.7 kWh
+
+== erro por tipo de dia ==
+          viés  erro_absoluto
+dia_util                     
+0          6.9           35.5
+1          7.0           34.7
+
+== custo com margem de segurança (faltar custa 5, sobrar custa 1) ==
+margem de  0 kWh: custo médio = 118.8
+margem de 20 kWh: custo médio =  81.8
+margem de 40 kWh: custo médio =  65.0
+margem de 60 kWh: custo médio =  64.5
+margem de 80 kWh: custo médio =  76.6

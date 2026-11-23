@@ -1,0 +1,5 @@
+MAE  manual = 34.967 | scikit-learn = 34.967
+MSE  manual = 1852.4 | scikit-learn = 1852.4
+RMSE manual = 43.039
+R²   manual = 0.8120 | scikit-learn = 0.8120
+os valores coincidem? True

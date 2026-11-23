@@ -1,0 +1,3 @@
+umidade: desvio das médias = 1.64 | erro padrão teórico = 1.63
+mediana da ocupação (amostra de 40 dias) = 64.0 | intervalo 95% = [53.5; 70.0]
+baseline = 82.0 kWh | regressão só com temperatura = 80.4 kWh | redução = 1.8%

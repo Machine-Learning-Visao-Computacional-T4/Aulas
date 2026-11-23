@@ -1,0 +1,36 @@
+== 1. Mais dados, melhor modelo? ==
+ linhas_no_treino  erro_treino  erro_validacao
+               29          4.2            50.4
+               58         11.5            45.0
+              116         15.9            41.5
+              233         20.5            37.4
+              408         23.6            34.2
+              584         25.4            32.9
+
+== 2. Ruído na medição da entrada ==
+ruído de 0 °C: coeficiente da temperatura =  6.21 | erro no teste = 35.0 kWh
+ruído de 2 °C: coeficiente da temperatura =  5.13 | erro no teste = 35.4 kWh
+ruído de 4 °C: coeficiente da temperatura =  3.40 | erro no teste = 38.6 kWh
+ruído de 8 °C: coeficiente da temperatura =  1.67 | erro no teste = 40.1 kWh
+
+== 3. Dados contaminados e modelos robustos ==
+linhas com leitura defeituosa (x5): 16 de 547
+linear, dados limpos         erro no teste =   35.0 kWh
+linear, dados contaminados   erro no teste =   59.2 kWh
+Huber, dados contaminados    erro no teste =   34.7 kWh
+
+== 4. Colunas irrelevantes ==
+ 0 colunas inúteis: erro no treino =  28.3 | erro no teste =  35.9
+10 colunas inúteis: erro no treino =  23.1 | erro no teste =  39.9
+30 colunas inúteis: erro no treino =  18.6 | erro no teste =  48.3
+50 colunas inúteis: erro no treino =   4.0 | erro no teste = 136.2
+
+== 5. Quando os dados mudam: deslocamento de distribuição ==
+               campus_principal  campus_serra
+temperatura_c              22.1          16.0
+ocupacao_pct               52.8          45.6
+consumo_kwh               493.3         478.5
+teste KS da temperatura: estatística = 0.55 | p-valor = 4.8e-41
+erro no teste do campus principal = 35.0 kWh
+erro no campus da serra           = 55.0 kWh
+viés (erro médio com sinal)       = +36.1 kWh

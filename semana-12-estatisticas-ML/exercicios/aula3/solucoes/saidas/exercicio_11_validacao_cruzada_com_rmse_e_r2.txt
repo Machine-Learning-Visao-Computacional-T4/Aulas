@@ -1,0 +1,3 @@
+baseline (média)         MAE =  77.1 | RMSE =  95.8 | R² = -0.021 ± 0.032
+regressão linear         MAE =  32.9 | RMSE =  41.2 | R² =  0.811 ± 0.018
+árvore (profundidade 4)  MAE =  32.6 | RMSE =  40.8 | R² =  0.812 ± 0.027

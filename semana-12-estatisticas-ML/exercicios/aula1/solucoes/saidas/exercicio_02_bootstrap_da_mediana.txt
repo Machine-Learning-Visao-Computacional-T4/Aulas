@@ -1,0 +1,3 @@
+mediana real = 65.0 | mediana da amostra = 64.0
+intervalo de 95% = [53.5; 70.0]
+em 20 amostras, o intervalo continha a mediana real em 20 casos

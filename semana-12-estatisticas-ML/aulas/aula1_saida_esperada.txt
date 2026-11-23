@@ -1,0 +1,56 @@
+== 1. Os dados do campus ==
+(730, 8)
+        data  temperatura_c  ocupacao_pct  dia_util  consumo_kwh
+0 2023-01-01           20.3            24         0        419.7
+1 2023-01-02           23.3            79         1        509.1
+2 2023-01-03           23.1            62         1        469.3
+count    730.0
+mean     493.3
+std       95.7
+min      242.3
+25%      430.0
+50%      512.5
+75%      557.1
+max      717.1
+Name: consumo_kwh, dtype: float64
+
+== 2. População e amostra ==
+média da população (730 dias) = 493.3 kWh
+média de UMA amostra de 30 dias = 480.0 kWh
+1000 amostras: média das médias = 493.6 | desvio das médias = 17.1
+erro padrão teórico (desvio / raiz de 30) = 17.5
+
+== 3. Incerteza da estimativa: bootstrap ==
+média estimada = 480.0 kWh
+intervalo de 95% (bootstrap) = [441.1; 518.4]
+a média real 493.3 está dentro do intervalo? True
+
+== 4. Sinal e ruído ==
+           mean   std  count
+dia_util                    
+0         368.2  54.7    209
+1         543.4  53.2    521
+                   mean   std
+temperatura_c                
+(11.099, 18.425]  468.9  88.7
+(18.425, 22.2]    476.4  93.3
+(22.2, 25.7]      482.8  92.3
+(25.7, 33.1]      546.0  89.0
+
+== 5. Aprender é estimar ==
+intercepto = 208.1
+temperatura_c   coeficiente =   6.21
+ocupacao_pct    coeficiente =   1.65
+dia_util        coeficiente =  79.81
+evento          coeficiente =  51.20
+previsão para o dia novo = 594.2 kWh
+
+== 6. O baseline estatístico ==
+baseline (sempre a média = 492.0 kWh): erro médio = 82.0 kWh
+regressão linear: erro médio = 35.0 kWh
+redução do erro = 57.3%
+
+== 7. O modelo como média condicional ==
+dias parecidos com o dia novo: 43
+média real desses dias = 598.1 kWh
+previsão do modelo       = 594.2 kWh

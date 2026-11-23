@@ -1,0 +1,9 @@
+ profundidade  erro_treino  erro_teste
+            1         40.9        45.7
+            2         33.5        38.0
+            3         30.8        34.1
+            4         29.4        31.4
+            6         25.5        32.8
+            8         19.6        35.9
+           12          7.9        41.1
+menor erro de teste: profundidade 4 com 31.4 kWh

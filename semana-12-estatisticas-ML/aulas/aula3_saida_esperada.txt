@@ -1,0 +1,52 @@
+== 1. O erro de cada previsão: o resíduo ==
+   real_kwh  previsto_kwh  residuo_kwh
+0     334.8         398.8        -64.0
+1     516.8         542.7        -25.9
+2     460.9         485.4        -24.5
+3     503.0         536.1        -33.1
+4     556.8         567.8        -11.0
+média dos resíduos (com sinal) = +6.97 kWh
+média dos resíduos em módulo   = 34.97 kWh
+
+== 2. MAE, MSE, RMSE, MAPE e R² ==
+MAE  = 35.0 kWh
+MSE  = 1852.4 kWh²
+RMSE = 43.0 kWh
+MAPE = 7.3%
+R²   = 0.812
+com UM erro de 400 kWh: MAE = 37.2 | RMSE = 54.8
+
+== 3. O R² e o baseline ==
+R² do baseline (sempre a média) = -0.002
+R² do modelo = 1 - 338,984 / 1,807,505 = 0.812
+
+== 4. Treino x teste: subajuste e superajuste ==
+dias comparáveis: 170 | treino = 15 | teste = 155
+ grau  erro_treino  erro_teste
+    1         27.8        31.5
+    2         22.2        31.8
+    4         21.6        30.4
+    8         20.5        40.5
+   12         20.6        53.0
+
+== 5. O desempenho também varia: validação cruzada ==
+10 divisões treino/teste diferentes: MAE de 31.1 a 34.9 kWh
+baseline (média)         MAE =  77.1 ± 4.8 kWh
+regressão linear         MAE =  32.9 ± 2.6 kWh
+árvore (profundidade 4)  MAE =  32.6 ± 1.7 kWh
+
+== 6. Onde o modelo erra ==
+                            erro_medio_com_sinal  erro_absoluto
+faixa_de_temperatura                                           
+(11.299000000000001, 19.2]                  20.5           33.6
+(19.2, 22.9]                               -12.1           31.8
+(22.9, 25.8]                                -5.7           34.7
+(25.8, 31.6]                                25.8           40.0
+percentil 90 do erro absoluto = 71.2 kWh
+
+== 7. Erro e decisão: o custo não é simétrico ==
+margem de  0 kWh: custo médio =  76.9 pontos
+margem de 10 kWh: custo médio =  66.2 pontos
+margem de 20 kWh: custo médio =  58.9 pontos
+margem de 30 kWh: custo médio =  55.4 pontos
+margem de 50 kWh: custo médio =  56.4 pontos
